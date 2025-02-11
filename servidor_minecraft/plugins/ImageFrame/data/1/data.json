@@ -1,0 +1,59 @@
+{
+  "type": "com.loohp.imageframe.objectholders.URLStaticImageMap",
+  "index": 1,
+  "name": "momo",
+  "url": "https://i.imgur.com/f0Jymz1.jpeg",
+  "width": 3,
+  "height": 3,
+  "ditheringType": "nearest-color",
+  "creator": "60f425a3-b4ca-31c1-a532-8475c0b676c0",
+  "hasAccess": {},
+  "creationTime": 1739198017476,
+  "mapdata": [
+    {
+      "mapid": 56,
+      "image": "0.png",
+      "markers": []
+    },
+    {
+      "mapid": 57,
+      "image": "1.png",
+      "markers": []
+    },
+    {
+      "mapid": 58,
+      "image": "2.png",
+      "markers": []
+    },
+    {
+      "mapid": 59,
+      "image": "3.png",
+      "markers": []
+    },
+    {
+      "mapid": 60,
+      "image": "4.png",
+      "markers": []
+    },
+    {
+      "mapid": 61,
+      "image": "5.png",
+      "markers": []
+    },
+    {
+      "mapid": 62,
+      "image": "6.png",
+      "markers": []
+    },
+    {
+      "mapid": 63,
+      "image": "7.png",
+      "markers": []
+    },
+    {
+      "mapid": 64,
+      "image": "8.png",
+      "markers": []
+    }
+  ]
+}
