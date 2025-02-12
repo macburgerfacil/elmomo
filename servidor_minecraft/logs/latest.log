@@ -421,3 +421,21 @@ Reason: Banned by an operator.
 [16:27:11] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> 3864 249 370
 [16:28:27] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> 3833 148 132
 [16:28:48] [Async Chat Thread - #12/INFO]: [Not Secure] <TeeRobZti> asd
+[16:28:53] [User Authenticator #9/INFO]: UUID of player wolftho is f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[16:28:56] [Server thread/INFO]: wolftho joined the game
+[16:28:56] [Server thread/INFO]: wolftho[/100.78.205.119:54098] logged in with entity id 3182 at ([world]1674.873020309146, -20.0, 1220.040882364312)
+[16:28:57] [Server thread/INFO]: [voicechat] Received secret request of wolftho (18)
+[16:28:57] [Server thread/INFO]: [voicechat] Sent secret to wolftho
+[16:28:58] [Server thread/INFO]: qSeren issued server command: /deop TeeRobZti
+[16:28:58] [Server thread/INFO]: [qSeren: Made TeeRobZti no longer a server operator]
+[16:28:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[16:29:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[16:29:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player wolftho (f2a8b90a-419e-3129-9a21-c5acf9c4bff1) successfully connected to voice chat
+[16:30:20] [Server thread/INFO]: qSeren issued server command: /msg TeeRobZti 3833 148 132
+[16:31:21] [Async Chat Thread - #16/INFO]: [Not Secure] <TeeRobZti> asd
+[16:32:44] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-55, y=-52, z=1054}
+[16:38:38] [Async Chat Thread - #18/INFO]: [Not Secure] <wolftho> AMIGO MI MOUSE
+[16:38:42] [Async Chat Thread - #18/INFO]: [Not Secure] <wolftho> SE DESCONECTO
+[16:38:53] [Server thread/INFO]: wolftho lost connection: Disconnected
+[16:38:53] [Server thread/INFO]: [voicechat] Disconnecting client wolftho
+[16:38:53] [Server thread/INFO]: wolftho left the game
