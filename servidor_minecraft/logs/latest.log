@@ -994,3 +994,11 @@
 [02:22:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
 [02:22:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
 [02:22:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[02:29:18] [Async Chat Thread - #67/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[02:31:23] [Async Chat Thread - #69/INFO]: [Not Secure] <Gatunixdd> ggz
+[02:31:24] [Server thread/INFO]: Gatunixdd lost connection: Disconnected
+[02:31:24] [Server thread/INFO]: [voicechat] Disconnecting client Gatunixdd
+[02:31:24] [Server thread/INFO]: Gatunixdd left the game
+[02:37:13] [Server thread/WARN]: qSeren moved wrongly!
+[02:39:00] [Async Chat Thread - #71/INFO]: [Not Secure] <XxLinkGamer21xX> Eficiencia 4 a 53
+[02:39:03] [Async Chat Thread - #71/INFO]: [Not Secure] <XxLinkGamer21xX> Baratísimo
