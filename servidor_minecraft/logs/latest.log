@@ -222,3 +222,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 [15:47:47] [Async Chat Thread - #2/INFO]: [Not Secure] <TeeRobZti> sadasd
 [15:47:47] [Async Chat Thread - #3/INFO]: [Not Secure] <TeeRobZti> asd
 [15:47:49] [Async Chat Thread - #3/INFO]: [Not Secure] <TeeRobZti> asd
+[15:48:15] [Async Chat Thread - #3/INFO]: [Not Secure] <TeeRobZti> sad
+[15:48:16] [Async Chat Thread - #3/INFO]: [Not Secure] <TeeRobZti> asd
+[15:48:17] [Server thread/INFO]: TeeRobZti lost connection: Disconnected
+[15:48:17] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[15:48:17] [Server thread/INFO]: TeeRobZti left the game
+[15:53:15] [User Authenticator #6/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[15:53:25] [Server thread/INFO]: TeeRobZti joined the game
+[15:53:25] [Server thread/INFO]: TeeRobZti[/100.127.70.41:58686] logged in with entity id 918 at ([world_nether]6.613193900042395, 42.0, 24.00293783551287)
+[15:53:26] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[15:53:26] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[15:53:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[15:53:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[15:53:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[15:53:33] [Async Chat Thread - #4/INFO]: [Not Secure] <TeeRobZti> momo
+[15:53:34] [Async Chat Thread - #4/INFO]: [Not Secure] <TeeRobZti> ?
+[15:54:04] [Server thread/INFO]: TeeRobZti issued server command: /tp qSeren
+[15:54:04] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to qSeren]
+[15:55:56] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[15:55:56] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[15:56:13] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[15:56:13] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[15:57:14] [Server thread/INFO]: TeeRobZti issued server command: /tp qSeren
+[15:57:14] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to qSeren]
+[15:58:03] [Server thread/INFO]: TeeRobZti has made the advancement [Imbuements]
