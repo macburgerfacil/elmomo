@@ -246,3 +246,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 [15:57:14] [Server thread/INFO]: TeeRobZti issued server command: /tp qSeren
 [15:57:14] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to qSeren]
 [15:58:03] [Server thread/INFO]: TeeRobZti has made the advancement [Imbuements]
+[16:00:48] [Server thread/INFO]: qSeren issued server command: //hcyl glowstone 10
+[16:00:57] [Server thread/INFO]: qSeren issued server command: //hcyl pearlescent_frogligh 10
+[16:01:00] [Server thread/INFO]: qSeren issued server command: //hcyl pearlescent_froglight 10
+[16:01:10] [Server thread/INFO]: qSeren issued server command: //hcyl glow_lichen 10
+[16:01:32] [Server thread/INFO]: qSeren issued server command: //hcyl shroomlight 10
+[16:02:19] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
+[16:02:19] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
+[16:02:22] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[16:02:22] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
