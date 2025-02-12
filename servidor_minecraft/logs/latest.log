@@ -440,3 +440,49 @@ Reason: Banned by an operator.
 [16:38:53] [Server thread/INFO]: [voicechat] Disconnecting client wolftho
 [16:38:53] [Server thread/INFO]: wolftho left the game
 [16:41:45] [Async Chat Thread - #20/INFO]: [Not Secure] <TeeRobZti> 1880 -360
+[16:50:11] [User Authenticator #10/INFO]: UUID of player wolftho is f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[16:50:14] [Server thread/INFO]: wolftho joined the game
+[16:50:14] [Server thread/INFO]: wolftho[/100.78.205.119:63750] logged in with entity id 9390 at ([world]1558.699999988079, -20.0, 1248.300000011921)
+[16:50:14] [Server thread/INFO]: [voicechat] Received secret request of wolftho (18)
+[16:50:14] [Server thread/INFO]: [voicechat] Sent secret to wolftho
+[16:50:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[16:50:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[16:50:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player wolftho (f2a8b90a-419e-3129-9a21-c5acf9c4bff1) successfully connected to voice chat
+[16:51:19] [User Authenticator #11/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[16:51:23] [Server thread/INFO]: iRagc joined the game
+[16:51:23] [Server thread/INFO]: iRagc[/100.84.182.88:63881] logged in with entity id 9734 at ([world]1300.699999988079, 79.24813599859094, 1260.0711199228817)
+[16:51:24] [Server thread/INFO]: [voicechat] Received secret request of iRagc (18)
+[16:51:24] [Server thread/INFO]: [voicechat] Sent secret to iRagc
+[16:51:27] [Async Chat Thread - #22/INFO]: [Not Secure] <TeeRobZti> hola iRagc
+[16:51:28] [Async Chat Thread - #22/INFO]: [Not Secure] <TeeRobZti> hola iRagc
+[16:51:29] [Async Chat Thread - #22/INFO]: [Not Secure] <TeeRobZti> hola iRagc
+[16:51:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[16:51:29] [Async Chat Thread - #22/INFO]: [Not Secure] <TeeRobZti> hola iRagc
+[16:51:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[16:51:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player iRagc (67ea92e7-d0b5-38d9-9052-76eb288fcd52) successfully connected to voice chat
+[16:51:32] [Async Chat Thread - #22/INFO]: [Not Secure] <TeeRobZti> como estas iRagc
+[16:51:34] [Async Chat Thread - #22/INFO]: [Not Secure] <iRagc> mal
+[16:51:38] [Async Chat Thread - #22/INFO]: [Not Secure] <TeeRobZti> porque bro
+[16:51:52] [Async Chat Thread - #22/INFO]: [Not Secure] <wolftho> a
+[16:51:53] [Async Chat Thread - #22/INFO]: [Not Secure] <wolftho> si
+[16:51:53] [Async Chat Thread - #22/INFO]: [Not Secure] <wolftho> XD
+[16:52:56] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives modify Muertes rendertype integer
+[16:52:59] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives modify Muertes rendertype hearts
+[16:52:59] [Server thread/INFO]: [qSeren: Changed the render type of objective [Muertes]]
+[16:53:02] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives modify Muertes rendertype integer
+[16:53:02] [Server thread/INFO]: [qSeren: Changed the render type of objective [Muertes]]
+[16:53:09] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives modify Muertes
+[16:53:47] [Async Chat Thread - #24/INFO]: [Not Secure] <wolftho> gatuni se conecta un poco tarde porque tiene que hacer tarea xd
+[16:54:50] [Server thread/INFO]: iRagc issued server command: /msg wolftho pasa coords de las escaleras de la base
+[16:55:02] [Server thread/INFO]: wolftho issued server command: /tell iRagc nose xd espera lo busco
+[16:56:31] [Async Chat Thread - #28/INFO]: [Not Secure] <wolftho> como lo supiste bro
+[16:57:29] [Server thread/INFO]: wolftho issued server command: /tell iRagc 1716 1191
+[16:57:44] [Server thread/INFO]: wolftho issued server command: /tell iRagc le voy a mandar unas cords al teerob a ver si se lo cree xd
+[16:58:13] [Server thread/INFO]: wolftho issued server command: /msg TeeRobZti 2254 1579
+[16:58:15] [Async Chat Thread - #28/INFO]: [Not Secure] <wolftho> puta
+[16:58:15] [Async Chat Thread - #30/INFO]: [Not Secure] <wolftho> XD
+[16:58:24] [Async Chat Thread - #30/INFO]: [Not Secure] <wolftho> le pase las cords de la base
+[16:58:24] [Async Chat Thread - #30/INFO]: [Not Secure] <wolftho> tmr
+[16:58:33] [Async Chat Thread - #30/INFO]: [Not Secure] <wolftho> si
+[16:59:16] [Async Chat Thread - #30/INFO]: [Not Secure] <wolftho> yo ando minando xd
+[16:59:34] [Async Chat Thread - #30/INFO]: [Not Secure] <wolftho> no
