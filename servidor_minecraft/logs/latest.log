@@ -1345,3 +1345,13 @@
 [04:19:36] [Paper Common Worker #0/WARN]: Empty height range: [-20 absolute-5 above bottom]
 [04:20:17] [Paper Common Worker #0/WARN]: Empty height range: [-20 absolute-5 above bottom]
 [04:21:42] [Async Chat Thread - #107/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[04:24:54] [Server thread/INFO]: qSeren has made the advancement [A Major Trial Of Strengh]
+[04:26:01] [Server thread/INFO]: qSeren lost connection: Disconnected
+[04:26:01] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[04:26:01] [Server thread/INFO]: qSeren left the game
+[04:26:14] [Server thread/INFO]: Villager Villager['Villager'/98127, uuid='1f0de2a3-e0c2-4633-93b7-f06a43085f4b', l='ServerLevel[world]', x=1733.11, y=-20.00, z=1155.30, cpos=[108, 72], tl=388945, v=true] died, message: 'Villager was squished too much'
+[04:27:25] [Server thread/INFO]: Villager Villager['Villager'/98126, uuid='462b3af1-3085-4d68-9ed3-040de15de61c', l='ServerLevel[world]', x=1733.14, y=-20.00, z=1155.70, cpos=[108, 72], tl=36960, v=true] died, message: 'Villager was squished too much'
+[04:29:54] [Server thread/INFO]: TeeRobZti has made the advancement [Geology Rocks!]
+[04:32:49] [Server thread/INFO]: wolftho lost connection: Disconnected
+[04:32:49] [Server thread/INFO]: [voicechat] Disconnecting client wolftho
+[04:32:49] [Server thread/INFO]: wolftho left the game
