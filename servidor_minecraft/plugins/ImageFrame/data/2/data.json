@@ -1,0 +1,59 @@
+{
+  "type": "com.loohp.imageframe.objectholders.URLStaticImageMap",
+  "index": 2,
+  "name": "wtf",
+  "url": "https://i.imgur.com/q5j1Q8D.jpeg",
+  "width": 3,
+  "height": 3,
+  "ditheringType": "nearest-color",
+  "creator": "60f425a3-b4ca-31c1-a532-8475c0b676c0",
+  "hasAccess": {},
+  "creationTime": 1739401881565,
+  "mapdata": [
+    {
+      "mapid": 86,
+      "image": "0.png",
+      "markers": []
+    },
+    {
+      "mapid": 87,
+      "image": "1.png",
+      "markers": []
+    },
+    {
+      "mapid": 88,
+      "image": "2.png",
+      "markers": []
+    },
+    {
+      "mapid": 89,
+      "image": "3.png",
+      "markers": []
+    },
+    {
+      "mapid": 90,
+      "image": "4.png",
+      "markers": []
+    },
+    {
+      "mapid": 91,
+      "image": "5.png",
+      "markers": []
+    },
+    {
+      "mapid": 92,
+      "image": "6.png",
+      "markers": []
+    },
+    {
+      "mapid": 93,
+      "image": "7.png",
+      "markers": []
+    },
+    {
+      "mapid": 94,
+      "image": "8.png",
+      "markers": []
+    }
+  ]
+}
