@@ -1002,3 +1002,40 @@
 [02:37:13] [Server thread/WARN]: qSeren moved wrongly!
 [02:39:00] [Async Chat Thread - #71/INFO]: [Not Secure] <XxLinkGamer21xX> Eficiencia 4 a 53
 [02:39:03] [Async Chat Thread - #71/INFO]: [Not Secure] <XxLinkGamer21xX> Baratísimo
+[02:41:45] [Async Chat Thread - #73/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[02:45:06] [Server thread/INFO]: TeeRobZti has made the advancement [Sneak 100]
+[02:45:57] [Server thread/INFO]: qSeren has made the advancement [Cavernous: Ancient Secrets]
+[02:45:58] [Server thread/INFO]: qSeren has made the advancement [Hint: Water?]
+[02:48:41] [User Authenticator #16/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[02:48:50] [Server thread/INFO]: lg_santiago_1 joined the game
+[02:48:50] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:52046] logged in with entity id 66640 at ([world]1631.5282340769124, 72.0, 1154.486185624598)
+[02:48:50] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[02:48:50] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[02:48:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[02:48:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[02:48:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[02:48:54] [Async Chat Thread - #75/INFO]: [Not Secure] <TeeRobZti> MOMOOOOOO
+[02:49:27] [Async Chat Thread - #75/INFO]: [Not Secure] <lg_santiago_1> che
+[02:49:31] [Async Chat Thread - #75/INFO]: [Not Secure] <XxLinkGamer21xX> Me dieron ganas de armar una guerra: ¿Palta o aguacate?
+[02:49:37] [Async Chat Thread - #75/INFO]: [Not Secure] <TeeRobZti> Palta
+[02:49:43] [Async Chat Thread - #75/INFO]: [Not Secure] <XxLinkGamer21xX> Eres de los míos, teerob
+[02:49:44] [Async Chat Thread - #75/INFO]: [Not Secure] <lg_santiago_1> hagamos un grupo para hablar
+[02:52:34] [Async Chat Thread - #77/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[02:52:59] [Server thread/INFO]: qSeren lost connection: Disconnected
+[02:52:59] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[02:52:59] [Server thread/INFO]: qSeren left the game
+[02:53:10] [Async Chat Thread - #77/INFO]: [Not Secure] <lg_santiago_1> terob
+[02:53:12] [Server thread/INFO]: TeeRobZti issued server command: /q
+[02:53:13] [Async Chat Thread - #77/INFO]: [Not Secure] <TeeRobZti> q
+[02:53:16] [Async Chat Thread - #77/INFO]: [Not Secure] <XxLinkGamer21xX> Me encantó el evento que se hizo hoy
+[02:53:17] [Async Chat Thread - #77/INFO]: [Not Secure] <XxLinkGamer21xX> 10 de 10
+[02:53:23] [Async Chat Thread - #77/INFO]: [Not Secure] <lg_santiago_1> vendeme el libro
+[02:53:30] [Async Chat Thread - #77/INFO]: [Not Secure] <lg_santiago_1> los libros
+[02:53:33] [Async Chat Thread - #77/INFO]: [Not Secure] <TeeRobZti> tengo el riptide 3
+[02:53:45] [Async Chat Thread - #77/INFO]: [Not Secure] <lg_santiago_1> a cuanto
+[02:53:50] [Async Chat Thread - #77/INFO]: [Not Secure] <TeeRobZti> ando en cueva
+[02:53:52] [Async Chat Thread - #77/INFO]: [Not Secure] <TeeRobZti> luego ve
+[02:53:59] [Async Chat Thread - #77/INFO]: [Not Secure] <lg_santiago_1> momo
+[02:57:22] [Server thread/INFO]: Villager Villager['Villager'/66720, uuid='c63ac886-283c-45a1-b0f5-b03f6abf1bd3', l='ServerLevel[world]', x=1733.24, y=-20.00, z=1155.70, cpos=[108, 72], tl=420262, v=true] died, message: 'Villager was squished too much'
+[02:59:05] [Server thread/INFO]: TeeRobZti has made the advancement [Cavernous: Ancient Secrets]
+[02:59:06] [Server thread/INFO]: TeeRobZti has made the advancement [Hint: Water?]
