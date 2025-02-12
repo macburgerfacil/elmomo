@@ -53,11 +53,13 @@
       "minecraft:lukewarm_ocean": "2025-02-08 02:08:26 +0000",
       "minecraft:stony_shore": "2025-02-10 22:28:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-07 23:37:53 +0000",
+      "minecraft:desert": "2025-02-12 02:15:43 +0000",
       "minecraft:ocean": "2025-02-07 23:37:07 +0000",
       "minecraft:jungle": "2025-02-08 00:05:28 +0000",
       "minecraft:birch_forest": "2025-02-07 23:39:10 +0000",
       "minecraft:savanna": "2025-02-08 02:07:09 +0000",
       "minecraft:bamboo_jungle": "2025-02-08 00:08:45 +0000",
+      "minecraft:wooded_badlands": "2025-02-12 02:15:20 +0000",
       "minecraft:plains": "2025-02-08 00:10:07 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-07 23:16:49 +0000"
     },
@@ -1044,7 +1046,9 @@
     "criteria": {
       "lush_dripstone_caves": "2025-02-12 00:05:21 +0000",
       "caves": "2025-02-07 23:43:20 +0000",
-      "tropical_caves": "2025-02-11 23:44:44 +0000"
+      "arid_caves": "2025-02-12 02:20:13 +0000",
+      "tropical_caves": "2025-02-11 23:44:44 +0000",
+      "desert_caves": "2025-02-12 02:21:27 +0000"
     },
     "done": false
   },
@@ -1060,6 +1064,7 @@
       "minecraft:skeleton": "2025-02-08 00:17:57 +0000",
       "minecraft:phantom": "2025-02-10 23:07:42 +0000",
       "minecraft:witch": "2025-02-08 00:01:28 +0000",
+      "minecraft:husk": "2025-02-12 02:21:45 +0000",
       "minecraft:bogged": "2025-02-11 23:49:17 +0000",
       "minecraft:ghast": "2025-02-09 19:48:53 +0000",
       "minecraft:cave_spider": "2025-02-11 23:49:00 +0000",
@@ -3056,73 +3061,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "log_spam_fixer": "2025-02-12 02:23:42 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "log_spam_fixer": "2025-02-12 02:23:42 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "log_spam_fixer": "2025-02-12 02:23:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "requirement": "2025-02-12 02:23:43 +0000",
+      "log_spam_fixer": "2025-02-12 02:23:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "log_spam_fixer": "2025-02-12 02:23:42 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "log_spam_fixer": "2025-02-12 02:23:42 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "log_spam_fixer": "2025-02-12 02:23:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "log_spam_fixer": "2025-02-12 02:23:42 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "log_spam_fixer": "2025-02-12 02:23:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "log_spam_fixer": "2025-02-12 02:23:42 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "log_spam_fixer": "2025-02-12 02:23:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "log_spam_fixer": "2025-02-12 02:23:42 +0000"
     },
     "done": false
   },
@@ -3186,6 +3192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-02-12 02:17:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-02-11 23:45:15 +0000"
@@ -3231,6 +3243,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-11 23:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-02-12 02:17:44 +0000"
     },
     "done": true
   },
@@ -3465,6 +3483,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-02-11 23:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-12 02:18:23 +0000"
     },
     "done": true
   },
