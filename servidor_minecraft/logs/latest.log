@@ -352,3 +352,72 @@ Reason: Banned by an operator.
 [16:18:22] [Server thread/INFO]: qSeren issued server command: /tp TeeRobZti
 [16:18:22] [Server thread/INFO]: [qSeren: Teleported qSeren to TeeRobZti]
 [16:18:33] [Server thread/INFO]: qSeren issued server command: //set 25%polished_blackstone,25%blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
+[16:18:43] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[16:18:43] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[16:18:47] [Server thread/INFO]: qSeren issued server command: //set 25%polished_blackstone,25%blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
+[16:19:48] [Server thread/INFO]: qSeren has completed the challenge [Cover Me in Debris]
+[16:20:23] [Server thread/INFO]: qSeren issued server command: /advancement revoke qSeren only minecraft:nether/netherite_armor
+[16:20:23] [Server thread/INFO]: [qSeren: Revoked the advancement [Cover Me in Debris] from qSeren]
+[16:20:27] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
+[16:20:27] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
+[16:20:31] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[16:20:31] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[16:20:32] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[16:20:32] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[16:20:48] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[16:20:48] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[16:20:52] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[16:20:52] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[16:20:57] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[16:20:57] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[16:21:51] [Server thread/INFO]: qSeren issued server command: /tp 3383 127 233
+[16:21:51] [Server thread/INFO]: [qSeren: Teleported qSeren to 3383.500000, 127.000000, 233.500000]
+[16:21:54] [Server thread/INFO]: qSeren issued server command: /gamemode survival
+[16:21:54] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
+[16:22:07] [Server thread/INFO]: TeeRobZti issued server command: /tp qSeren
+[16:22:07] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to qSeren]
+[16:23:04] [Server thread/INFO]: qSeren issued server command: /give qSeren tnt
+[16:23:04] [Server thread/INFO]: [qSeren: Gave 1 [TNT] to qSeren]
+[16:23:15] [Server thread/INFO]: TeeRobZti issued server command: /tp 1800 -300
+[16:23:21] [Server thread/INFO]: TeeRobZti issued server command: /tp 1800 70 -300
+[16:23:21] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to 1800.500000, 70.000000, -299.500000]
+[16:23:23] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[16:23:23] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[16:23:32] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[16:23:32] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[16:23:54] [Server thread/INFO]: TeeRobZti issued server command: /tp qSeren
+[16:23:54] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to qSeren]
+[16:24:19] [Async Chat Thread - #8/INFO]: [Not Secure] <TeeRobZti> ASJSKAS
+[16:24:24] [Async Chat Thread - #8/INFO]: [Not Secure] <TeeRobZti> como se te escuchaba para la mierda amigo
+[16:24:30] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> SPRUCE
+[16:24:31] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> SPRUCE
+[16:24:38] [Paper Common Worker #0/WARN]: Empty height range: [-20 absolute-5 above bottom]
+[16:24:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 375e8eef-1b7d-320f-92ce-8498cff3acd8 timed out
+[16:24:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player TeeRobZti
+[16:24:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to TeeRobZti
+[16:24:39] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ANCIENT CITY TAMBIEN
+[16:24:42] [Paper Common Worker #0/WARN]: Empty height range: [-20 absolute-5 above bottom]
+[16:24:49] [Server thread/INFO]: TeeRobZti lost connection: Disconnected
+[16:24:49] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[16:24:49] [Server thread/INFO]: TeeRobZti left the game
+[16:24:49] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-55, y=-52, z=1054}
+[16:24:59] [User Authenticator #8/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[16:25:05] [Server thread/INFO]: TeeRobZti joined the game
+[16:25:05] [Server thread/INFO]: TeeRobZti[/100.127.70.41:58847] logged in with entity id 2649 at ([world]3549.0883693862183, 148.2797876515637, 304.07400446441096)
+[16:25:05] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[16:25:05] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[16:25:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[16:25:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[16:25:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[16:25:09] [Async Chat Thread - #8/INFO]: [Not Secure] <TeeRobZti> asd
+[16:25:10] [Async Chat Thread - #8/INFO]: [Not Secure] <TeeRobZti> asd
+[16:25:11] [Async Chat Thread - #8/INFO]: [Not Secure] <TeeRobZti> hola
+[16:25:15] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> jagged peaks
+[16:25:16] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> aca hay ancient
+[16:25:17] [Async Chat Thread - #9/INFO]: [Not Secure] <TeeRobZti> donde estas
+[16:25:17] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> veni
+[16:27:02] [Craft Scheduler Thread - 91 - ImageFrame/INFO]: [ImageFrame] Failed to check against "api.loohpjames.com" for the latest version.. It could be an internet issue or "api.loohpjames.com" is down. If you want disable the update checker, you can disable in config.yml, but we still highly-recommend you to keep your plugin up to date!
+[16:27:02] [Craft Scheduler Thread - 93 - ImageFrame/INFO]: [ImageFrame] Failed to check against "api.loohpjames.com" for the latest version.. It could be an internet issue or "api.loohpjames.com" is down. If you want disable the update checker, you can disable in config.yml, but we still highly-recommend you to keep your plugin up to date!
+[16:27:11] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> 3864 249 370
+[16:28:27] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> 3833 148 132
+[16:28:48] [Async Chat Thread - #12/INFO]: [Not Secure] <TeeRobZti> asd
