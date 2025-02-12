@@ -1493,3 +1493,432 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 [23:32:33] [Async Chat Thread - #19/INFO]: [Not Secure] <Vennom_123> gg ez
 [23:32:47] [Async Chat Thread - #19/INFO]: [Not Secure] <Gatunixdd> fr
 [23:32:49] [Server thread/INFO]: qSeren issued server command: //set nether_portal
+[23:32:53] [Server thread/INFO]: wolftho has made the advancement [We Need to Go Deeper]
+[23:32:53] [Server thread/INFO]: wolftho has made the advancement [Incendium]
+[23:32:54] [Server thread/INFO]: AdrianoLC has made the advancement [We Need to Go Deeper]
+[23:32:54] [Server thread/INFO]: AdrianoLC has made the advancement [Incendium]
+[23:32:54] [Server thread/INFO]: thenoxplayer has made the advancement [We Need to Go Deeper]
+[23:32:54] [Server thread/INFO]: thenoxplayer has made the advancement [Incendium]
+[23:32:55] [Server thread/INFO]: Vennom_123 has made the advancement [We Need to Go Deeper]
+[23:32:55] [Server thread/INFO]: Vennom_123 has made the advancement [Incendium]
+[23:32:55] [Server thread/INFO]: iRagc has made the advancement [We Need to Go Deeper]
+[23:32:55] [Server thread/INFO]: iRagc has made the advancement [Incendium]
+[23:32:56] [Server thread/INFO]: XxLinkGamer21xX has made the advancement [We Need to Go Deeper]
+[23:32:56] [Server thread/INFO]: XxLinkGamer21xX has made the advancement [Incendium]
+[23:32:57] [Server thread/INFO]: qSeren issued server command: /op TeeRobZti
+[23:32:57] [Server thread/INFO]: [qSeren: Made TeeRobZti a server operator]
+[23:32:58] [Server thread/INFO]: qSeren lost connection: Disconnected
+[23:32:58] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[23:32:58] [Server thread/INFO]: qSeren left the game
+[23:32:58] [Server thread/INFO]: Torre22932 has made the advancement [We Need to Go Deeper]
+[23:32:58] [Server thread/INFO]: Torre22932 has made the advancement [Incendium]
+[23:32:58] [Server thread/INFO]: Named entity Pillager['Pirómano'/15728, uuid='d6ae5791-6254-420e-8b3b-88df4974ce5d', l='ServerLevel[world_nether]', x=-0.27, y=41.00, z=17.50, cpos=[-1, 1], tl=971, v=true] died: Pirómano went off with a bang
+[23:32:58] [Server thread/INFO]: Named entity Pillager['Pirómano'/15729, uuid='10bf6133-546f-4810-bc33-1856c632b761', l='ServerLevel[world_nether]', x=-0.46, y=42.00, z=16.71, cpos=[-1, 1], tl=971, v=true] died: Pirómano went off with a bang
+[23:33:00] [Server thread/INFO]: Gatunixdd has made the advancement [We Need to Go Deeper]
+[23:33:00] [Server thread/INFO]: Gatunixdd has made the advancement [Incendium]
+[23:33:01] [Server thread/INFO]: lg_santiago_1 has made the advancement [We Need to Go Deeper]
+[23:33:01] [Server thread/INFO]: lg_santiago_1 has made the advancement [Incendium]
+[23:33:09] [Server thread/INFO]: Named entity Pillager['Pirómano'/15727, uuid='882eb1c0-48b8-47fb-8061-5464222f48ca', l='ServerLevel[world_nether]', x=-7.66, y=31.83, z=9.63, cpos=[-1, 0], tl=1192, v=true] died: Pirómano tried to swim in lava
+[23:33:09] [Server thread/INFO]: Named entity Skeleton['Pirómano'/15780, uuid='66e435f1-44da-45fe-ab3c-e3991ed8d07a', l='ServerLevel[world_nether]', x=-12.70, y=44.00, z=15.30, cpos=[-1, 0], tl=1094, v=true] died: Pirómano was shot by AdrianoLC
+[23:33:10] [Server thread/INFO]: Named entity Skeleton['Pirómano'/15812, uuid='f760030f-db59-45ed-b8e5-2da03c16f35b', l='ServerLevel[world_nether]', x=-12.70, y=48.00, z=15.30, cpos=[-1, 0], tl=1081, v=true] died: Pirómano was shot by lg_santiago_1
+[23:33:11] [Server thread/INFO]: Torre22932 has made the advancement [Pipe Dream]
+[23:33:13] [Server thread/INFO]: iRagc has made the advancement [Pipe Dream]
+[23:33:14] [Server thread/INFO]: wolftho has made the advancement [Pipe Dream]
+[23:33:15] [Server thread/INFO]: Gatunixdd has made the advancement [Pipe Dream]
+[23:33:17] [Server thread/INFO]: Named entity Pillager['Pirómano'/32865, uuid='39f40333-e258-432d-a5a5-ec1a33f07978', l='ServerLevel[world_nether]', x=-2.31, y=30.79, z=5.30, cpos=[-1, 0], tl=255, v=true] died: Pirómano tried to swim in lava
+[23:33:18] [Server thread/INFO]: Named entity Skeleton['Pirómano'/15849, uuid='7cc72aa4-911c-4db8-b235-b6e5b253da42', l='ServerLevel[world_nether]', x=13.70, y=44.00, z=15.30, cpos=[0, 0], tl=1187, v=true] died: Pirómano was shot by lg_santiago_1
+[23:33:20] [Server thread/INFO]: Named entity Pillager['Pirómano'/32912, uuid='d8bd3967-dd21-4c0a-acd9-843451d79070', l='ServerLevel[world_nether]', x=2.95, y=43.00, z=-21.07, cpos=[0, -2], tl=111, v=true] died: Pirómano was slain by Torre22932
+[23:33:23] [Async Chat Thread - #19/INFO]: [Not Secure] <wolftho> LG
+[23:33:23] [Server thread/INFO]: thenoxplayer has made the advancement [Pipe Dream]
+[23:33:25] [Async Chat Thread - #19/INFO]: [Not Secure] <wolftho> LAG
+[23:33:26] [Server thread/INFO]: Named entity Pillager['Pirómano'/32923, uuid='ffd9d350-2678-4088-ac5c-d845cdfae5b1', l='ServerLevel[world_nether]', x=-2.70, y=42.54, z=-34.72, cpos=[-1, -3], tl=198, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:33:27] [Server thread/INFO]: Named entity Skeleton['Pirómano'/32951, uuid='8441fb01-61d9-4870-ae8f-0b31e1b9aa5a', l='ServerLevel[world_nether]', x=10.47, y=21.57, z=-23.84, cpos=[0, -2], tl=150, v=true] died: Pirómano tried to swim in lava
+[23:33:28] [Server thread/INFO]: lg_santiago_1 has made the advancement [Pipe Dream]
+[23:33:32] [Server thread/INFO]: Named entity Skeleton['Pirómano'/32952, uuid='8dc0bf4a-b43e-47e1-91aa-5ad4db6979f8', l='ServerLevel[world_nether]', x=-0.26, y=42.00, z=-18.82, cpos=[-1, -2], tl=241, v=true] died: Pirómano went off with a bang
+[23:33:33] [Server thread/INFO]: Named entity Pillager['Pirómano'/32977, uuid='f9f7d777-701d-41e1-94ef-6d88d3cfe502', l='ServerLevel[world_nether]', x=3.70, y=43.00, z=-19.95, cpos=[0, -2], tl=184, v=true] died: Pirómano went off with a bang
+[23:33:33] [Server thread/INFO]: Named entity Pillager['Pirómano'/32897, uuid='c6b02231-4bc1-4056-b07f-3a4c4412fcca', l='ServerLevel[world_nether]', x=1.75, y=42.00, z=-9.67, cpos=[0, -1], tl=442, v=true] died: Pirómano was slain by Vennom_123
+[23:33:34] [Server thread/INFO]: Named entity Pillager['Pirómano'/32955, uuid='4cb7e229-a3c5-4511-af3e-6e8971bd0610', l='ServerLevel[world_nether]', x=7.70, y=42.00, z=-19.30, cpos=[0, -2], tl=285, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:33:35] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[23:33:35] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[23:33:39] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33017, uuid='ee1372ea-f6a2-4056-a6a0-0c07d8a8e64d', l='ServerLevel[world_nether]', x=11.62, y=23.68, z=-22.66, cpos=[0, -2], tl=149, v=true] died: Pirómano tried to swim in lava
+[23:33:39] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[23:33:39] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[23:33:41] [Server thread/INFO]: TeeRobZti issued server command: /gamemode adventure
+[23:33:41] [Server thread/INFO]: [TeeRobZti: Set own game mode to Adventure Mode]
+[23:33:42] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[23:33:42] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[23:33:46] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[23:33:46] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[23:33:46] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/32957, uuid='c1e0c8db-1f1b-42a8-b4e2-860c9896869d', l='ServerLevel[world_nether]', x=1.29, y=42.00, z=2.50, cpos=[0, 0], tl=521, v=true] died: Guerrero Bruto was shot by Gatunixdd
+[23:33:47] [Server thread/INFO]: Named entity Pillager['Pirómano'/32911, uuid='7bea8dec-7580-49ae-b935-c22f234a32f3', l='ServerLevel[world_nether]', x=1.43, y=42.20, z=-6.91, cpos=[0, -1], tl=648, v=true] died: Pirómano was shot by Gatunixdd
+[23:33:54] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/32979, uuid='8f250cf0-640a-4ddf-8764-9e03aac93fa6', l='ServerLevel[world_nether]', x=1.53, y=23.00, z=-2.95, cpos=[0, -1], tl=584, v=true] died: Guerrero Bruto tried to swim in lava
+[23:33:55] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/32994, uuid='00fe380a-4b1e-41eb-bf98-659e5b6fe265', l='ServerLevel[world_nether]', x=0.35, y=23.00, z=-4.40, cpos=[0, -1], tl=551, v=true] died: Guerrero Bruto tried to swim in lava
+[23:33:56] [Server thread/INFO]: Vennom_123 has made the advancement [Pipe Dream]
+[23:33:59] [Server thread/INFO]: Named entity Pillager['Pirómano'/33018, uuid='d19153b8-0792-4be3-b43b-e5852205fc3f', l='ServerLevel[world_nether]', x=4.51, y=31.53, z=5.05, cpos=[0, 0], tl=534, v=true] died: Pirómano tried to swim in lava
+[23:34:02] [Server thread/INFO]: AdrianoLC has made the advancement [Pipe Dream]
+[23:34:05] [Server thread/INFO]: XxLinkGamer21xX has made the advancement [Pipe Dream]
+[23:34:06] [Server thread/INFO]: Named entity Pillager['Pirómano'/33121, uuid='5056a945-f9aa-4d2a-b55a-7aca9cf89f73', l='ServerLevel[world_nether]', x=5.89, y=42.00, z=-24.29, cpos=[0, -2], tl=211, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:34:08] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33139, uuid='4cfe7b97-bcf4-411b-b70f-185e9dee61c9', l='ServerLevel[world_nether]', x=7.02, y=42.00, z=-24.32, cpos=[0, -2], tl=124, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:34:08] [Server thread/INFO]: Named entity Pillager['Pirómano'/33048, uuid='bdce7ce9-87c1-4846-b2c1-6163f853c1f8', l='ServerLevel[world_nether]', x=0.13, y=42.00, z=-26.97, cpos=[0, -2], tl=626, v=true] died: Pirómano was shot by AdrianoLC
+[23:34:09] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33138, uuid='44a26eb4-2716-48be-8b55-21d8cfa3e2fb', l='ServerLevel[world_nether]', x=10.72, y=21.89, z=-22.50, cpos=[0, -2], tl=149, v=true] died: Pirómano tried to swim in lava
+[23:34:10] [Server thread/INFO]: Named entity Pillager['Pirómano'/33131, uuid='82cba697-a110-49d2-8a2a-367efbd2f1f2', l='ServerLevel[world_nether]', x=0.25, y=42.20, z=-21.56, cpos=[0, -2], tl=226, v=true] died: Pirómano was shot by AdrianoLC
+[23:34:13] [Async Chat Thread - #18/INFO]: [Not Secure] <Gatunixdd> ALGUIEN AGARRO MI TRIDENTE
+[23:34:18] [Server thread/INFO]: Named entity Pillager['Pirómano'/33044, uuid='4759dc05-01ea-4b33-811e-40d6d061de60', l='ServerLevel[world_nether]', x=-11.30, y=41.20, z=-25.37, cpos=[-1, -2], tl=832, v=true] died: Pirómano tried to swim in lava to escape wolftho
+[23:34:20] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33124, uuid='542c2b0e-78f6-4081-9e98-010262b5d646', l='ServerLevel[world_nether]', x=0.72, y=42.00, z=-10.96, cpos=[0, -1], tl=482, v=true] died: Guerrero Bruto was shot by AdrianoLC
+[23:34:20] [Server thread/INFO]: Named entity Pillager['Pirómano'/33159, uuid='d7aa51c2-d81d-4ccd-a7ee-5892e47a929f', l='ServerLevel[world_nether]', x=-20.80, y=31.56, z=-39.36, cpos=[-2, -3], tl=270, v=true] died: Pirómano tried to swim in lava
+[23:34:21] [Server thread/INFO]: Named entity Pillager['Pirómano'/32972, uuid='d0846870-0933-484e-86be-73695eb67e79', l='ServerLevel[world_nether]', x=-5.27, y=42.00, z=-15.29, cpos=[-1, -1], tl=1159, v=true] died: Pirómano burned to death
+[23:34:22] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33123, uuid='40471b7e-d55f-4920-9e73-b722b7530d38', l='ServerLevel[world_nether]', x=1.57, y=42.00, z=-7.56, cpos=[0, -1], tl=509, v=true] died: Guerrero Bruto was slain by AdrianoLC
+[23:34:22] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33129, uuid='4668740c-4dbd-435b-9699-94a98ef1c544', l='ServerLevel[world_nether]', x=-14.01, y=43.05, z=-28.51, cpos=[-1, -2], tl=466, v=true] died: Guerrero Bruto was slain by TeeRobZti using [Blade of the Ruined King]
+[23:34:23] [Server thread/INFO]: Named entity Pillager['Pirómano'/32973, uuid='06c378d5-a4d9-4bf7-b279-3fed492cd608', l='ServerLevel[world_nether]', x=-5.84, y=43.00, z=-16.72, cpos=[-1, -2], tl=1188, v=true] died: Pirómano was burned to a crisp while fighting Pirómano
+[23:34:24] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33150, uuid='74061fad-4260-499c-864f-997da50862aa', l='ServerLevel[world_nether]', x=3.43, y=42.00, z=-30.59, cpos=[0, -2], tl=360, v=true] died: Guerrero Bruto went off with a bang
+[23:34:25] [Server thread/INFO]: Named entity Pillager['Pirómano'/33205, uuid='8a94122b-47d7-42f8-be8e-75c5b7828bdd', l='ServerLevel[world_nether]', x=-11.50, y=42.00, z=-18.99, cpos=[-1, -2], tl=175, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:34:26] [Server thread/INFO]: Named entity Pillager['Pirómano'/33162, uuid='8660efef-4af8-496f-8fac-35894c68460c', l='ServerLevel[world_nether]', x=2.13, y=42.00, z=-5.60, cpos=[0, -1], tl=357, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:34:26] [Server thread/INFO]: Named entity Pillager['Pirómano'/33184, uuid='d0fcea2b-cbfe-451f-9f4c-207fc099e5d1', l='ServerLevel[world_nether]', x=2.00, y=42.00, z=-28.30, cpos=[0, -2], tl=292, v=true] died: Pirómano was slain by Torre22932
+[23:34:26] [Server thread/INFO]: Named entity Pillager['Pirómano'/33189, uuid='afa7a34e-aadb-4694-bff7-2f585a90e0ce', l='ServerLevel[world_nether]', x=-20.74, y=31.17, z=-40.14, cpos=[-2, -3], tl=271, v=true] died: Pirómano tried to swim in lava
+[23:34:30] [Server thread/INFO]: Named entity Pillager['Pirómano'/33204, uuid='0c397dfa-2e75-4e73-a5b7-a0ba907e4ec6', l='ServerLevel[world_nether]', x=-14.84, y=42.00, z=-16.53, cpos=[-1, -2], tl=264, v=true] died: Pirómano was shot by Pirómano
+[23:34:30] [Server thread/INFO]: Vennom_123 has made the advancement [A Throwaway Joke]
+[23:34:34] [Server thread/INFO]: Named entity Pillager['Pirómano'/33144, uuid='6e1d0cc8-3f47-479d-ac8a-46bab31139ab', l='ServerLevel[world_nether]', x=0.53, y=42.00, z=11.74, cpos=[0, 0], tl=629, v=true] died: Pirómano was burned to a crisp while fighting AdrianoLC
+[23:34:36] [Server thread/INFO]: Named entity Pillager['Pirómano'/33130, uuid='cf8f933c-58d9-45e2-9b00-dd290fb4eda7', l='ServerLevel[world_nether]', x=-0.28, y=42.00, z=10.20, cpos=[-1, 0], tl=738, v=true] died: Pirómano was burned to a crisp while fighting AdrianoLC
+[23:34:36] [Async Chat Thread - #18/INFO]: [Not Secure] <Gatunixdd> ALGUIEN AGARRO MI TRIDENTE
+[23:34:36] [Server thread/INFO]: Named entity Pillager['Pirómano'/33197, uuid='9d7ad0c0-e73a-4d91-8452-dcd2a9de461a', l='ServerLevel[world_nether]', x=0.98, y=42.00, z=10.86, cpos=[0, 0], tl=427, v=true] died: Pirómano was shot by Vennom_123
+[23:34:36] [Server thread/INFO]: Named entity Pillager['Pirómano'/33262, uuid='98f14de1-0e96-4fc3-9861-a7a449bc392b', l='ServerLevel[world_nether]', x=-13.88, y=31.63, z=-39.38, cpos=[-1, -3], tl=269, v=true] died: Pirómano tried to swim in lava
+[23:34:36] [Async Chat Thread - #18/INFO]: [Not Secure] <TeeRobZti> el que rushee ban
+[23:34:37] [Async Chat Thread - #18/INFO]: [Not Secure] <Gatunixdd> ALGUIEN AGARRO MI TRIDENTE
+[23:34:37] [Async Chat Thread - #18/INFO]: [Not Secure] <TeeRobZti> el que rushee ban
+[23:34:37] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33230, uuid='a98d5658-7ca3-4090-aa59-bb0cdf5887b1', l='ServerLevel[world_nether]', x=-11.67, y=42.00, z=-23.37, cpos=[-1, -2], tl=338, v=true] died: Pirómano went off with a bang
+[23:34:38] [Async Chat Thread - #18/INFO]: [Not Secure] <TeeRobZti> el que rushee ban
+[23:34:38] [Async Chat Thread - #18/INFO]: [Not Secure] <Gatunixdd> iRagc
+[23:34:38] [Async Chat Thread - #18/INFO]: [Not Secure] <TeeRobZti> el que rushee ban
+[23:34:38] [Server thread/INFO]: Named entity Pillager['Pirómano'/33187, uuid='a3881215-6a62-47e0-a3a9-b694284be005', l='ServerLevel[world_nether]', x=-12.19, y=42.00, z=-22.21, cpos=[-1, -2], tl=541, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:34:39] [Async Chat Thread - #18/INFO]: [Not Secure] <TeeRobZti> el que rushee ban
+[23:34:41] [Server thread/INFO]: Named entity Pillager['Pirómano'/33203, uuid='5f611947-138c-4b50-9810-a179e289b99e', l='ServerLevel[world_nether]', x=-1.90, y=31.50, z=-0.28, cpos=[-1, -1], tl=493, v=true] died: Pirómano tried to swim in lava
+[23:34:44] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33148, uuid='9c33e8f2-1fad-4e56-9ab1-54b835ca9903', l='ServerLevel[world_nether]', x=2.26, y=25.66, z=1.16, cpos=[0, 0], tl=799, v=true] died: Guerrero Bruto tried to swim in lava to escape AdrianoLC
+[23:34:45] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33404, uuid='54217663-2358-40a7-9392-e8800f1f560d', l='ServerLevel[world_nether]', x=-13.46, y=41.34, z=-28.38, cpos=[-1, -2], tl=209, v=true] died: Pirómano tried to swim in lava to escape iRagc
+[23:34:46] [Server thread/INFO]: Named entity Pillager['Pirómano'/33185, uuid='26a9f214-d631-4444-9576-fca24b404f24', l='ServerLevel[world_nether]', x=-11.80, y=42.00, z=-27.15, cpos=[-1, -2], tl=701, v=true] died: Pirómano was slain by iRagc
+[23:34:47] [Server thread/INFO]: Named entity Pillager['Pirómano'/33370, uuid='dde68e8b-0af0-42ae-91b9-81e7e2fe0890', l='ServerLevel[world_nether]', x=-1.59, y=43.09, z=-4.36, cpos=[-1, -1], tl=281, v=true] died: Pirómano went off with a bang
+[23:34:47] [Server thread/INFO]: Named entity Pillager['Pirómano'/33329, uuid='3c4c798a-abb7-4c50-984b-e5b492a81af7', l='ServerLevel[world_nether]', x=1.07, y=42.00, z=-2.47, cpos=[0, -1], tl=366, v=true] died: Pirómano went off with a bang
+[23:34:48] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33295, uuid='6c371530-e1e5-455a-9494-f1a9ea0c2d1c', l='ServerLevel[world_nether]', x=-6.01, y=42.44, z=-24.45, cpos=[-1, -2], tl=462, v=true] died: Guerrero Bruto was slain by thenoxplayer
+[23:34:49] [Async Chat Thread - #18/INFO]: [Not Secure] <Gatunixdd> iRagc revisa si tenes mi tridente
+[23:34:51] [Async Chat Thread - #18/INFO]: [Not Secure] <Gatunixdd> ALGUIEN AGARRO MI TRIDENTE
+[23:34:52] [Async Chat Thread - #18/INFO]: [Not Secure] <Gatunixdd> ALGUIEN AGARRO MI TRIDENTE
+[23:34:52] [Async Chat Thread - #18/INFO]: [Not Secure] <Gatunixdd> ALGUIEN AGARRO MI TRIDENTE
+[23:34:54] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33211, uuid='ee0d3862-e544-4ba4-8a9c-0a0c48a2dbc2', l='ServerLevel[world_nether]', x=-13.59, y=42.00, z=-30.49, cpos=[-1, -2], tl=725, v=true] died: Guerrero Bruto was shot by wolftho
+[23:34:58] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33335, uuid='ea5f7d1e-13a5-49d7-9a9d-e0568ef7c062', l='ServerLevel[world_nether]', x=-10.99, y=42.00, z=-25.60, cpos=[-1, -2], tl=567, v=true] died: Pirómano was slain by TeeRobZti using [Blade of the Ruined King]
+[23:34:58] [Server thread/INFO]: Named entity Pillager['Pirómano'/33476, uuid='8b5c4601-218b-4274-a81c-c89aa95b27a9', l='ServerLevel[world_nether]', x=-14.40, y=31.63, z=-40.09, cpos=[-1, -3], tl=271, v=true] died: Pirómano tried to swim in lava
+[23:35:00] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> BAJEN LAS PARTICULAS A MINIMAS
+[23:35:00] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33477, uuid='3a8af8b7-f29c-450d-b0b6-0219af5dd65a', l='ServerLevel[world_nether]', x=-10.59, y=41.00, z=-19.30, cpos=[-1, -2], tl=299, v=true] died: Pirómano was slain by iRagc
+[23:35:02] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33509, uuid='1858e743-f5f8-4e83-90ac-601e695715e5', l='ServerLevel[world_nether]', x=-6.70, y=42.00, z=-28.13, cpos=[-1, -2], tl=247, v=true] died: Guerrero Bruto was slain by thenoxplayer
+[23:35:05] [Server thread/INFO]: Named entity Pillager['Pirómano'/33464, uuid='36ab3d42-c7d8-4894-a891-53a44d055dda', l='ServerLevel[world_nether]', x=-9.61, y=42.00, z=-17.76, cpos=[-1, -2], tl=445, v=true] died: Pirómano was slain by iRagc
+[23:35:05] [Server thread/INFO]: Named entity Pillager['Pirómano'/33535, uuid='dc556fa4-157e-43d9-90fb-42c10d24693a', l='ServerLevel[world_nether]', x=2.95, y=43.00, z=-21.07, cpos=[0, -2], tl=196, v=true] died: Pirómano was slain by AdrianoLC
+[23:35:06] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/32983, uuid='16fc4b50-355e-486a-9f14-5f5d7c866e6b', l='ServerLevel[world_nether]', x=-6.70, y=42.00, z=-28.90, cpos=[-1, -2], tl=2015, v=true] died: Guerrero Bruto was slain by thenoxplayer
+[23:35:06] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33422, uuid='b8cd34b2-8996-4f9a-a717-afacb52bcac0', l='ServerLevel[world_nether]', x=-6.26, y=42.00, z=-28.53, cpos=[-1, -2], tl=613, v=true] died: Guerrero Bruto was slain by thenoxplayer
+[23:35:11] [Server thread/INFO]: Named entity Pillager['Pirómano'/33538, uuid='8aa7a73d-092c-4d06-8a79-1a72f8cca579', l='ServerLevel[world_nether]', x=-13.75, y=31.80, z=-39.30, cpos=[-1, -3], tl=277, v=true] died: Pirómano tried to swim in lava
+[23:35:13] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33176, uuid='b1ed97c0-28b2-426e-907b-8ebbcbd30ea0', l='ServerLevel[world_nether]', x=-7.62, y=42.00, z=-14.43, cpos=[-1, -1], tl=1279, v=true] died: Pirómano went off with a bang
+[23:35:14] [Server thread/INFO]: Named entity Pillager['Pirómano'/33559, uuid='3c391d02-420d-43d4-b5b5-333d40aba8d3', l='ServerLevel[world_nether]', x=-21.07, y=31.58, z=-39.81, cpos=[-2, -3], tl=271, v=true] died: Pirómano tried to swim in lava
+[23:35:16] [Server thread/INFO]: Named entity Pillager['Pirómano'/33544, uuid='c704f397-a33b-4eb3-bdab-729376401204', l='ServerLevel[world_nether]', x=-16.30, y=42.00, z=-14.30, cpos=[-2, -1], tl=359, v=true] died: Pirómano went off with a bang
+[23:35:20] [Server thread/INFO]: Named entity Pillager['Pirómano'/33603, uuid='bd1c8479-da5e-472b-a31b-5614d98893d7', l='ServerLevel[world_nether]', x=0.92, y=42.00, z=-24.08, cpos=[0, -2], tl=270, v=true] died: Pirómano went off with a bang
+[23:35:20] [Server thread/INFO]: Named entity Pillager['Pirómano'/33605, uuid='14d0a5b9-14cc-4fa2-8d0e-2e43584ba6c6', l='ServerLevel[world_nether]', x=-15.93, y=42.00, z=-17.29, cpos=[-1, -2], tl=278, v=true] died: Pirómano went off with a bang
+[23:35:21] [Server thread/INFO]: Named entity Pillager['Pirómano'/33553, uuid='48125538-8657-47d2-9f0d-8f97f8b0e5a2', l='ServerLevel[world_nether]', x=-3.30, y=42.30, z=-14.30, cpos=[-1, -1], tl=422, v=true] died: Pirómano went off with a bang
+[23:35:22] [Server thread/INFO]: Named entity Pillager['Pirómano'/33571, uuid='8cf63f78-86d0-4ac6-a0ba-410530dcd69a', l='ServerLevel[world_nether]', x=3.70, y=43.00, z=-19.95, cpos=[0, -2], tl=365, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:35:22] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33574, uuid='e7d78ca5-8747-4861-9c8c-7bc655dfcff4', l='ServerLevel[world_nether]', x=8.50, y=23.00, z=-12.50, cpos=[0, -1], tl=359, v=true] died: Guerrero Bruto tried to swim in lava
+[23:35:22] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33575, uuid='38db75d9-983e-492b-beeb-49cae1be16b1', l='ServerLevel[world_nether]', x=7.60, y=23.00, z=-12.14, cpos=[0, -1], tl=359, v=true] died: Guerrero Bruto tried to swim in lava
+[23:35:22] [Server thread/INFO]: Named entity Pillager['Pirómano'/33639, uuid='f4a943a4-b84a-4784-8c2c-94cd32b90dfc', l='ServerLevel[world_nether]', x=-16.30, y=42.00, z=-18.70, cpos=[-2, -2], tl=233, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:35:23] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33450, uuid='a74623b5-425a-41b3-9752-c903489e4e92', l='ServerLevel[world_nether]', x=-4.84, y=42.00, z=-16.67, cpos=[-1, -2], tl=854, v=true] died: Pirómano went off with a bang
+[23:35:24] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33353, uuid='cda890da-fd07-45d6-af1b-339a41dd1377', l='ServerLevel[world_nether]', x=3.49, y=43.00, z=-19.95, cpos=[0, -2], tl=1031, v=true] died: Guerrero Bruto was slain by Torre22932
+[23:35:25] [Server thread/INFO]: Named entity Pillager['Pirómano'/33561, uuid='80eaf178-518b-4de2-968b-5777faf66102', l='ServerLevel[world_nether]', x=-0.65, y=42.00, z=-21.02, cpos=[-1, -2], tl=482, v=true] died: Pirómano was shot by Gatunixdd
+[23:35:26] [Server thread/INFO]: Named entity Pillager['Pirómano'/33642, uuid='651dfcba-69ff-4a72-b261-9448d545fbfd', l='ServerLevel[world_nether]', x=2.07, y=42.00, z=-22.05, cpos=[0, -2], tl=311, v=true] died: Pirómano went off with a bang
+[23:35:27] [Server thread/INFO]: Named entity Pillager['Pirómano'/33662, uuid='5a7fbe88-62a2-410b-a2cf-92702926e6ea', l='ServerLevel[world_nether]', x=-22.70, y=42.00, z=-14.30, cpos=[-2, -1], tl=262, v=true] died: Pirómano was slain by TeeRobZti using [Blade of the Ruined King]
+[23:35:29] [Server thread/INFO]: Named entity Pillager['Pirómano'/33621, uuid='661d31c2-4762-44cf-b49f-15b0d2ce774c', l='ServerLevel[world_nether]', x=-13.17, y=44.00, z=-14.30, cpos=[-1, -1], tl=411, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:35:29] [Server thread/INFO]: Named entity Pillager['Pirómano'/33607, uuid='8a42e326-52fc-4dc4-9ab3-8d8bf7f8564c', l='ServerLevel[world_nether]', x=-26.70, y=42.00, z=-14.30, cpos=[-2, -1], tl=444, v=true] died: Pirómano was slain by thenoxplayer
+[23:35:30] [Server thread/INFO]: Named entity Pillager['Pirómano'/33608, uuid='662da4b1-ccec-48bf-b854-30b9eecd549c', l='ServerLevel[world_nether]', x=-19.85, y=42.00, z=-18.01, cpos=[-2, -2], tl=472, v=true] died: Pirómano went off with a bang
+[23:35:36] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33518, uuid='6f7b49ea-2511-4f78-aa00-a635084f38b9', l='ServerLevel[world_nether]', x=-13.80, y=41.36, z=-31.65, cpos=[-1, -2], tl=881, v=true] died: Guerrero Bruto was slain by Torre22932
+[23:35:37] [Server thread/INFO]: Named entity Pillager['Pirómano'/33786, uuid='08f64be5-5fb6-4bfb-93da-d6689273591d', l='ServerLevel[world_nether]', x=-20.69, y=42.50, z=-19.70, cpos=[-2, -2], tl=194, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:35:41] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33742, uuid='ef3a2f9a-a462-4e00-9f47-beca4c644424', l='ServerLevel[world_nether]', x=6.43, y=23.00, z=-11.53, cpos=[0, -1], tl=358, v=true] died: Guerrero Bruto tried to swim in lava
+[23:35:42] [Server thread/INFO]: Named entity Pillager['Pirómano'/33513, uuid='94008d1d-2c09-452f-b536-0277d0c282ff', l='ServerLevel[world_nether]', x=-10.30, y=42.00, z=-32.30, cpos=[-1, -3], tl=1039, v=true] died: Pirómano went off with a bang
+[23:35:44] [Server thread/INFO]: Named entity Pillager['Pirómano'/33746, uuid='e03983bb-7e30-4ca1-b41a-b99ec51f35e8', l='ServerLevel[world_nether]', x=0.64, y=42.00, z=-14.08, cpos=[0, -1], tl=411, v=true] died: Pirómano was burned to a crisp while fighting lg_santiago_1
+[23:35:45] [Server thread/INFO]: Named entity Pillager['Pirómano'/33788, uuid='8e1655e3-fcac-406f-9632-b73bdfa2c9c1', l='ServerLevel[world_nether]', x=0.45, y=42.00, z=-17.51, cpos=[0, -2], tl=366, v=true] died: Pirómano was shot by Pirómano
+[23:35:47] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33885, uuid='9a18671f-4af9-4d95-890c-fe1391d7ff91', l='ServerLevel[world_nether]', x=-26.52, y=42.00, z=-33.30, cpos=[-2, -3], tl=156, v=true] died: Pirómano was slain by TeeRobZti using [Blade of the Ruined King]
+[23:35:47] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> ANDO A 5 FPS
+[23:35:49] [Server thread/INFO]: Named entity Pillager['Pirómano'/33552, uuid='64401615-259e-4f1d-a05c-a3ffe1d1e889', l='ServerLevel[world_nether]', x=-14.20, y=41.92, z=-31.54, cpos=[-1, -2], tl=992, v=true] died: Pirómano went off with a bang
+[23:35:50] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33962, uuid='6762053a-8999-4fff-b26e-7a6ceb6b2bf6', l='ServerLevel[world_nether]', x=-27.62, y=42.00, z=-33.30, cpos=[-2, -3], tl=98, v=true] died: Pirómano was slain by TeeRobZti using [Blade of the Ruined King]
+[23:35:51] [Server thread/INFO]: Named entity Pillager['Pirómano'/33604, uuid='63c91390-ae6d-41e5-a5d0-5b65518c6b41', l='ServerLevel[world_nether]', x=-14.70, y=42.00, z=-30.30, cpos=[-1, -2], tl=880, v=true] died: Pirómano went off with a bang
+[23:35:52] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33838, uuid='771a8c31-9072-498c-846a-e69648a1189b', l='ServerLevel[world_nether]', x=10.74, y=23.00, z=-18.33, cpos=[0, -2], tl=360, v=true] died: Guerrero Bruto tried to swim in lava
+[23:35:52] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33837, uuid='7286ee09-1b74-4692-9042-11cb57677c41', l='ServerLevel[world_nether]', x=0.69, y=40.00, z=0.30, cpos=[0, 0], tl=361, v=true] died: Guerrero Bruto was slain by Vennom_123
+[23:35:53] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> iRagc revisa si tenes mi tridente
+[23:35:53] [Server thread/INFO]: Named entity Pillager['Pirómano'/33813, uuid='f3386305-16dc-4b47-9969-0a98415c90de', l='ServerLevel[world_nether]', x=0.56, y=42.00, z=-10.60, cpos=[0, -1], tl=457, v=true] died: Pirómano was shot by Pirómano
+[23:35:53] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> iRagc revisa si tenes mi tridente
+[23:35:54] [Server thread/INFO]: Named entity Pillager['Pirómano'/33936, uuid='64c4b9a4-dcb6-4e81-8d64-02054366b469', l='ServerLevel[world_nether]', x=7.70, y=42.00, z=-28.30, cpos=[0, -2], tl=217, v=true] died: Pirómano went off with a bang
+[23:35:54] [Server thread/INFO]: Named entity Pillager['Pirómano'/33960, uuid='473867f6-4d4c-4214-a7dd-3dbbe666c7e7', l='ServerLevel[world_nether]', x=-26.05, y=42.50, z=-26.61, cpos=[-2, -2], tl=198, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:35:55] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33866, uuid='a47a1aa2-3e00-4929-abbd-7fd5cefd1b4f', l='ServerLevel[world_nether]', x=4.32, y=42.04, z=-24.07, cpos=[0, -2], tl=356, v=true] died: Pirómano went off with a bang
+[23:35:55] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> ALGUIEN AGARRO MI TRIDENTE
+[23:35:55] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> ALGUIEN AGARRO MI TRIDENTE
+[23:35:55] [Server thread/INFO]: Named entity Pillager['Pirómano'/33917, uuid='7c10545f-f163-4024-81e1-276148b41518', l='ServerLevel[world_nether]', x=-29.24, y=31.83, z=-40.11, cpos=[-2, -3], tl=272, v=true] died: Pirómano tried to swim in lava
+[23:35:56] [Server thread/INFO]: Named entity Pillager['Pirómano'/33925, uuid='6eb58fb1-9591-4c85-a10e-f2d7482e33cb', l='ServerLevel[world_nether]', x=-15.36, y=31.62, z=-40.06, cpos=[-1, -3], tl=268, v=true] died: Pirómano tried to swim in lava
+[23:35:56] [Server thread/INFO]: Named entity Pillager['Pirómano'/34016, uuid='40413a12-aabb-49ec-9851-ff89a1e43122', l='ServerLevel[world_nether]', x=-43.30, y=42.00, z=-37.70, cpos=[-3, -3], tl=144, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:35:57] [Server thread/INFO]: Named entity Pillager['Pirómano'/33792, uuid='853c418a-4c26-40d7-b570-1333d04c57dd', l='ServerLevel[world_nether]', x=-14.70, y=42.00, z=-27.70, cpos=[-1, -2], tl=578, v=true] died: Pirómano was slain by Gatunixdd
+[23:35:57] [Server thread/INFO]: Named entity Pillager['Pirómano'/33976, uuid='08520c42-1631-46c9-8b2e-e0c57c5d8946', l='ServerLevel[world_nether]', x=-30.30, y=42.00, z=-37.70, cpos=[-2, -3], tl=216, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:35:59] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33827, uuid='66f08fdb-50b4-4c52-91e1-4d174fa6946d', l='ServerLevel[world_nether]', x=4.30, y=28.27, z=-11.64, cpos=[0, -1], tl=540, v=true] died: Pirómano tried to swim in lava to escape Vennom_123
+[23:36:01] [Async Chat Thread - #20/INFO]: [Not Secure] <AdrianoLC> COMO TIRAN EL TRIDENTE
+[23:36:01] [Server thread/INFO]: Named entity Pillager['Pirómano'/34018, uuid='2b015d3e-6d06-4b7e-98da-95d8b3499acf', l='ServerLevel[world_nether]', x=-37.80, y=42.00, z=-24.15, cpos=[-3, -2], tl=246, v=true] died: Pirómano was killed by Area Effect Cloud using magic
+[23:36:01] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33687, uuid='2ca1ced3-d5fa-48a7-9971-f1139b700d52', l='ServerLevel[world_nether]', x=-12.43, y=41.00, z=-24.53, cpos=[-1, -2], tl=903, v=true] died: Guerrero Bruto tried to swim in lava to escape Torre22932
+[23:36:01] [Server thread/INFO]: Named entity Pillager['Pirómano'/34001, uuid='19b01df7-a6a1-45db-bb08-694dd29b112b', l='ServerLevel[world_nether]', x=9.69, y=31.55, z=-28.94, cpos=[0, -2], tl=270, v=true] died: Pirómano tried to swim in lava
+[23:36:02] [Async Chat Thread - #20/INFO]: [Not Secure] <AdrianoLC> DOWNS DE MIREDA
+[23:36:03] [Async Chat Thread - #20/INFO]: [Not Secure] <AdrianoLC> XDD
+[23:36:04] [Server thread/INFO]: Named entity Pillager['Pirómano'/34036, uuid='120b7008-acab-4d39-aa3e-98b945d33a82', l='ServerLevel[world_nether]', x=-32.48, y=31.83, z=-39.60, cpos=[-3, -3], tl=269, v=true] died: Pirómano tried to swim in lava
+[23:36:04] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33314, uuid='c14f9245-54d0-47dc-8c7f-013bb43b1d6f', l='ServerLevel[world_nether]', x=5.48, y=42.00, z=-30.46, cpos=[0, -2], tl=1959, v=true] died: Guerrero Bruto went off with a bang
+[23:36:06] [Server thread/INFO]: Named entity Skeleton['Pirómano'/33994, uuid='058aa0bb-5ea0-43d6-8433-cab727b9b4aa', l='ServerLevel[world_nether]', x=-35.34, y=42.39, z=-26.30, cpos=[-3, -2], tl=375, v=true] died: Pirómano went off with a bang
+[23:36:06] [Server thread/INFO]: Named entity Pillager['Pirómano'/34053, uuid='a4c1c39c-1c07-446b-919f-a7078a2b16d7', l='ServerLevel[world_nether]', x=7.14, y=42.00, z=-32.70, cpos=[0, -3], tl=296, v=true] died: Pirómano went off with a bang
+[23:36:06] [Server thread/INFO]: Named entity Pillager['Pirómano'/34078, uuid='3c38e51a-95bd-454e-af24-f17646b9f578', l='ServerLevel[world_nether]', x=-14.41, y=31.47, z=-39.56, cpos=[-1, -3], tl=270, v=true] died: Pirómano tried to swim in lava
+[23:36:07] [Server thread/INFO]: Named entity Pillager['Pirómano'/34111, uuid='5ac0adcc-e66d-4341-b326-d9067b8eb910', l='ServerLevel[world_nether]', x=-34.52, y=42.00, z=-32.64, cpos=[-3, -3], tl=222, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:36:08] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> Y ERROR MONO
+[23:36:08] [Server thread/INFO]: Named entity Pillager['Pirómano'/33735, uuid='1aea67f1-c126-4845-a092-1ceb92ee7ae8', l='ServerLevel[world_nether]', x=-28.52, y=43.00, z=-24.64, cpos=[-2, -2], tl=911, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:36:10] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/34065, uuid='9d0f4b39-e403-4672-8597-0415f6a39471', l='ServerLevel[world_nether]', x=-39.48, y=23.00, z=-39.35, cpos=[-3, -3], tl=359, v=true] died: Guerrero Bruto tried to swim in lava
+[23:36:11] [Server thread/INFO]: Named entity Skeleton['Pirómano'/34097, uuid='3635521c-8917-4388-9797-3a83080dc271', l='ServerLevel[world_nether]', x=-21.76, y=42.47, z=-36.03, cpos=[-2, -3], tl=329, v=true] died: Pirómano went off with a bang
+[23:36:11] [Server thread/INFO]: Named entity Pillager['Pirómano'/33959, uuid='637bf03d-1f3d-41e4-aad6-ada76d20e557', l='ServerLevel[world_nether]', x=-34.27, y=43.00, z=-34.23, cpos=[-3, -3], tl=539, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:36:12] [Server thread/INFO]: Named entity Pillager['Pirómano'/33844, uuid='3ec5e700-fbc7-4b25-9c85-6bd1dfcddd3b', l='ServerLevel[world_nether]', x=1.55, y=42.00, z=-24.83, cpos=[0, -2], tl=759, v=true] died: Pirómano was slain by XxLinkGamer21xX using [Master Sword]
+[23:36:13] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> ALGUIEN AGARRO MI TRIDENTE
+[23:36:14] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> ALGUIEN AGARRO MI TRIDENTE
+[23:36:15] [Server thread/INFO]: Named entity Pillager['Pirómano'/34054, uuid='70cfad32-1398-432c-a558-f4ecd536b85f', l='ServerLevel[world_nether]', x=-38.31, y=43.00, z=-30.69, cpos=[-3, -2], tl=477, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:36:15] [Server thread/INFO]: Named entity Pillager['Pirómano'/34172, uuid='e3f390e0-4ab1-46d1-ad29-5428e7190b0a', l='ServerLevel[world_nether]', x=-14.63, y=31.78, z=-40.62, cpos=[-1, -3], tl=271, v=true] died: Pirómano tried to swim in lava
+[23:36:16] [Server thread/INFO]: Named entity Pillager['Pirómano'/34156, uuid='a31d3488-c888-4a28-a836-52b01eb74118', l='ServerLevel[world_nether]', x=-41.30, y=42.00, z=-25.58, cpos=[-3, -2], tl=328, v=true] died: Pirómano was killed by Area Effect Cloud using magic
+[23:36:16] [Server thread/INFO]: Named entity Pillager['Pirómano'/33718, uuid='b7dc6803-e25f-4fcc-b6c1-5bed6555d7cf', l='ServerLevel[world_nether]', x=-16.30, y=42.00, z=-28.30, cpos=[-2, -2], tl=1133, v=true] died: Pirómano was slain by iRagc
+[23:36:17] [Server thread/INFO]: Named entity Pillager['Pirómano'/33883, uuid='a4b6d6b2-840e-4f31-8103-9e98de9e9dc0', l='ServerLevel[world_nether]', x=-38.89, y=42.00, z=-26.53, cpos=[-3, -2], tl=762, v=true] died: Pirómano was killed by Area Effect Cloud using magic
+[23:36:18] [Server thread/INFO]: Named entity Pillager['Pirómano'/33975, uuid='0b8e32d1-643d-4aaa-979a-d114df3a06e9', l='ServerLevel[world_nether]', x=-39.67, y=42.00, z=-24.78, cpos=[-3, -2], tl=630, v=true] died: Pirómano was killed by Area Effect Cloud using magic
+[23:36:20] [Server thread/INFO]: Named entity Pillager['Pirómano'/34214, uuid='3dbf456b-1377-4181-a591-159d5e942feb', l='ServerLevel[world_nether]', x=-14.95, y=31.75, z=-39.90, cpos=[-1, -3], tl=271, v=true] died: Pirómano tried to swim in lava
+[23:36:29] [Server thread/INFO]: Named entity Pillager['Pirómano'/34308, uuid='8d24caf4-6ab5-44f3-9dc8-1add7df9c246', l='ServerLevel[world_nether]', x=-36.97, y=42.00, z=-25.75, cpos=[-3, -2], tl=72, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:36:31] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33860, uuid='dc28a5e2-625d-4037-956f-88a7e016dbc9', l='ServerLevel[world_nether]', x=-18.84, y=42.00, z=-22.42, cpos=[-2, -2], tl=1093, v=true] died: Guerrero Bruto was slain by Torre22932
+[23:36:32] [Server thread/INFO]: Named entity Pillager['Pirómano'/34139, uuid='618d0410-1250-45ec-a32c-9907dafb107f', l='ServerLevel[world_nether]', x=-19.60, y=41.29, z=-31.23, cpos=[-2, -2], tl=692, v=true] died: Pirómano went off with a bang
+[23:36:32] [Server thread/INFO]: Named entity Pillager['Pirómano'/34222, uuid='51cc116f-2b4c-4a42-8eb3-9882479fdc04', l='ServerLevel[world_nether]', x=-18.34, y=42.00, z=-29.00, cpos=[-2, -2], tl=485, v=true] died: Pirómano went off with a bang
+[23:36:34] [Server thread/INFO]: Named entity Pillager['Pirómano'/34288, uuid='61ff8c12-1832-4590-afee-362ce9af2a68', l='ServerLevel[world_nether]', x=3.22, y=42.00, z=-14.30, cpos=[0, -1], tl=304, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:36:35] [Server thread/INFO]: Named entity Pillager['Pirómano'/34309, uuid='06e43e97-5bb6-4c9d-aee9-9960f261f0e8', l='ServerLevel[world_nether]', x=-33.28, y=42.00, z=-30.36, cpos=[-3, -2], tl=206, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:36:41] [Server thread/INFO]: Named entity Skeleton['Pirómano'/34277, uuid='2881d41a-5ac8-4d9e-894f-f99f4fdb667a', l='ServerLevel[world_nether]', x=-24.95, y=42.50, z=-36.14, cpos=[-2, -3], tl=497, v=true] died: Pirómano was shot by Gatunixdd
+[23:36:41] [Server thread/INFO]: lg_santiago_1 lost connection: Timed out
+[23:36:41] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[23:36:41] [Server thread/INFO]: lg_santiago_1 left the game
+[23:36:41] [Server thread/INFO]: Named entity Pillager['Pirómano'/34063, uuid='31f2d394-81ae-45ae-b91a-ea0d1626568f', l='ServerLevel[world_nether]', x=-35.00, y=42.00, z=-31.96, cpos=[-3, -2], tl=984, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:36:41] [Server thread/INFO]: Named entity Skeleton['Pirómano'/34218, uuid='c6b00d14-166f-404e-a768-824ecfdbe025', l='ServerLevel[world_nether]', x=-20.86, y=42.00, z=-35.17, cpos=[-2, -3], tl=675, v=true] died: Pirómano was slain by wolftho
+[23:36:42] [Server thread/INFO]: Named entity Pillager['Pirómano'/34344, uuid='b1bb17b2-cad5-4e1a-a6c1-97d4d7264c4b', l='ServerLevel[world_nether]', x=-15.42, y=31.77, z=-39.38, cpos=[-1, -3], tl=269, v=true] died: Pirómano tried to swim in lava
+[23:36:45] [Server thread/INFO]: Named entity Pillager['Pirómano'/34401, uuid='1c8780b3-1f5f-42f2-8891-e94f6c3b0c33', l='ServerLevel[world_nether]', x=-29.70, y=42.00, z=-33.30, cpos=[-2, -3], tl=132, v=true] died: Pirómano went off with a bang
+[23:36:48] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/34198, uuid='c1e8a336-e784-4902-ac90-a5716867dfaf', l='ServerLevel[world_nether]', x=-29.84, y=42.00, z=-36.44, cpos=[-2, -3], tl=843, v=true] died: Guerrero Bruto was slain by Gatunixdd
+[23:36:51] [Server thread/INFO]: Named entity Pillager['Pirómano'/34287, uuid='7eb85f4f-cea9-4d55-a870-3cf97dbaa614', l='ServerLevel[world_nether]', x=-14.51, y=43.00, z=-24.90, cpos=[-1, -2], tl=647, v=true] died: Pirómano was burned to a crisp while fighting AdrianoLC
+[23:36:53] [Server thread/INFO]: Named entity Skeleton['Pirómano'/34440, uuid='eb847d3d-c3dd-4198-af76-43d53f82c9a2', l='ServerLevel[world_nether]', x=-40.70, y=42.00, z=-20.52, cpos=[-3, -2], tl=173, v=true] died: Pirómano went off with a bang
+[23:36:53] [Server thread/INFO]: Named entity Pillager['Pirómano'/34352, uuid='bdfd883d-136f-4fad-a503-400dbe940ab3', l='ServerLevel[world_nether]', x=-31.62, y=42.00, z=-29.30, cpos=[-2, -2], tl=454, v=true] died: Pirómano burned to death
+[23:36:56] [Server thread/INFO]: Named entity Pillager['Pirómano'/34258, uuid='4087df44-d665-4545-9e37-b82e67f44c71', l='ServerLevel[world_nether]', x=-10.30, y=42.00, z=-27.70, cpos=[-1, -2], tl=838, v=true] died: Pirómano went off with a bang
+[23:36:57] [Server thread/INFO]: lg_santiago_1 (/100.96.27.113:51816) lost connection: Disconnected
+[23:36:57] [User Authenticator #16/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[23:37:01] [Server thread/INFO]: Named entity Pillager['Pirómano'/34470, uuid='05d3f3ba-7072-4262-92b2-ee16fdc1e790', l='ServerLevel[world_nether]', x=-10.30, y=42.00, z=-18.91, cpos=[-1, -2], tl=241, v=true] died: Pirómano was slain by XxLinkGamer21xX using [Master Sword]
+[23:37:04] [Server thread/INFO]: Named entity Pillager['Pirómano'/34452, uuid='b9091d4a-4675-446a-b845-d3d46fdc98ec', l='ServerLevel[world_nether]', x=-33.41, y=42.00, z=-28.99, cpos=[-3, -2], tl=339, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:37:05] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> AMIGO ANDO RE LAG
+[23:37:06] [Server thread/INFO]: Named entity Skeleton['Pirómano'/34402, uuid='62bd02bc-f403-49d8-921f-4cc33ac3f8c6', l='ServerLevel[world_nether]', x=-34.97, y=42.00, z=-17.59, cpos=[-3, -2], tl=545, v=true] died: Pirómano walked into the danger zone due to thenoxplayer
+[23:37:07] [User Authenticator #16/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[23:37:09] [Server thread/INFO]: lg_santiago_1 joined the game
+[23:37:09] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:51845] logged in with entity id 34573 at ([world_nether]-9.464830122144523, 41.875, -35.67101101111076)
+[23:37:10] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[23:37:10] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[23:37:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:37:11] [Server thread/INFO]: Named entity Pillager['Pirómano'/34495, uuid='fa56b861-0215-4894-bfad-752410a6cf28', l='ServerLevel[world_nether]', x=-26.29, y=42.00, z=-19.30, cpos=[-2, -2], tl=363, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:37:11] [Server thread/INFO]: Named entity Skeleton['Pirómano'/34457, uuid='343f7511-fe74-4445-8dec-7549533bf09b', l='ServerLevel[world_nether]', x=-23.06, y=41.22, z=-20.80, cpos=[-2, -2], tl=464, v=true] died: Pirómano tried to swim in lava
+[23:37:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:37:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[23:37:12] [Server thread/INFO]: Named entity Pillager['Pirómano'/34472, uuid='e63aaf1f-d9a7-4167-bf9c-5cc84adb9827', l='ServerLevel[world_nether]', x=-3.30, y=42.32, z=-14.51, cpos=[-1, -1], tl=451, v=true] died: Pirómano went off with a bang
+[23:37:13] [Server thread/INFO]: Named entity Skeleton['Pirómano'/34509, uuid='e1fdee4f-16f7-4fb6-8ee7-83a471bc949f', l='ServerLevel[world_nether]', x=-34.31, y=42.00, z=-30.87, cpos=[-3, -2], tl=365, v=true] died: Pirómano was burned to a crisp while fighting Guerrero Bruto
+[23:37:14] [Server thread/INFO]: Named entity Pillager['Pirómano'/34325, uuid='1a5cdabe-4b1f-4d82-81b4-cf627db507da', l='ServerLevel[world_nether]', x=-23.05, y=43.06, z=-26.70, cpos=[-2, -2], tl=952, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:37:15] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33744, uuid='380e6626-f1a0-436c-a7ad-2d8d1f62f8f6', l='ServerLevel[world_nether]', x=-24.46, y=41.00, z=-19.32, cpos=[-2, -2], tl=2241, v=true] died: Guerrero Bruto was shot by Gatunixdd
+[23:37:15] [Server thread/INFO]: Named entity Pillager['Pirómano'/34434, uuid='bb5682c0-4675-43bd-9260-d04859dc7a12', l='ServerLevel[world_nether]', x=-33.52, y=43.00, z=-13.76, cpos=[-3, -1], tl=656, v=true] died: Pirómano was slain by iRagc
+[23:37:18] [Server thread/INFO]: Named entity Pillager['Pirómano'/34433, uuid='d4e2053d-a170-4e44-8aa9-a1ef75110400', l='ServerLevel[world_nether]', x=-29.79, y=42.00, z=-6.75, cpos=[-2, -1], tl=709, v=true] died: Pirómano was slain by thenoxplayer
+[23:37:20] [Server thread/INFO]: Named entity Pillager['Pirómano'/34312, uuid='40a79ced-33ba-4184-ae4c-67a3b70ab1d5', l='ServerLevel[world_nether]', x=-14.51, y=43.00, z=-29.93, cpos=[-1, -2], tl=1094, v=true] died: Pirómano was slain by lg_santiago_1
+[23:37:21] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/33807, uuid='b1a91b29-3ad6-45fe-a378-e18bf43758a9', l='ServerLevel[world_nether]', x=-25.48, y=42.00, z=-20.86, cpos=[-2, -2], tl=2226, v=true] died: Guerrero Bruto was shot by Gatunixdd
+[23:37:24] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[23:37:24] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[23:37:24] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/34158, uuid='8a998dda-e6fa-4f1a-bc0b-4f40a3f1fb08', l='ServerLevel[world_nether]', x=-25.63, y=42.00, z=-20.31, cpos=[-2, -2], tl=1688, v=true] died: Guerrero Bruto was shot by Gatunixdd
+[23:37:29] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/34427, uuid='f01a0b15-58a8-4eea-b74c-c82632346699', l='ServerLevel[world_nether]', x=-35.11, y=42.00, z=-19.43, cpos=[-3, -2], tl=943, v=true] died: Guerrero Bruto was burned to a crisp while fighting iRagc
+[23:37:38] [Server thread/INFO]: Named entity Skeleton['Pirómano'/34523, uuid='76a7f417-349f-4f48-9c12-448fd2d5bdaf', l='ServerLevel[world_nether]', x=-35.85, y=42.00, z=-31.59, cpos=[-3, -2], tl=806, v=true] died: Pirómano went off with a bang
+[23:37:41] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/34029, uuid='844f65d3-5966-43ee-a5ce-23f2ff0cc046', l='ServerLevel[world_nether]', x=-41.23, y=42.00, z=-25.53, cpos=[-3, -2], tl=2222, v=true] died: Guerrero Bruto was slain by Gatunixdd
+[23:37:43] [Server thread/INFO]: Named entity Pillager['Pirómano'/34678, uuid='9c661ed2-5080-4c6c-b840-dd53dccce852', l='ServerLevel[world_nether]', x=-40.70, y=42.00, z=-31.70, cpos=[-3, -2], tl=174, v=true] died: Pirómano was slain by Guerrero Bruto
+[23:37:47] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> ROMPAN SPAWNERS
+[23:37:47] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> ROMPAN SPAWNERS
+[23:37:48] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> ROMPAN SPAWNERS
+[23:37:49] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/34050, uuid='a8b85d87-cb99-4709-bedc-9627d12b5e65', l='ServerLevel[world_nether]', x=-28.17, y=42.23, z=-29.67, cpos=[-2, -2], tl=2357, v=true] died: Guerrero Bruto was shot by Pirómano
+[23:37:50] [Server thread/INFO]: Named entity Pillager['Pirómano'/34677, uuid='e1beb8d1-8e53-4c9e-8c12-188a61b23e96', l='ServerLevel[world_nether]', x=-29.88, y=43.13, z=-31.59, cpos=[-2, -2], tl=334, v=true] died: Pirómano was slain by lg_santiago_1
+[23:37:51] [Server thread/INFO]: Named entity Skeleton['Pirómano'/34703, uuid='f0e98737-3881-4c84-8afa-6a8bd8686af4', l='ServerLevel[world_nether]', x=-28.10, y=42.00, z=-29.32, cpos=[-2, -2], tl=216, v=true] died: Pirómano was slain by AdrianoLC
+[23:37:51] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> QUE IMBECIL
+[23:37:52] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> XDDD
+[23:37:53] [Server thread/INFO]: Named entity Pillager['Pirómano'/34679, uuid='c60958d1-b4e3-448a-a104-ca05c9de7924', l='ServerLevel[world_nether]', x=-34.29, y=42.00, z=-29.26, cpos=[-3, -2], tl=393, v=true] died: Pirómano was slain by lg_santiago_1
+[23:38:00] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> NO TENGO ESCUDO
+[23:38:01] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> DOWN
+[23:38:07] [Server thread/INFO]: TeeRobZti lost connection: Disconnected
+[23:38:07] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[23:38:07] [Server thread/INFO]: TeeRobZti left the game
+[23:38:10] [Server thread/INFO]: Named entity Pillager['Pirómano'/34311, uuid='c6f5fd3f-e69f-4e90-9eba-dcc109f1cbc7', l='ServerLevel[world_nether]', x=-13.10, y=42.00, z=-34.70, cpos=[-1, -3], tl=2100, v=true] died: Pirómano went off with a bang
+[23:38:14] [Server thread/INFO]: Torre22932 has made the advancement [Who Needs Rockets?]
+[23:38:16] [User Authenticator #17/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[23:38:22] [Server thread/INFO]: TeeRobZti joined the game
+[23:38:22] [Server thread/INFO]: TeeRobZti[/100.127.70.41:61112] logged in with entity id 34787 at ([world_nether]-30.1901928192256, 44.0, 1.0453759441953505)
+[23:38:22] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[23:38:22] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[23:38:23] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> VENGAN
+[23:38:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[23:38:23] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> VENGAN
+[23:38:23] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> VENGAN
+[23:38:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[23:38:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[23:38:27] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/34283, uuid='4cb23873-35f1-46d7-9850-e7f3e94bbffe', l='ServerLevel[world_nether]', x=1.51, y=42.00, z=-1.15, cpos=[0, -1], tl=2610, v=true] died: Guerrero Bruto was shot by iRagc
+[23:38:31] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> QUIEN FALTA??Y
+[23:38:31] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> QUIEN FALTA??Y
+[23:38:31] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> QUIEN FALTA??Y
+[23:38:42] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> QUIEN FALTA??
+[23:38:47] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> si fue torre amigo
+[23:38:51] [Server thread/INFO]: XxLinkGamer21xX has made the advancement [Oh, f&#k...]
+[23:38:51] [Server thread/INFO]: AdrianoLC has made the advancement [Oh, f&#k...]
+[23:38:51] [Server thread/INFO]: Vennom_123 has made the advancement [Oh, f&#k...]
+[23:38:51] [Server thread/INFO]: wolftho has made the advancement [Oh, f&#k...]
+[23:38:51] [Server thread/INFO]: iRagc has made the advancement [Oh, f&#k...]
+[23:38:51] [Server thread/INFO]: Torre22932 has made the advancement [Oh, f&#k...]
+[23:38:51] [Server thread/INFO]: Gatunixdd has made the advancement [Oh, f&#k...]
+[23:38:51] [Server thread/INFO]: thenoxplayer has made the advancement [Oh, f&#k...]
+[23:38:51] [Server thread/INFO]: lg_santiago_1 has made the advancement [Oh, f&#k...]
+[23:38:51] [Server thread/INFO]: TeeRobZti has made the advancement [Oh, f&#k...]
+[23:38:55] [Async Chat Thread - #20/INFO]: [Not Secure] <thenoxplayer> VENGANZA
+[23:38:55] [Async Chat Thread - #18/INFO]: [Not Secure] <thenoxplayer> VENGANZA
+[23:38:56] [Async Chat Thread - #18/INFO]: [Not Secure] <thenoxplayer> VENGANZA
+[23:38:56] [Async Chat Thread - #18/INFO]: [Not Secure] <thenoxplayer> VENGANZA
+[23:39:09] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:sharpness 5
+[23:39:09] [Server thread/INFO]: [TeeRobZti: Applied enchantment Sharpness V to TeeRobZti's item]
+[23:39:16] [Server thread/INFO]: AdrianoLC has reached the goal [Postmortal]
+[23:39:16] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:unbreaking 3
+[23:39:16] [Server thread/INFO]: [TeeRobZti: Applied enchantment Unbreaking III to TeeRobZti's item]
+[23:39:16] [Server thread/WARN]: AdrianoLC moved too quickly! -4.7310246680647765,0.2663679939575232,-9.568729508776933
+[23:39:22] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:mending
+[23:39:22] [Server thread/INFO]: [TeeRobZti: Applied enchantment Mending to TeeRobZti's item]
+[23:39:22] [Async Chat Thread - #18/INFO]: [Not Secure] <Torre22932> no me va a instakillear de nuevo
+[23:39:22] [Async Chat Thread - #18/INFO]: [Not Secure] <Torre22932> no me va a instakillear de nuevo
+[23:39:23] [Async Chat Thread - #18/INFO]: [Not Secure] <Torre22932> no me va a instakillear de nuevo
+[23:39:23] [Async Chat Thread - #18/INFO]: [Not Secure] <Torre22932> no me va a instakillear de nuevo
+[23:39:23] [Async Chat Thread - #18/INFO]: [Not Secure] <Torre22932> no me va a instakillear de nuevo
+[23:39:27] [Async Chat Thread - #18/INFO]: [Not Secure] <AdrianoLC> como me rompio??
+[23:39:28] [Server thread/INFO]: lg_santiago_1 lost connection: Disconnected
+[23:39:28] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[23:39:28] [Server thread/INFO]: lg_santiago_1 left the game
+[23:39:30] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:fire_aspect 2
+[23:39:30] [Server thread/INFO]: [TeeRobZti: Applied enchantment Fire Aspect II to TeeRobZti's item]
+[23:39:34] [Async Chat Thread - #18/INFO]: [Not Secure] <AdrianoLC> como me rompio??
+[23:39:35] [Async Chat Thread - #18/INFO]: [Not Secure] <AdrianoLC> como me rompio??
+[23:39:35] [Async Chat Thread - #18/INFO]: [Not Secure] <AdrianoLC> como me rompio??
+[23:39:40] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:sweeping_edge 3
+[23:39:40] [Server thread/INFO]: [TeeRobZti: Applied enchantment Sweeping Edge III to TeeRobZti's item]
+[23:39:45] [Async Chat Thread - #18/INFO]: [Not Secure] <thenoxplayer> te lageaste como negreo
+[23:39:47] [User Authenticator #18/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[23:39:48] [Async Chat Thread - #20/INFO]: [Not Secure] <AdrianoLC> naa
+[23:39:49] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:sweeping_edge 3
+[23:39:49] [Server thread/INFO]: [TeeRobZti: Applied enchantment Sweeping Edge III to TeeRobZti's item]
+[23:39:50] [Server thread/INFO]: lg_santiago_1 joined the game
+[23:39:50] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:51881] logged in with entity id 35864 at ([world_nether]-44.33041029855436, 42.0, 4.1812052016426735)
+[23:39:50] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[23:39:50] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[23:39:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:39:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:39:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[23:39:54] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[23:39:54] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[23:40:05] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> le sacamos vida pero se cura XD
+[23:40:05] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> le sacamos vida pero se cura XD
+[23:40:06] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> le sacamos vida pero se cura XD
+[23:40:06] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> le sacamos vida pero se cura XD
+[23:40:06] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> le sacamos vida pero se cura XD
+[23:40:09] [Server thread/WARN]: AdrianoLC moved wrongly!
+[23:40:11] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[23:40:11] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[23:40:16] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[23:40:16] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[23:40:39] [Server thread/INFO]: lg_santiago_1 lost connection: Timed out
+[23:40:39] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[23:40:39] [Server thread/INFO]: lg_santiago_1 left the game
+[23:40:43] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:unbreaking 3
+[23:40:43] [Server thread/INFO]: [TeeRobZti: Applied enchantment Unbreaking III to TeeRobZti's item]
+[23:40:47] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:efficiency 5
+[23:40:47] [Server thread/INFO]: [TeeRobZti: Applied enchantment Efficiency V to TeeRobZti's item]
+[23:40:50] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:mending
+[23:40:50] [Server thread/INFO]: [TeeRobZti: Applied enchantment Mending to TeeRobZti's item]
+[23:40:54] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:fortune 3
+[23:40:54] [Server thread/INFO]: [TeeRobZti: Applied enchantment Fortune III to TeeRobZti's item]
+[23:41:04] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:mending
+[23:41:04] [Server thread/INFO]: [TeeRobZti: Applied enchantment Mending to TeeRobZti's item]
+[23:41:06] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:efficiency 5
+[23:41:06] [Server thread/INFO]: [TeeRobZti: Applied enchantment Efficiency V to TeeRobZti's item]
+[23:41:07] [Server thread/INFO]: thenoxplayer issued server command: /msg TeeRobZti hace algo para q se libere gordo sino re injusto
+[23:41:11] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:unbreaking 3
+[23:41:11] [Server thread/INFO]: [TeeRobZti: Applied enchantment Unbreaking III to TeeRobZti's item]
+[23:41:13] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[23:41:13] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[23:41:14] [Async Chat Thread - #22/INFO]: [Not Secure] <Gatunixdd> NO DEJEN DE PEGAR
+[23:41:20] [Async Chat Thread - #22/INFO]: [Not Secure] <Torre22932> c evento
+[23:41:20] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer para amigo se me elimino toda la hotbar XD
+[23:41:22] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[23:41:22] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[23:41:25] [User Authenticator #19/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[23:41:25] [Async Chat Thread - #21/INFO]: [Not Secure] <TeeRobZti> awd
+[23:41:25] [Async Chat Thread - #21/INFO]: [Not Secure] <TeeRobZti> asd
+[23:41:26] [Async Chat Thread - #22/INFO]: [Not Secure] <TeeRobZti> asd
+[23:41:26] [Async Chat Thread - #22/INFO]: [Not Secure] <TeeRobZti> asd
+[23:41:28] [Server thread/INFO]: lg_santiago_1 joined the game
+[23:41:28] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:52008] logged in with entity id 37412 at ([world_nether]-35.89107730546037, 44.17675927506424, -24.88526391096708)
+[23:41:28] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[23:41:28] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[23:41:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:41:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:41:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[23:41:41] [Async Chat Thread - #22/INFO]: [Not Secure] <Vennom_123> se regenera altoque XD
+[23:41:52] [Async Chat Thread - #22/INFO]: [Not Secure] <Torre22932> como olvidar cuando este negro me instakilleo
+[23:41:52] [Async Chat Thread - #22/INFO]: [Not Secure] <Torre22932> como olvidar cuando este negro me instakilleo
+[23:41:52] [Async Chat Thread - #22/INFO]: [Not Secure] <Gatunixdd> dejenlo salir xd, que aburrido asi nomas
+[23:41:52] [Async Chat Thread - #22/INFO]: [Not Secure] <Torre22932> como olvidar cuando este negro me instakilleo
+[23:41:53] [Async Chat Thread - #22/INFO]: [Not Secure] <Torre22932> como olvidar cuando este negro me instakilleo
+[23:41:53] [Async Chat Thread - #22/INFO]: [Not Secure] <Torre22932> como olvidar cuando este negro me instakilleo
+[23:41:53] [Async Chat Thread - #22/INFO]: [Not Secure] <Torre22932> como olvidar cuando este negro me instakilleo
+[23:41:54] [Async Chat Thread - #22/INFO]: [Not Secure] <Torre22932> como olvidar cuando este negro me instakilleo
+[23:41:54] [Async Chat Thread - #22/INFO]: [Not Secure] <Torre22932> como olvidar cuando este negro me instakilleo
+[23:41:54] [Async Chat Thread - #22/INFO]: [Not Secure] <Gatunixdd> dejenlo salir xd, que aburrido asi nomas
+[23:41:54] [Async Chat Thread - #21/INFO]: [Not Secure] <Gatunixdd> dejenlo salir xd, que aburrido asi nomas
+[23:41:55] [Async Chat Thread - #21/INFO]: [Not Secure] <Gatunixdd> dejenlo salir xd, que aburrido asi nomas
+[23:41:55] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:power 5
+[23:41:55] [Server thread/INFO]: [TeeRobZti: Applied enchantment Power V to TeeRobZti's item]
+[23:41:55] [Async Chat Thread - #21/INFO]: [Not Secure] <Gatunixdd> dejenlo salir xd, que aburrido asi nomas
+[23:41:56] [Async Chat Thread - #21/INFO]: [Not Secure] <Gatunixdd> dejenlo salir xd, que aburrido asi nomas
+[23:41:58] [Server thread/INFO]: lg_santiago_1 lost connection: Timed out
+[23:41:58] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[23:41:58] [Server thread/INFO]: lg_santiago_1 left the game
+[23:41:59] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:unbreaking
+[23:41:59] [Server thread/INFO]: [TeeRobZti: Applied enchantment Unbreaking I to TeeRobZti's item]
+[23:42:00] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:unbreaking 3
+[23:42:08] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:unbreaking 3
+[23:42:08] [Server thread/INFO]: [TeeRobZti: Applied enchantment Unbreaking III to TeeRobZti's item]
+[23:42:10] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:power 5
+[23:42:10] [Server thread/INFO]: [TeeRobZti: Applied enchantment Power V to TeeRobZti's item]
+[23:42:14] [Async Chat Thread - #22/INFO]: [Not Secure] <Torre22932> como olvidar cuando este negro me instakilleo
+[23:42:15] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:infinity
+[23:42:15] [Server thread/INFO]: [TeeRobZti: Applied enchantment Infinity to TeeRobZti's item]
+[23:42:18] [Async Chat Thread - #22/INFO]: [Not Secure] <thenoxplayer> cerra el culo
+[23:42:21] [User Authenticator #19/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[23:42:22] [Server thread/INFO]: TeeRobZti issued server command: /enchant TeeRobZti minecraft:flame
+[23:42:22] [Server thread/INFO]: [TeeRobZti: Applied enchantment Flame to TeeRobZti's item]
+[23:42:24] [Server thread/INFO]: lg_santiago_1 joined the game
+[23:42:24] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:52035] logged in with entity id 38256 at ([world_nether]-26.30000001192093, 43.249471977703095, -31.69999998807907)
+[23:42:24] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[23:42:24] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[23:42:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:42:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:42:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[23:42:27] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[23:42:27] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[23:42:28] [Async Chat Thread - #21/INFO]: [Not Secure] <Torre22932> tu vieja lo tiene cerradito
+[23:42:32] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[23:42:32] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[23:42:39] [Async Chat Thread - #21/INFO]: [Not Secure] <XxLinkGamer21xX> Dicen que hay que ir a la arena
+[23:42:43] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[23:42:43] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[23:42:43] [Async Chat Thread - #21/INFO]: [Not Secure] <wolftho> AMIGO YA SE
+[23:42:48] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[23:42:48] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[23:42:48] [Async Chat Thread - #21/INFO]: [Not Secure] <wolftho> SE CURA PORQUE LE PEGAMOS DOWNS
+[23:42:50] [Async Chat Thread - #21/INFO]: [Not Secure] <Vennom_123> tiene que estar en la arena
+[23:43:00] [Async Chat Thread - #21/INFO]: [Not Secure] <wolftho> HAY UNA FASE QUE SE CURA CUANDO LE PEGAMOS
