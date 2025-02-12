@@ -255,3 +255,100 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 [16:02:19] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
 [16:02:22] [Server thread/INFO]: qSeren issued server command: /gamemode creative
 [16:02:22] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[16:09:28] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[16:09:28] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[16:09:31] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[16:09:31] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[16:09:45] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
+[16:09:45] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
+[16:09:49] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[16:09:49] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[16:09:52] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[16:09:52] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[16:09:55] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[16:09:55] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[16:09:57] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[16:09:57] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[16:10:00] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[16:10:00] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[16:10:01] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[16:10:01] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[16:11:10] [Server thread/INFO]: qSeren issued server command: //set 25%polished_blackstone,25%blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
+[16:11:23] [Server thread/INFO]: TeeRobZti issued server command: /tp qSeren
+[16:11:23] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to qSeren]
+[16:12:34] [Server thread/INFO]: TeeRobZti issued server command: /ban qSeren
+[16:12:34] [Server thread/INFO]: [TeeRobZti: Banned qSeren: Banned by an operator.]
+[16:12:34] [Server thread/INFO]: qSeren lost connection: You are banned from this server
+[16:12:34] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[16:12:34] [Server thread/INFO]: qSeren left the game
+[16:12:38] [User Authenticator #7/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[16:12:38] [Server thread/INFO]: Disconnecting qSeren (/100.86.135.121:51226): You are banned from this server.
+Reason: Banned by an operator.
+[16:12:38] [Server thread/INFO]: qSeren (/100.86.135.121:51226) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[16:12:47] [Server thread/INFO]: Banned TeeRobZti: Banned by an operator.
+[16:12:47] [Server thread/INFO]: TeeRobZti lost connection: You are banned from this server
+[16:12:47] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[16:12:47] [Server thread/INFO]: TeeRobZti left the game
+[16:12:50] [Server thread/INFO]: Unbanned qSeren
+[16:12:51] [Server thread/INFO]: Unbanned TeeRobZti
+[16:12:56] [User Authenticator #7/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[16:12:59] [Server thread/INFO]: qSeren joined the game
+[16:12:59] [Server thread/INFO]: qSeren[/100.86.135.121:51312] logged in with entity id 1442 at ([world_nether]-46.62994886342491, 50.200000047683716, 11.686667435464289)
+[16:12:59] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[16:12:59] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[16:13:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[16:13:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[16:13:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[16:13:12] [User Authenticator #7/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[16:13:17] [Server thread/INFO]: TeeRobZti joined the game
+[16:13:17] [Server thread/INFO]: TeeRobZti[/100.127.70.41:58797] logged in with entity id 1445 at ([world_nether]-46.69999998807907, 42.0, 11.949999988079071)
+[16:13:17] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[16:13:17] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[16:13:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[16:13:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[16:13:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[16:13:24] [Async Chat Thread - #6/INFO]: [Not Secure] <TeeRobZti> 7momo
+[16:13:43] [Craft Scheduler Thread - 69 - ImageFrame/INFO]: [ImageFrame] Failed to check against "api.loohpjames.com" for the latest version.. It could be an internet issue or "api.loohpjames.com" is down. If you want disable the update checker, you can disable in config.yml, but we still highly-recommend you to keep your plugin up to date!
+[16:13:43] [Craft Scheduler Thread - 68 - ImageFrame/INFO]: [ImageFrame] Failed to check against "api.loohpjames.com" for the latest version.. It could be an internet issue or "api.loohpjames.com" is down. If you want disable the update checker, you can disable in config.yml, but we still highly-recommend you to keep your plugin up to date!
+[16:13:54] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[16:13:54] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[16:13:59] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[16:13:59] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[16:14:01] [Craft Scheduler Thread - 71 - ImageFrame/INFO]: [ImageFrame] Failed to check against "api.loohpjames.com" for the latest version.. It could be an internet issue or "api.loohpjames.com" is down. If you want disable the update checker, you can disable in config.yml, but we still highly-recommend you to keep your plugin up to date!
+[16:14:01] [Craft Scheduler Thread - 70 - ImageFrame/INFO]: [ImageFrame] Failed to check against "api.loohpjames.com" for the latest version.. It could be an internet issue or "api.loohpjames.com" is down. If you want disable the update checker, you can disable in config.yml, but we still highly-recommend you to keep your plugin up to date!
+[16:14:54] [Server thread/INFO]: TeeRobZti issued server command: /tp qSeren
+[16:14:54] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to qSeren]
+[16:16:48] [Server thread/INFO]: qSeren issued server command: //set 25%polished_blackstone,25%blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
+[16:17:03] [Server thread/INFO]: qSeren issued server command: //set 25%polished_blackstone,25%blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
+[16:17:20] [Server thread/INFO]: qSeren issued server command: //set 25%polished_blackstone,25%blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
+[16:17:20] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[16:17:20] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[16:17:22] [Server thread/INFO]: qSeren issued server command: /tp te
+[16:17:23] [Server thread/INFO]: qSeren issued server command: /tp te
+[16:17:24] [Server thread/INFO]: qSeren issued server command: /tp TeeRobZti
+[16:17:24] [Server thread/INFO]: [qSeren: Teleported qSeren to TeeRobZti]
+[16:17:26] [Server thread/INFO]: qSeren issued server command: /tp TeeRobZti
+[16:17:26] [Server thread/INFO]: [qSeren: Teleported qSeren to TeeRobZti]
+[16:17:27] [Server thread/INFO]: qSeren issued server command: /tp TeeRobZti
+[16:17:27] [Server thread/INFO]: [qSeren: Teleported qSeren to TeeRobZti]
+[16:17:28] [Server thread/INFO]: qSeren issued server command: /tp TeeRobZti
+[16:17:28] [Server thread/INFO]: [qSeren: Teleported qSeren to TeeRobZti]
+[16:17:28] [Server thread/INFO]: qSeren issued server command: /tp TeeRobZti
+[16:17:28] [Server thread/INFO]: [qSeren: Teleported qSeren to TeeRobZti]
+[16:17:30] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[16:17:30] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[16:17:49] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[16:17:49] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[16:18:06] [Server thread/INFO]: qSeren issued server command: /tp TeeRobZti
+[16:18:06] [Server thread/INFO]: [qSeren: Teleported qSeren to TeeRobZti]
+[16:18:07] [Server thread/INFO]: qSeren issued server command: //set 25%polished_blackstone,25%blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
+[16:18:13] [Server thread/INFO]: qSeren issued server command: //set 25%polished_blackstone,25%blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
+[16:18:18] [Server thread/INFO]: qSeren issued server command: //set 25%polished_blackstone,25%blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
+[16:18:20] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[16:18:20] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[16:18:20] [Server thread/INFO]: qSeren issued server command: /tp TeeRobZti
+[16:18:20] [Server thread/INFO]: [qSeren: Teleported qSeren to TeeRobZti]
+[16:18:22] [Server thread/INFO]: qSeren issued server command: /tp TeeRobZti
+[16:18:22] [Server thread/INFO]: [qSeren: Teleported qSeren to TeeRobZti]
+[16:18:33] [Server thread/INFO]: qSeren issued server command: //set 25%polished_blackstone,25%blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
