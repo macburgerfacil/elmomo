@@ -1355,3 +1355,65 @@
 [04:32:49] [Server thread/INFO]: wolftho lost connection: Disconnected
 [04:32:49] [Server thread/INFO]: [voicechat] Disconnecting client wolftho
 [04:32:49] [Server thread/INFO]: wolftho left the game
+[04:34:38] [User Authenticator #23/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[04:34:40] [Server thread/INFO]: qSeren joined the game
+[04:34:40] [Server thread/INFO]: qSeren[/100.86.135.121:59819] logged in with entity id 100273 at ([world]3417.699999988079, 54.0, 149.0054267877771)
+[04:34:40] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[04:34:40] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[04:34:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[04:34:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[04:34:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[04:36:05] [Async Chat Thread - #109/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[04:37:18] [Server thread/INFO]: XxLinkGamer21xX has made the advancement [A Throwaway Joke]
+[04:37:45] [Server thread/INFO]: TeeRobZti has made the advancement [Under Lock and Key]
+[04:39:02] [Async Chat Thread - #111/INFO]: [Not Secure] <qSeren> si
+[04:39:03] [Async Chat Thread - #111/INFO]: [Not Secure] <qSeren> veni
+[04:39:53] [Server thread/INFO]: XxLinkGamer21xX lost connection: Disconnected
+[04:39:53] [Server thread/INFO]: [voicechat] Disconnecting client XxLinkGamer21xX
+[04:39:53] [Server thread/INFO]: XxLinkGamer21xX left the game
+[04:40:09] [Server thread/INFO]: TeeRobZti lost connection: Disconnected
+[04:40:09] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[04:40:09] [Server thread/INFO]: TeeRobZti left the game
+[04:40:15] [Server thread/INFO]: qSeren lost connection: Disconnected
+[04:40:15] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[04:40:15] [Server thread/INFO]: qSeren left the game
+[04:40:20] [Server thread/INFO]: Stopping the server
+[04:40:20] [Server thread/INFO]: Stopping server
+[04:40:20] [Server thread/INFO]: [FastChunkPregenerator] Disabling FastChunkPregenerator v2.0.9-SNAPSHOT
+[04:40:20] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
+[04:40:20] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[04:40:20] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[04:40:20] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[04:40:20] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[04:40:20] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[04:40:20] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[04:40:20] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.7.10.0
+[04:40:20] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
+[04:40:20] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[04:40:20] [Server thread/INFO]: Saving players
+[04:40:20] [Server thread/INFO]: Saving worlds
+[04:40:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:40:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:40:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:40:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Saved 542 block chunks, 115 entity chunks, 0 poi chunks in world 'world' in 0.51s
+[04:40:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[04:40:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[04:40:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_cavernous_the_myst]'/cavernous:the_myst
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_cavernous_the_myst'
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_cavernous_the_myst'
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_cavernous_the_myst'
+[04:40:21] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 8 entity chunks, 0 poi chunks in world 'world_cavernous_the_myst' in 0.00s
+[04:40:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:40:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:40:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:40:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_myst): All chunks are saved
+[04:40:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
