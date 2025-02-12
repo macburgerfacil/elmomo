@@ -812,6 +812,7 @@
       "minecraft:vex": "2025-02-09 01:28:04 +0000",
       "minecraft:zombie": "2025-02-08 23:22:13 +0000",
       "minecraft:creeper": "2025-02-09 00:05:46 +0000",
+      "minecraft:zombie_villager": "2025-02-12 22:41:19 +0000",
       "minecraft:evoker": "2025-02-11 23:18:07 +0000"
     },
     "done": false
@@ -2936,75 +2937,99 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 00:02:42 +0000"
+      "log_spam_fixer": "2025-02-12 22:59:10 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 00:02:42 +0000"
+      "log_spam_fixer": "2025-02-12 22:59:10 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 00:02:42 +0000"
+      "log_spam_fixer": "2025-02-12 22:59:10 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 00:02:42 +0000"
+      "log_spam_fixer": "2025-02-12 22:59:10 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 00:02:42 +0000"
+      "log_spam_fixer": "2025-02-12 22:59:10 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 00:02:42 +0000"
+      "log_spam_fixer": "2025-02-12 22:59:10 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 00:02:42 +0000"
+      "log_spam_fixer": "2025-02-12 22:59:10 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 00:02:42 +0000"
+      "log_spam_fixer": "2025-02-12 22:59:10 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 00:02:42 +0000"
+      "log_spam_fixer": "2025-02-12 22:59:10 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 00:02:42 +0000"
+      "log_spam_fixer": "2025-02-12 22:59:10 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 00:02:42 +0000"
+      "log_spam_fixer": "2025-02-12 22:59:10 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 00:02:42 +0000"
+      "log_spam_fixer": "2025-02-12 22:59:10 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-12 22:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-12 22:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-02-12 22:38:51 +0000"
+    },
+    "done": true
+  },
+  "cavernous:miner_inconvenience": {
+    "criteria": {
+      "skull": "2025-02-12 22:49:13 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

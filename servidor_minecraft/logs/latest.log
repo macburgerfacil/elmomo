@@ -198,3 +198,600 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 [22:18:13] [Async Chat Thread - #4/INFO]: [Not Secure] <TeeRobZti> COJONES
 [22:18:14] [Async Chat Thread - #4/INFO]: [Not Secure] <TeeRobZti> OSTIA PUTA<
 [22:18:19] [Async Chat Thread - #4/INFO]: [Not Secure] <Gatunixdd> uy TeeRobZti te voy a violar
+[22:18:33] [Server thread/INFO]: Villager Villager['Villager'/93, uuid='f25fca5b-f08b-444e-8a9e-420cee42726a', l='ServerLevel[world]', x=1733.15, y=-20.00, z=1155.30, cpos=[108, 72], tl=90564, v=true] died, message: 'Villager was squished too much'
+[22:18:37] [Server thread/INFO]: Villager Villager['Villager'/94, uuid='cb70e170-30d6-4d3f-b677-7117522bdda7', l='ServerLevel[world]', x=1733.34, y=-20.00, z=1155.56, cpos=[108, 72], tl=51524, v=true] died, message: 'Villager was squished too much'
+[22:18:38] [Server thread/INFO]: Villager Villager['Villager'/87, uuid='881a6d60-6839-412a-81f4-c20d76d42fb3', l='ServerLevel[world]', x=1733.42, y=-20.00, z=1155.70, cpos=[108, 72], tl=219781, v=true] died, message: 'Villager was squished too much'
+[22:19:12] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> 9512 4230
+[22:19:22] [Async Chat Thread - #4/INFO]: [Not Secure] <lg_santiago_1> bro respeta
+[22:19:31] [Async Chat Thread - #4/INFO]: [Not Secure] <Gatunixdd> BRO ESTAMOS A 100000000 BLOQUES
+[22:20:18] [Async Chat Thread - #4/INFO]: [Not Secure] <lg_santiago_1> me tenes volumen en el vc
+[22:20:53] [Server thread/INFO]: Gatunixdd lost connection: Disconnected
+[22:20:53] [Server thread/INFO]: [voicechat] Disconnecting client Gatunixdd
+[22:20:53] [Server thread/INFO]: Gatunixdd left the game
+[22:21:07] [User Authenticator #3/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
+[22:21:17] [Server thread/INFO]: Gatunixdd joined the game
+[22:21:17] [Server thread/INFO]: Gatunixdd[/100.95.252.69:14638] logged in with entity id 3149 at ([world]1494.0597969842715, 71.0, 1144.6413766962928)
+[22:21:17] [Server thread/INFO]: [voicechat] Received secret request of Gatunixdd (18)
+[22:21:17] [Server thread/INFO]: [voicechat] Sent secret to Gatunixdd
+[22:21:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[22:21:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[22:21:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gatunixdd (30c6f3b7-f46c-3424-a802-e7c599266de4) successfully connected to voice chat
+[22:21:32] [User Authenticator #3/INFO]: UUID of player XxLinkGamer21xX is 87e98908-6304-33f8-b6f1-46e0f1b14699
+[22:21:34] [Server thread/INFO]: XxLinkGamer21xX joined the game
+[22:21:34] [Server thread/INFO]: XxLinkGamer21xX[/100.100.10.84:51921] logged in with entity id 3311 at ([world]-885.5179699595157, 122.0, -1348.35876755061)
+[22:21:35] [Server thread/INFO]: [voicechat] Received secret request of XxLinkGamer21xX (18)
+[22:21:35] [Server thread/INFO]: [voicechat] Sent secret to XxLinkGamer21xX
+[22:21:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 87e98908-6304-33f8-b6f1-46e0f1b14699
+[22:21:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 87e98908-6304-33f8-b6f1-46e0f1b14699
+[22:21:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player XxLinkGamer21xX (87e98908-6304-33f8-b6f1-46e0f1b14699) successfully connected to voice chat
+[22:21:37] [Async Chat Thread - #5/INFO]: [Not Secure] <thenoxplayer> GRASA
+[22:21:38] [Async Chat Thread - #5/INFO]: [Not Secure] <thenoxplayer> TOAL
+[22:21:39] [Async Chat Thread - #5/INFO]: [Not Secure] <AdrianoLC> NAA ME VA MAL
+[22:21:40] [Async Chat Thread - #5/INFO]: [Not Secure] <AdrianoLC> ME VA MAL
+[22:21:40] [Async Chat Thread - #5/INFO]: [Not Secure] <thenoxplayer> total
+[22:21:42] [Async Chat Thread - #5/INFO]: [Not Secure] <TeeRobZti> na
+[22:21:42] [Async Chat Thread - #5/INFO]: [Not Secure] <TeeRobZti> asd
+[22:21:43] [Server thread/INFO]: TeeRobZti issued server command: /
+[22:21:43] [Async Chat Thread - #5/INFO]: [Not Secure] <TeeRobZti> asd
+[22:21:44] [Async Chat Thread - #5/INFO]: [Not Secure] <TeeRobZti> asd
+[22:21:44] [Async Chat Thread - #5/INFO]: [Not Secure] <TeeRobZti> sad
+[22:21:45] [Async Chat Thread - #5/INFO]: [Not Secure] <TeeRobZti> asd
+[22:21:45] [Async Chat Thread - #5/INFO]: [Not Secure] <qSeren> 3 TPS
+[22:21:46] [Async Chat Thread - #5/INFO]: [Not Secure] <TeeRobZti> lag
+[22:21:47] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> asd
+[22:21:50] [Async Chat Thread - #5/INFO]: [Not Secure] <AdrianoLC> -10 TPS
+[22:21:51] [Server thread/INFO]: lg_santiago_1 lost connection: Disconnected
+[22:21:51] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[22:21:51] [Server thread/INFO]: lg_santiago_1 left the game
+[22:21:53] [Async Chat Thread - #6/INFO]: [Not Secure] <AdrianoLC> GORDO CONSUME RAM
+[22:21:57] [User Authenticator #3/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[22:21:58] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> SE ME CAE EL SERVERRRRRRRRRRRRRR
+[22:21:59] [Server thread/INFO]: lg_santiago_1 joined the game
+[22:21:59] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:51609] logged in with entity id 3695 at ([world]1685.2580201816425, -20.0, 1171.7816878740166)
+[22:21:59] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[22:21:59] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[22:22:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[22:22:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[22:22:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[22:22:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Gatunixdd> TENGO RE BUG LAS TEXTURAS QUE MIERDAAAAAAAAAAAAAAAAA
+[22:22:03] [Async Chat Thread - #5/INFO]: [Not Secure] <Gatunixdd> TENGO RE BUG LAS TEXTURAS QUE MIERDAAAAAAAAAAAAAAAAA
+[22:22:03] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> TENGO RE BUG LAS TEXTURAS QUE MIERDAAAAAAAAAAAAAAAAA
+[22:22:03] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> TENGO RE BUG LAS TEXTURAS QUE MIERDAAAAAAAAAAAAAAAAA
+[22:22:12] [Async Chat Thread - #6/INFO]: [Not Secure] <AdrianoLC> LINK MIRA LO QUE HACESS
+[22:22:18] [Async Chat Thread - #6/INFO]: [Not Secure] <XxLinkGamer21xX> Down
+[22:22:26] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> NAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[22:23:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Gatunixdd> LAG DE MIERDAAAAAAAAAAAA
+[22:23:03] [Async Chat Thread - #5/INFO]: [Not Secure] <Gatunixdd> TENGO RE BUG LAS TEXTURAS QUE MIERDAAAAAAAAAAAAAAAAA
+[22:23:03] [Async Chat Thread - #5/INFO]: [Not Secure] <Gatunixdd> TENGO RE BUG LAS TEXTURAS QUE MIERDAAAAAAAAAAAAAAAAA
+[22:23:09] [Server thread/INFO]: qSeren issued server command: /msg thenoxplayer vc
+[22:23:14] [Async Chat Thread - #6/INFO]: [Not Secure] <AdrianoLC> LINK MIRA LO QUE HACESS
+[22:23:18] [User Authenticator #4/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[22:23:22] [Server thread/INFO]: iRagc joined the game
+[22:23:22] [Server thread/INFO]: iRagc[/100.84.182.88:49971] logged in with entity id 4737 at ([world]2443.8157535930477, 161.25521960176275, 912.2301553071915)
+[22:23:23] [Server thread/INFO]: [voicechat] Received secret request of iRagc (18)
+[22:23:23] [Server thread/INFO]: [voicechat] Sent secret to iRagc
+[22:23:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[22:23:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[22:23:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player iRagc (67ea92e7-d0b5-38d9-9052-76eb288fcd52) successfully connected to voice chat
+[22:23:34] [Async Chat Thread - #6/INFO]: [Not Secure] <XxLinkGamer21xX> De verdad que no les dan atención en casa, eh
+[22:23:37] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> ahora solo falta mierdita22932
+[22:23:40] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> TENGO RE BUG LAS TEXTURAS QUE MIERDAAAAAAAAAAAAAAAAA
+[22:23:41] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> TENGO RE BUG LAS TEXTURAS QUE MIERDAAAAAAAAAAAAAAAAA
+[22:23:41] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> TENGO RE BUG LAS TEXTURAS QUE MIERDAAAAAAAAAAAAAAAAA
+[22:23:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> NO ES JODAAAAAAA
+[22:24:02] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> iRagc luego me conecto
+[22:24:08] [Async Chat Thread - #6/INFO]: [Not Secure] <lg_santiago_1> rag
+[22:24:09] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> no voy a jugar con estas texturas hechas mierda
+[22:24:09] [Async Chat Thread - #5/INFO]: [Not Secure] <qSeren> evento ahora
+[22:24:09] [Async Chat Thread - #5/INFO]: [Not Secure] <lg_santiago_1> vc
+[22:24:12] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> no voy a jugar con estas texturas hechas mierda
+[22:24:12] [Async Chat Thread - #6/INFO]: [Not Secure] <iRagc> ya
+[22:24:12] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> no voy a jugar con estas texturas hechas mierda
+[22:24:33] [Server thread/INFO]: thenoxplayer lost connection: Disconnected
+[22:24:33] [Server thread/INFO]: [voicechat] Disconnecting client thenoxplayer
+[22:24:33] [Server thread/INFO]: thenoxplayer left the game
+[22:24:35] [Server thread/INFO]: AdrianoLC lost connection: Disconnected
+[22:24:35] [Server thread/INFO]: [voicechat] Disconnecting client AdrianoLC
+[22:24:35] [Server thread/INFO]: AdrianoLC left the game
+[22:24:44] [User Authenticator #5/INFO]: UUID of player AdrianoLC is c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[22:24:48] [Async Chat Thread - #6/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:24:49] [Server thread/INFO]: Gatunixdd lost connection: Disconnected
+[22:24:49] [Server thread/INFO]: [voicechat] Disconnecting client Gatunixdd
+[22:24:49] [Server thread/INFO]: Gatunixdd left the game
+[22:24:49] [Async Chat Thread - #6/INFO]: [Not Secure] <XxLinkGamer21xX> Duerman pls
+[22:24:52] [Server thread/INFO]: AdrianoLC joined the game
+[22:24:52] [Server thread/INFO]: AdrianoLC[/100.85.44.77:52456] logged in with entity id 5871 at ([world]1829.2055426094332, 89.0, -362.8366760528582)
+[22:25:03] [Async Chat Thread - #6/INFO]: [Not Secure] <XxLinkGamer21xX> DUERMAN HIJOS DE LA MARACUYA
+[22:25:42] [Async Chat Thread - #6/INFO]: [Not Secure] <XxLinkGamer21xX> DUERMAN
+[22:25:44] [Async Chat Thread - #6/INFO]: [Not Secure] <AdrianoLC> NO FUNCIONA EL VOICE CHATTTT
+[22:25:53] [Async Chat Thread - #6/INFO]: [Not Secure] <AdrianoLC> ya vengo
+[22:25:54] [Server thread/INFO]: AdrianoLC lost connection: Disconnected
+[22:25:54] [Server thread/INFO]: [voicechat] Disconnecting client AdrianoLC
+[22:25:54] [Server thread/INFO]: AdrianoLC left the game
+[22:25:56] [Async Chat Thread - #6/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:26:23] [Server thread/INFO]: TeeRobZti lost connection: Disconnected
+[22:26:23] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[22:26:23] [Server thread/INFO]: TeeRobZti left the game
+[22:26:49] [User Authenticator #6/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
+[22:26:58] [Server thread/INFO]: Gatunixdd joined the game
+[22:26:58] [Server thread/INFO]: Gatunixdd[/100.95.252.69:14798] logged in with entity id 6830 at ([world]1291.9120493863118, 84.0, 1255.5396601002392)
+[22:26:59] [Server thread/INFO]: [voicechat] Received secret request of Gatunixdd (18)
+[22:26:59] [Server thread/INFO]: [voicechat] Sent secret to Gatunixdd
+[22:26:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[22:27:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[22:27:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gatunixdd (30c6f3b7-f46c-3424-a802-e7c599266de4) successfully connected to voice chat
+[22:27:14] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> YA POR FIN
+[22:27:20] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> tenia varias texturas que nada que ver xd
+[22:27:20] [User Authenticator #6/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[22:27:21] [User Authenticator #6/INFO]: UUID of player AdrianoLC is c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[22:27:30] [Server thread/INFO]: AdrianoLC joined the game
+[22:27:30] [Server thread/INFO]: AdrianoLC[/100.85.44.77:52597] logged in with entity id 7048 at ([world]1829.6891208892475, 89.0, -362.1066827127246)
+[22:27:30] [Server thread/INFO]: [voicechat] Received secret request of AdrianoLC (18)
+[22:27:30] [Server thread/INFO]: [voicechat] Sent secret to AdrianoLC
+[22:27:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[22:27:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[22:27:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AdrianoLC (c2ab7376-aed7-376e-8039-b4a37e24f8b1) successfully connected to voice chat
+[22:27:42] [Server thread/INFO]: TeeRobZti joined the game
+[22:27:42] [Server thread/INFO]: TeeRobZti[/100.127.70.41:60728] logged in with entity id 7038 at ([world]2212.9333729260543, 160.0, 1391.1848003239388)
+[22:27:43] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[22:27:43] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[22:27:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[22:27:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[22:27:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[22:27:57] [Server thread/INFO]: qSeren issued server command: /msg iRagc oye ragc gatuni y santiago son medio novios bro
+[22:28:02] [Server thread/INFO]: qSeren issued server command: /msg iRagc la misma skin
+[22:28:04] [Server thread/INFO]: qSeren issued server command: /msg iRagc gg
+[22:28:18] [Server thread/INFO]: iRagc issued server command: /msg qSeren se aman, asi me dijieron
+[22:28:26] [Server thread/INFO]: iRagc issued server command: /msg qSeren pero el gatuni me ama mas a mi
+[22:29:09] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> cuantas esmeraldas?
+[22:29:10] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> cuantas esmeraldas?
+[22:29:12] [Server thread/INFO]: qSeren issued server command: /msg XxLinkGamer21xX intenta venir de una direccion diferente para confundirlos
+[22:29:44] [User Authenticator #7/INFO]: UUID of player Vennom_123 is 34119cd0-1e61-3f6a-b46d-49fc8fa77e36
+[22:29:52] [Server thread/INFO]: Vennom_123 joined the game
+[22:29:52] [Server thread/INFO]: Vennom_123[/100.122.218.87:49183] logged in with entity id 8643 at ([world]1700.114124579094, -20.0, 1181.96205822731)
+[22:29:53] [Server thread/INFO]: [voicechat] Received secret request of Vennom_123 (18)
+[22:29:53] [Server thread/INFO]: [voicechat] Sent secret to Vennom_123
+[22:29:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 34119cd0-1e61-3f6a-b46d-49fc8fa77e36
+[22:29:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 34119cd0-1e61-3f6a-b46d-49fc8fa77e36
+[22:29:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Vennom_123 (34119cd0-1e61-3f6a-b46d-49fc8fa77e36) successfully connected to voice chat
+[22:29:59] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> SE CAE EL SERVER
+[22:30:02] [Async Chat Thread - #8/INFO]: [Not Secure] <Vennom_123> llegó su doxeador favorito
+[22:30:03] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> GORDOSO
+[22:30:12] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> iRagc
+[22:30:15] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> tenes 7 niveles??
+[22:30:16] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> tenes 7 niveles??
+[22:30:16] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> tenes 7 niveles??
+[22:30:18] [Async Chat Thread - #7/INFO]: [Not Secure] <iRagc> sisis
+[22:30:27] [Async Chat Thread - #7/INFO]: [Not Secure] <iRagc> A CAMBIO DE PERMISO DE
+[22:30:31] [Async Chat Thread - #7/INFO]: [Not Secure] <iRagc> TUS YUNQUES
+[22:30:35] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> PERO
+[22:30:36] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> ya
+[22:30:39] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> sapa
+[22:30:56] [Async Chat Thread - #7/INFO]: [Not Secure] <Vennom_123> Gatunixdd tienes las cosas que te pedí? :V
+[22:31:04] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 lo tiene bro
+[22:31:05] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 lo tiene bro
+[22:31:05] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 lo tiene bro
+[22:31:05] [Async Chat Thread - #8/INFO]: [Not Secure] <iRagc> asi me gusta amorcito
+[22:31:08] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> ya bro
+[22:31:12] [Async Chat Thread - #7/INFO]: [Not Secure] <XxLinkGamer21xX> Lo suponía
+[22:31:12] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> ya bro
+[22:31:13] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 lo tiene bro
+[22:31:13] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 lo tiene bro
+[22:31:31] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> XxLinkGamer21xX el riptide era mio xd
+[22:31:32] [Async Chat Thread - #7/INFO]: [Not Secure] <iRagc> bro me estoy cagando de hambre
+[22:31:33] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> XxLinkGamer21xX el riptide era mio xd
+[22:31:34] [Async Chat Thread - #8/INFO]: [Not Secure] <iRagc> me uno en 20
+[22:31:34] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> XxLinkGamer21xX el riptide era mio xd
+[22:31:34] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> XxLinkGamer21xX el riptide era mio xd
+[22:31:36] [Server thread/INFO]: iRagc lost connection: Disconnected
+[22:31:36] [Server thread/INFO]: [voicechat] Disconnecting client iRagc
+[22:31:36] [Server thread/INFO]: iRagc left the game
+[22:31:38] [Async Chat Thread - #8/INFO]: [Not Secure] <XxLinkGamer21xX> ?
+[22:31:39] [Server thread/INFO]: Vennom_123 issued server command: /tell Gatunixdd tienes el tridente? :v
+[22:31:40] [Server thread/INFO]: Vennom_123 issued server command: /tell Gatunixdd tienes el tridente? :v
+[22:31:42] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> yo te lo pedi XxLinkGamer21xX
+[22:31:43] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> yo te lo pedi XxLinkGamer21xX
+[22:31:52] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> Vennom_123 que lo tiene el panzon de lg
+[22:31:57] [Async Chat Thread - #8/INFO]: [Not Secure] <Vennom_123> aya
+[22:31:57] [Async Chat Thread - #7/INFO]: [Not Secure] <Vennom_123> :V
+[22:31:58] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 donde dejaste los tridentes??
+[22:31:59] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 donde dejaste los tridentes??
+[22:32:15] [Async Chat Thread - #7/INFO]: [Not Secure] <lg_santiago_1> los tengo yo
+[22:32:18] [Async Chat Thread - #7/INFO]: [Not Secure] <lg_santiago_1> ven a spawn
+[22:32:23] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 a vos te dieron el riptide?
+[22:32:24] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 a vos te dieron el riptide?
+[22:32:28] [Async Chat Thread - #7/INFO]: [Not Secure] <lg_santiago_1> si
+[22:32:33] [Async Chat Thread - #7/INFO]: [Not Secure] <lg_santiago_1> me lo vendieron
+[22:32:36] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> ah ya, entonces ahora llego y te lo pago xd
+[22:32:47] [Async Chat Thread - #7/INFO]: [Not Secure] <lg_santiago_1> dañe
+[22:32:51] [Async Chat Thread - #7/INFO]: [Not Secure] <lg_santiago_1> dale
+[22:32:58] [Async Chat Thread - #7/INFO]: [Not Secure] <Vennom_123> yo con 3 pociones de apnea en mi mochila: gg
+[22:32:59] [Async Chat Thread - #7/INFO]: [Not Secure] <Vennom_123> yo con 3 pociones de apnea en mi mochila: gg
+[22:33:14] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> na
+[22:33:19] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> no me alcanza ahi entonces xd
+[22:33:23] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> si me pidio 11 xd
+[22:33:31] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> 5 manzanas de oro?
+[22:33:34] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> y me arriesgo xd
+[22:33:41] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> cuantas esmeraldas?
+[22:33:42] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> cuantas esmeraldas?
+[22:33:56] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> y a tu vieja tambien nos la farmeamos en 5 min culeandola
+[22:33:56] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> y a tu vieja tambien nos la farmeamos en 5 min culeandola
+[22:34:14] [User Authenticator #8/INFO]: UUID of player wolftho is f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[22:34:16] [Server thread/INFO]: wolftho joined the game
+[22:34:16] [Server thread/INFO]: wolftho[/100.78.205.119:65276] logged in with entity id 11166 at ([world]2447.4706432301164, 155.2494719777031, 894.5261110176912)
+[22:34:17] [Server thread/INFO]: [voicechat] Received secret request of wolftho (18)
+[22:34:17] [Server thread/INFO]: [voicechat] Sent secret to wolftho
+[22:34:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[22:34:20] [Async Chat Thread - #7/INFO]: [Not Secure] <XxLinkGamer21xX> Gatuni, ven a 0 0 para el riptide
+[22:34:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[22:34:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player wolftho (f2a8b90a-419e-3129-9a21-c5acf9c4bff1) successfully connected to voice chat
+[22:34:23] [Async Chat Thread - #7/INFO]: [Not Secure] <qSeren> 8/10
+[22:34:24] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> voy
+[22:34:32] [Async Chat Thread - #7/INFO]: [Not Secure] <wolftho> llego su padre
+[22:34:34] [Async Chat Thread - #7/INFO]: [Not Secure] <wolftho> gg ez
+[22:35:16] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> recien estoy saliendo waton
+[22:35:48] [Server thread/WARN]: qSeren moved wrongly!
+[22:35:50] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> ahora que lo pienso, lg_santiago_1 no agarraste mis potis??
+[22:35:55] [Async Chat Thread - #7/INFO]: [Not Secure] <Vennom_123> 2345 1865 base AdrianoLC
+[22:35:56] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> ahora que lo pienso, lg_santiago_1 no agarraste mis potis??
+[22:35:56] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> ahora que lo pienso, lg_santiago_1 no agarraste mis potis??
+[22:35:57] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> ahora que lo pienso, lg_santiago_1 no agarraste mis potis??
+[22:36:09] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> POTIS IMBECIL
+[22:36:10] [Async Chat Thread - #7/INFO]: [Not Secure] <wolftho> le agarro la gampi xddd
+[22:36:20] [Server thread/INFO]: XxLinkGamer21xX issued server command: /msg AdrianoLC [name:"Aldea", x:-885, y:122, z:-1352, dim:minecraft:overworld]
+[22:36:24] [User Authenticator #9/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[22:36:27] [Server thread/INFO]: iRagc joined the game
+[22:36:27] [Server thread/INFO]: iRagc[/100.84.182.88:58470] logged in with entity id 13151 at ([world]1677.4139881818226, -20.0, 1163.0910407254303)
+[22:36:28] [Server thread/INFO]: [voicechat] Received secret request of iRagc (18)
+[22:36:28] [Server thread/INFO]: [voicechat] Sent secret to iRagc
+[22:36:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[22:36:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[22:36:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player iRagc (67ea92e7-d0b5-38d9-9052-76eb288fcd52) successfully connected to voice chat
+[22:36:30] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> habra keep??
+[22:36:31] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> habra keep??
+[22:36:34] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> qSeren
+[22:36:35] [Server thread/INFO]: qSeren issued server command: /gamerule keepInventory true
+[22:36:35] [Server thread/INFO]: [qSeren: Gamerule keepInventory is now set to: true]
+[22:36:35] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> qSeren
+[22:36:35] [Async Chat Thread - #8/INFO]: [Not Secure] <lg_santiago_1> rag
+[22:36:40] [Async Chat Thread - #8/INFO]: [Not Secure] <lg_santiago_1> hace manzanas
+[22:36:42] [Async Chat Thread - #8/INFO]: [Not Secure] <lg_santiago_1> con el oro
+[22:36:48] [User Authenticator #9/INFO]: UUID of player thenoxplayer is 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[22:36:53] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> YA VOY WATON
+[22:36:53] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> YA VOY WATON
+[22:37:03] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> QUE MI BASE ESTA DEL OTRO PUTO LADOW
+[22:37:08] [Server thread/INFO]: thenoxplayer joined the game
+[22:37:08] [Server thread/INFO]: thenoxplayer[/100.86.158.5:63248] logged in with entity id 13444 at ([world]1885.9104968849865, 85.0, -349.8821996768387)
+[22:37:08] [Server thread/INFO]: [voicechat] Received secret request of thenoxplayer (18)
+[22:37:08] [Server thread/INFO]: [voicechat] Sent secret to thenoxplayer
+[22:37:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[22:37:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[22:37:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player thenoxplayer (75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5) successfully connected to voice chat
+[22:37:26] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> YO
+[22:37:28] [Async Chat Thread - #7/INFO]: [Not Secure] <qSeren> quien quiere que el evento sea a las 8
+[22:37:31] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> YO
+[22:37:34] [Async Chat Thread - #7/INFO]: [Not Secure] <thenoxplayer> yo quiero ahora
+[22:37:37] [Async Chat Thread - #7/INFO]: [Not Secure] <XxLinkGamer21xX> Yo
+[22:37:38] [Async Chat Thread - #7/INFO]: [Not Secure] <qSeren> osea en 23m
+[22:37:40] [Async Chat Thread - #7/INFO]: [Not Secure] <iRagc> a las 12 mejor
+[22:37:47] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> uy qSeren me podes tepear mejor donde XxLinkGamer21xX?
+[22:37:47] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> uy qSeren me podes tepear mejor donde XxLinkGamer21xX?
+[22:37:54] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> esta en spawn
+[22:37:55] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> esta en spawn
+[22:37:55] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> esta en spawn
+[22:37:56] [Async Chat Thread - #7/INFO]: [Not Secure] <Vennom_123> wtf mi mama tambien
+[22:37:58] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> mono
+[22:38:01] [Server thread/INFO]: qSeren issued server command: /tp Gatunixdd XxLinkGamer21xX
+[22:38:01] [Server thread/INFO]: [qSeren: Teleported Gatunixdd to XxLinkGamer21xX]
+[22:38:03] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> si
+[22:38:08] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> LAG TOTAL
+[22:38:09] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> LAG TOTAL
+[22:38:09] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> LAG TOTAL
+[22:38:11] [Server thread/INFO]: qSeren issued server command: /team join momo @a
+[22:38:11] [Server thread/INFO]: [qSeren: Added 10 members to team [momo]]
+[22:38:14] [Async Chat Thread - #7/INFO]: [Not Secure] <wolftho> a las 8 hacelo
+[22:38:24] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> ya pasa ps
+[22:38:27] [Async Chat Thread - #7/INFO]: [Not Secure] <qSeren> lcit
+[22:38:28] [Async Chat Thread - #7/INFO]: [Not Secure] <qSeren> clit
+[22:38:30] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> asd
+[22:38:31] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> asd
+[22:38:36] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> gracias p
+[22:38:38] [Async Chat Thread - #7/INFO]: [Not Secure] <wolftho> clitoris?
+[22:38:39] [Async Chat Thread - #7/INFO]: [Not Secure] <Gatunixdd> que iba re lag xd
+[22:38:39] [Server thread/INFO]: qSeren issued server command: /gamerule doDaylightCycle true
+[22:38:39] [Server thread/INFO]: [qSeren: Gamerule doDaylightCycle is now set to: true]
+[22:38:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 375e8eef-1b7d-320f-92ce-8498cff3acd8 timed out
+[22:38:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player TeeRobZti
+[22:38:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to TeeRobZti
+[22:38:41] [Server thread/INFO]: iRagc issued server command: /msg lg_santiago_1 necesito esmeraldas porfavor
+[22:38:45] [Async Chat Thread - #8/INFO]: [Not Secure] <TeeRobZti> asd
+[22:38:45] [Async Chat Thread - #8/INFO]: [Not Secure] <TeeRobZti> lag
+[22:38:45] [Async Chat Thread - #9/INFO]: [Not Secure] <TeeRobZti> gg
+[22:38:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[22:38:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[22:38:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[22:38:55] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
+[22:38:55] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
+[22:38:57] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> entonces evento a las 8?w
+[22:39:04] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[22:39:04] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[22:39:04] [Async Chat Thread - #9/INFO]: [Not Secure] <wolftho> si
+[22:39:07] [Async Chat Thread - #9/INFO]: [Not Secure] <wolftho> argentina
+[22:39:13] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> en cuantas horas?
+[22:39:18] [Async Chat Thread - #8/INFO]: [Not Secure] <iRagc> Gatunixdd
+[22:39:23] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> ?
+[22:39:25] [Async Chat Thread - #8/INFO]: [Not Secure] <iRagc> dame esmeraldas porfavor:c
+[22:39:27] [Server thread/INFO]: qSeren issued server command: /difficulty hard
+[22:39:27] [Server thread/INFO]: [qSeren: The difficulty has been set to Hard]
+[22:39:30] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> no tengo
+[22:39:36] [Server thread/INFO]: Named entity Skeleton['Pirómano'/15721, uuid='72755765-fd7b-4815-8202-56d26325b00d', l='ServerLevel[world_nether]', x=-3.24, y=24.80, z=8.66, cpos=[-1, 0], tl=170, v=true] died: Pirómano tried to swim in lava
+[22:39:52] [Server thread/INFO]: qSeren issued server command: /tp lg_santiago_1
+[22:39:52] [Server thread/INFO]: [qSeren: Teleported qSeren to lg_santiago_1]
+[22:39:55] [Server thread/INFO]: qSeren issued server command: /gamemode survival
+[22:39:55] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
+[22:40:09] [Server thread/INFO]: lg_santiago_1 has reached the goal [Sky's the Limit]
+[22:40:12] [Async Chat Thread - #8/INFO]: [Not Secure] <Vennom_123> pon /tpa zzz
+[22:40:13] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> uy
+[22:40:13] [Async Chat Thread - #9/INFO]: [Not Secure] <thenoxplayer> gordo phantom
+[22:40:16] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> ./ban
+[22:40:16] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> ./ban
+[22:40:16] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> ./ban
+[22:40:29] [Async Chat Thread - #8/INFO]: [Not Secure] <iRagc> baneenlo
+[22:40:33] [Server thread/INFO]: TeeRobZti issued server command: /tp th
+[22:40:38] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> asd
+[22:40:39] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> asd
+[22:40:50] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> iRagc tas en base mano?
+[22:41:13] [Server thread/INFO]: Gatunixdd lost connection: Disconnected
+[22:41:13] [Server thread/INFO]: [voicechat] Disconnecting client Gatunixdd
+[22:41:13] [Server thread/INFO]: Gatunixdd left the game
+[22:41:36] [Server thread/INFO]: qSeren issued server command: /tp lg_santiago_1 iRagc
+[22:41:36] [Server thread/INFO]: [qSeren: Teleported lg_santiago_1 to iRagc]
+[22:41:37] [User Authenticator #10/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
+[22:41:42] [Server thread/INFO]: qSeren issued server command: /tp gatunixdd iragc
+[22:41:50] [Server thread/INFO]: Gatunixdd joined the game
+[22:41:50] [Server thread/INFO]: Gatunixdd[/100.95.252.69:14869] logged in with entity id 17577 at ([world]587.3978523115619, 62.11076431274413, 480.686751083339)
+[22:41:50] [Server thread/INFO]: [voicechat] Received secret request of Gatunixdd (18)
+[22:41:50] [Server thread/INFO]: [voicechat] Sent secret to Gatunixdd
+[22:41:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[22:41:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[22:41:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gatunixdd (30c6f3b7-f46c-3424-a802-e7c599266de4) successfully connected to voice chat
+[22:41:53] [Server thread/INFO]: qSeren issued server command: /tp gatunixdd iragc
+[22:41:53] [Server thread/INFO]: [qSeren: Teleported Gatunixdd to iRagc]
+[22:41:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> asd
+[22:42:07] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> somos 10
+[22:42:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> LAG TOTAL DE MIERDA
+[22:42:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> LAG TOTAL DE MIERDA
+[22:42:08] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> go dungeon
+[22:42:10] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> somos 10
+[22:42:10] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> somos 10
+[22:42:10] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> somos 10
+[22:42:10] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> somos 10
+[22:42:15] [Async Chat Thread - #10/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:42:18] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> Duerman
+[22:42:19] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> ese nox spamea
+[22:42:22] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> Vennom_123
+[22:42:24] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> Duerman
+[22:42:26] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> como si le fueran a dar pinga
+[22:42:26] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> Duerman
+[22:42:28] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> Duerman
+[22:42:28] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> Duerman
+[22:42:29] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> Duerman
+[22:42:30] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> Duerman
+[22:42:31] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> Duerman
+[22:42:31] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> Duerman
+[22:42:33] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> Vennom_123
+[22:42:33] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> Vennom_123
+[22:42:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> Vennom_123
+[22:42:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> tengo tu tridente
+[22:42:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> veni a base
+[22:42:40] [Server thread/INFO]: iRagc issued server command: /msg qSeren podrias venderme riptide?
+[22:42:49] [Server thread/INFO]: iRagc issued server command: /msg qSeren si tienes en tus aldeanos
+[22:43:01] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> asd
+[22:43:07] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> asd
+[22:43:34] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> iRagc toma
+[22:43:54] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> pq los phantoms son como link
+[22:43:55] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> medio downs
+[22:43:56] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> no atacan
+[22:44:02] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> DUERMAN POR LA CRESTA
+[22:44:09] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ZZZZZZZZZZZZZZ
+[22:44:11] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:15] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:16] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:16] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:17] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:17] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:17] [Async Chat Thread - #11/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:17] [Async Chat Thread - #10/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:18] [Async Chat Thread - #10/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:18] [Async Chat Thread - #10/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:20] [Async Chat Thread - #10/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:21] [Async Chat Thread - #10/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:22] [Async Chat Thread - #10/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:44:24] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> VIEJA DE LINK
+[22:44:24] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> BOM
+[22:44:25] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> BOM
+[22:44:26] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> BOM
+[22:44:27] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> BOM
+[22:44:40] [Async Chat Thread - #10/INFO]: [Not Secure] <wolftho> ese link spamea como si le fueran a dar gampi
+[22:44:53] [Async Chat Thread - #10/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:45:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> ADS
+[22:45:14] [Server thread/INFO]: iRagc issued server command: /msg qSeren te cambio mi pocion de raid por filo v
+[22:45:37] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> bife de salamandra
+[22:45:45] [Async Chat Thread - #10/INFO]: [Not Secure] <wolftho> hay un juego de pokemon que se llama "pokemon XD"
+[22:46:12] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> rag
+[22:46:14] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> porque sos mi hijo
+[22:46:29] [Async Chat Thread - #10/INFO]: [Not Secure] <iRagc> para chuparte los cocos
+[22:46:31] [Async Chat Thread - #10/INFO]: [Not Secure] <wolftho> bife de gallina termino medio
+[22:46:32] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> solo pongo filo 5 y ya bro
+[22:46:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> solo pongo filo 5 y ya bro
+[22:46:33] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> solo pongo filo 5 y ya bro
+[22:46:45] [Async Chat Thread - #11/INFO]: [Not Secure] <iRagc> Gatunixdd comprame filo 5
+[22:46:53] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> mano, namas voy por exp XDDDDD
+[22:46:55] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> pero va
+[22:46:58] [Async Chat Thread - #11/INFO]: [Not Secure] <iRagc> :DDDDDDDDDD
+[22:47:57] [Server thread/INFO]: Villager Villager['Villager'/82, uuid='09838d7e-f391-4bba-8508-14f2ed6a99ca', l='ServerLevel[world]', x=1733.26, y=-20.00, z=1155.43, cpos=[108, 72], tl=116173, v=true] died, message: 'Villager was squished too much'
+[22:49:01] [Server thread/INFO]: Villager Villager['Villager'/77, uuid='4b2140fe-6319-415f-b8f0-b9ae0d8d0970', l='ServerLevel[world]', x=1733.10, y=-20.00, z=1155.67, cpos=[108, 72], tl=92447, v=true] died, message: 'Villager was squished too much'
+[22:49:13] [Server thread/INFO]: Vennom_123 has made the advancement [Miner Inconvenience]
+[22:49:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Vennom_123> che gente, vengan a la otra aldea, hay raid
+[22:49:49] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> ahi voy
+[22:49:56] [Async Chat Thread - #13/INFO]: [Not Secure] <wolftho> xd
+[22:50:07] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> oe no jodan
+[22:50:07] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> oe no jodan
+[22:50:17] [Async Chat Thread - #13/INFO]: [Not Secure] <thenoxplayer> vamos 0 0
+[22:50:19] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> no
+[22:50:19] [Async Chat Thread - #13/INFO]: [Not Secure] <thenoxplayer> teerob
+[22:50:19] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> no
+[22:50:20] [Async Chat Thread - #13/INFO]: [Not Secure] <thenoxplayer> down
+[22:50:24] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> TeeRobZti no jodas idiota
+[22:50:43] [User Authenticator #11/INFO]: UUID of player Torre22932 is df10c331-a0c1-39a5-8288-c551ff673086
+[22:50:47] [Server thread/INFO]: Torre22932 joined the game
+[22:50:47] [Server thread/INFO]: Torre22932[/100.79.135.100:51147] logged in with entity id 21813 at ([world]1708.8760086255324, -20.0, 1163.61444116516)
+[22:50:48] [Server thread/INFO]: [voicechat] Received secret request of Torre22932 (18)
+[22:50:48] [Server thread/INFO]: [voicechat] Sent secret to Torre22932
+[22:50:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player df10c331-a0c1-39a5-8288-c551ff673086
+[22:50:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player df10c331-a0c1-39a5-8288-c551ff673086
+[22:50:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Torre22932 (df10c331-a0c1-39a5-8288-c551ff673086) successfully connected to voice chat
+[22:50:55] [Async Chat Thread - #13/INFO]: [Not Secure] <thenoxplayer> si hay keepinventory
+[22:51:00] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> no hay q lootear nada
+[22:51:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> eu
+[22:51:11] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> el evento ya esta?
+[22:51:15] [Async Chat Thread - #14/INFO]: [Not Secure] <iRagc> ya acabo
+[22:51:18] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> mentira
+[22:51:20] [Async Chat Thread - #14/INFO]: [Not Secure] <AdrianoLC> posta
+[22:51:20] [Async Chat Thread - #14/INFO]: [Not Secure] <iRagc> ???
+[22:51:20] [Async Chat Thread - #14/INFO]: [Not Secure] <AdrianoLC> down
+[22:51:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> qSeren
+[22:51:27] [Async Chat Thread - #14/INFO]: [Not Secure] <TeeRobZti> hay un colecionable de mojones en el loot
+[22:51:27] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> enserio?
+[22:51:27] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> hay un colecionable de mojones en el loot
+[22:51:28] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> hay un colecionable de mojones en el loot
+[22:51:29] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> hay un colecionable de mojones en el loot
+[22:51:29] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> hay un colecionable de mojones en el loot
+[22:51:30] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> hay un colecionable de mojones en el loot
+[22:51:30] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> hay un colecionable de mojones en el loot
+[22:51:33] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> Torre22932 si
+[22:51:37] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> si bro
+[22:51:39] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> wolftho?
+[22:51:42] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> tu no me mentirias
+[22:51:47] [Async Chat Thread - #14/INFO]: [Not Secure] <Vennom_123> bro dejen de insultarse
+[22:51:51] [Async Chat Thread - #14/INFO]: [Not Secure] <wolftho> que paso
+[22:51:53] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> XDDDDDDDDDDDDDDD
+[22:52:03] [Async Chat Thread - #14/INFO]: [Not Secure] <wolftho> si
+[22:52:22] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> oe no hay evokers
+[22:52:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> oe no hay evokers
+[22:52:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> oe no hay evokers
+[22:52:30] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> q nivel es?
+[22:52:30] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> q nivel es?
+[22:52:31] [Async Chat Thread - #14/INFO]: [Not Secure] <wolftho> a la mierda
+[22:52:32] [Async Chat Thread - #13/INFO]: [Not Secure] <iRagc> 2
+[22:52:33] [Async Chat Thread - #13/INFO]: [Not Secure] <wolftho> ya entre XD
+[22:52:35] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> Torre22932 es una joda XDDDDDDD
+[22:52:36] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> Torre22932 es una joda XDDDDDDD
+[22:52:36] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> ah con razon xD
+[22:52:36] [Async Chat Thread - #14/INFO]: [Not Secure] <TeeRobZti> Torre22932 es una joda XDDDDDDD
+[22:52:37] [Async Chat Thread - #14/INFO]: [Not Secure] <TeeRobZti> Torre22932 es una joda XDDDDDDD
+[22:52:53] [Async Chat Thread - #14/INFO]: [Not Secure] <AdrianoLC> asd
+[22:52:56] [Server thread/INFO]: Villager Villager['Fletcher'/19450, uuid='89442caf-509f-41eb-8af8-bd4a7839747a', l='ServerLevel[world]', x=1311.52, y=74.00, z=1251.30, cpos=[81, 78], tl=608850, v=true] died, message: 'Fletcher was slain by Vindicator'
+[22:53:07] [Server thread/INFO]: AdrianoLC has made the advancement [Breathtaking]
+[22:53:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> iRagc daselo a wolftho
+[22:53:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> iRagc daselo a wolftho
+[22:53:27] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> el no tiene xd
+[22:53:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 375e8eef-1b7d-320f-92ce-8498cff3acd8 timed out
+[22:53:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player TeeRobZti
+[22:53:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to TeeRobZti
+[22:53:42] [Server thread/INFO]: qSeren issued server command: /msg iRagc tengo tu libro de depth strider trae yunque
+[22:53:50] [Server thread/INFO]: iRagc issued server command: /msg qSeren estamos en raid xd
+[22:53:50] [Server thread/INFO]: TeeRobZti lost connection: Disconnected
+[22:53:50] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[22:53:50] [Server thread/INFO]: TeeRobZti left the game
+[22:54:03] [User Authenticator #12/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[22:54:09] [Server thread/INFO]: TeeRobZti joined the game
+[22:54:09] [Server thread/INFO]: TeeRobZti[/100.127.70.41:60904] logged in with entity id 23726 at ([world]980.5278792452697, 64.0, -145.46073680141782)
+[22:54:09] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[22:54:09] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[22:54:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[22:54:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[22:54:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[22:54:14] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> hay pvp?
+[22:54:19] [Server thread/INFO]: iRagc issued server command: /msg qSeren solo necesito eso para poder ir mas rapido no?
+[22:54:24] [Async Chat Thread - #13/INFO]: [Not Secure] <thenoxplayer> no no hay
+[22:54:25] [Async Chat Thread - #13/INFO]: [Not Secure] <thenoxplayer> quisiera
+[22:54:27] [Async Chat Thread - #13/INFO]: [Not Secure] <thenoxplayer> pero no hay
+[22:55:00] [Async Chat Thread - #13/INFO]: [Not Secure] <thenoxplayer> move la panza teerob
+[22:55:02] [Async Chat Thread - #13/INFO]: [Not Secure] <thenoxplayer> la concha de tu hermana
+[22:55:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> cuantos totems??
+[22:55:14] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> cuantos totems??
+[22:55:20] [Async Chat Thread - #14/INFO]: [Not Secure] <iRagc> 17
+[22:56:08] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> LAG
+[22:56:09] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> TOTAL
+[22:56:11] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> EL DOWN
+[22:56:12] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> XDD
+[22:56:30] [Async Chat Thread - #14/INFO]: [Not Secure] <wolftho> duerman porfa
+[22:56:32] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> anda a la dungeon
+[22:56:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> oe mierditeam vamos a otro vc xd, no se entiende nada
+[22:56:56] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> teerob
+[22:56:58] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> donde estas
+[22:57:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> ya p
+[22:57:07] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> ya p
+[22:57:07] [Async Chat Thread - #14/INFO]: [Not Secure] <Vennom_123> duerman
+[22:57:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Vennom_123> zz
+[22:57:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Vennom_123> z
+[22:57:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Vennom_123> z
+[22:57:08] [Async Chat Thread - #14/INFO]: [Not Secure] <Vennom_123> z
+[22:57:09] [Async Chat Thread - #14/INFO]: [Not Secure] <Vennom_123> z
+[22:57:09] [Async Chat Thread - #14/INFO]: [Not Secure] <Vennom_123> z
+[22:57:09] [Async Chat Thread - #14/INFO]: [Not Secure] <Vennom_123> z
+[22:57:09] [Async Chat Thread - #14/INFO]: [Not Secure] <Vennom_123> z
+[22:57:13] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> subi
+[22:57:16] [Async Chat Thread - #14/INFO]: [Not Secure] <Vennom_123> amigo falta uno
+[22:57:20] [Async Chat Thread - #14/INFO]: [Not Secure] <Vennom_123> estamos yo y wl wolf
+[22:57:37] [Server thread/INFO]: Villager Villager['Librarian'/19451, uuid='2b58ce6f-dc44-4831-8c7e-f44867be0f76', l='ServerLevel[world]', x=1280.46, y=79.00, z=1252.37, cpos=[80, 78], tl=384956, v=true] died, message: 'Librarian was shot by Pillager'
+[22:57:40] [Async Chat Thread - #14/INFO]: [Not Secure] <wolftho> DUERMAN MIERDA
+[22:57:50] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 luego das los totems que conseguiste xd
+[22:57:55] [Server thread/INFO]: Villager Villager['Armorer'/19483, uuid='36677f6a-393b-4b83-9764-a5a6fbfc6c6b', l='ServerLevel[world]', x=1296.27, y=79.00, z=1225.87, cpos=[81, 76], tl=693212, v=true] died, message: 'Armorer was shot by Pillager'
+[22:57:59] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> el sv esta igual de facil que la hermana de TeeRobZti
+[22:58:03] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> unite a vc lg_santiago_1
+[22:58:03] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> unite a vc lg_santiago_1
+[22:58:03] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> unite a vc lg_santiago_1
+[22:58:08] [Async Chat Thread - #14/INFO]: [Not Secure] <TeeRobZti> no tengo hermana Torre22932
+[22:58:11] [Server thread/INFO]: Named entity Creeper['Glob'/25079, uuid='ae7f8a5c-53f9-43b4-8fd1-2aae6fdcc267', l='ServerLevel[world]', x=1754.00, y=-40.00, z=1248.51, cpos=[109, 78], tl=397, v=true] died: Glob was blown up by Creeper
+[22:58:21] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> tu vieja
+[22:58:25] [Async Chat Thread - #14/INFO]: [Not Secure] <wolftho> tiene hermano trans xddd
+[22:58:31] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> como
+[22:58:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> chica a chico o chico a chica
+[22:58:43] [Async Chat Thread - #14/INFO]: [Not Secure] <wolftho> 1
+[22:58:47] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> le doy
+[22:58:48] [Async Chat Thread - #14/INFO]: [Not Secure] <wolftho> chica a chico pe
+[22:58:50] [Async Chat Thread - #14/INFO]: [Not Secure] <TeeRobZti> ???
+[22:58:52] [Async Chat Thread - #14/INFO]: [Not Secure] <wolftho> XD
+[22:58:55] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> es chica
+[22:58:57] [Async Chat Thread - #14/INFO]: [Not Secure] <Torre22932> biologicamente
+[22:59:00] [Async Chat Thread - #14/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:59:01] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> Q
+[22:59:02] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> x
+[22:59:02] [Async Chat Thread - #14/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:59:03] [Async Chat Thread - #14/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:59:03] [Async Chat Thread - #14/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:59:03] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> dD
+[22:59:03] [Async Chat Thread - #14/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:59:03] [Async Chat Thread - #14/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:59:04] [Async Chat Thread - #14/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:59:04] [Async Chat Thread - #14/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:59:05] [Async Chat Thread - #13/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[22:59:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player c2ab7376-aed7-376e-8039-b4a37e24f8b1 timed out
+[22:59:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player AdrianoLC
+[22:59:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to AdrianoLC
+[22:59:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[22:59:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[22:59:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AdrianoLC (c2ab7376-aed7-376e-8039-b4a37e24f8b1) successfully connected to voice chat
+[22:59:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 veni
+[22:59:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 veni
+[22:59:24] [Async Chat Thread - #13/INFO]: [Not Secure] <wolftho> DUERMAN
+[22:59:26] [Async Chat Thread - #13/INFO]: [Not Secure] <wolftho> GORDOS
+[22:59:27] [Async Chat Thread - #13/INFO]: [Not Secure] <wolftho> FALTA 1
+[22:59:27] [Async Chat Thread - #13/INFO]: [Not Secure] <XxLinkGamer21xX> DUERMAN
+[22:59:32] [Async Chat Thread - #13/INFO]: [Not Secure] <iRagc> lg_santiago_1
+[22:59:34] [Async Chat Thread - #13/INFO]: [Not Secure] <iRagc> lg_santiago_1
+[22:59:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 unite a vc
+[22:59:44] [Async Chat Thread - #13/INFO]: [Not Secure] <Vennom_123> wolftho unete al vc
+[22:59:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Vennom_123> wolftho unete al vc

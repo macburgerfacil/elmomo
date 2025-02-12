@@ -2573,87 +2573,27 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "cavernous:expansion/secrets/story": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "parent": "2025-02-12 01:35:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "cavernous:expansion/secrets/hint": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "parent": "2025-02-12 01:35:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "cavernous:expansion/secrets/root": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
+      "cavernous:the_undergrowth": "2025-02-12 01:35:43 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 02:13:42 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-02-12 01:54:58 +0000"
-    },
-    "done": true
-  },
-  "cavernous:expansion/secrets/story": {
-    "criteria": {
-      "parent": "2025-02-12 01:35:43 +0000"
     },
     "done": true
   },
@@ -2675,45 +2615,15 @@
     },
     "done": true
   },
-  "cavernous:expansion/secrets/hint": {
-    "criteria": {
-      "parent": "2025-02-12 01:35:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-12 01:54:58 +0000"
     },
     "done": true
   },
-  "stellarity:adventure/kill_large_phantom": {
-    "criteria": {
-      "size_doesnt_matter": "2025-02-12 02:01:09 +0000"
-    },
-    "done": true
-  },
-  "cavernous:expansion/secrets/root": {
-    "criteria": {
-      "cavernous:the_undergrowth": "2025-02-12 01:35:43 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-02-12 01:57:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-02-12 01:54:58 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_oak": "2025-02-12 01:57:57 +0000"
     },
     "done": true
   },
@@ -2729,12 +2639,6 @@
     },
     "done": true
   },
-  "stellarity:adventure/night_sky_stalkers": {
-    "criteria": {
-      "sleep_deprivation": "2025-02-12 02:01:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-12 01:54:58 +0000"
@@ -2747,17 +2651,113 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-02-12 01:54:58 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-02-12 01:57:57 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-02-12 01:57:57 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2025-02-12 02:01:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-02-12 02:01:09 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/leather_from_membranes": {
     "criteria": {
       "has_item": "2025-02-12 02:01:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_sandstone": "2025-02-12 01:54:58 +0000"
+      "log_spam_fixer": "2025-02-12 22:55:10 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 22:55:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 22:55:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 22:55:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 22:55:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 22:55:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 22:55:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 22:55:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 22:55:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 22:55:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 22:55:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-12 22:55:10 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
