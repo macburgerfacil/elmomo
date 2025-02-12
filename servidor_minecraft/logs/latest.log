@@ -1922,3 +1922,314 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 [23:42:48] [Async Chat Thread - #21/INFO]: [Not Secure] <wolftho> SE CURA PORQUE LE PEGAMOS DOWNS
 [23:42:50] [Async Chat Thread - #21/INFO]: [Not Secure] <Vennom_123> tiene que estar en la arena
 [23:43:00] [Async Chat Thread - #21/INFO]: [Not Secure] <wolftho> HAY UNA FASE QUE SE CURA CUANDO LE PEGAMOS
+[23:43:01] [Async Chat Thread - #21/INFO]: [Not Secure] <wolftho> POR DIOS
+[23:43:02] [Async Chat Thread - #21/INFO]: [Not Secure] <wolftho> DOWNS
+[23:43:07] [Server thread/INFO]: lg_santiago_1 lost connection: Timed out
+[23:43:07] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[23:43:07] [Server thread/INFO]: lg_santiago_1 left the game
+[23:43:46] [User Authenticator #20/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[23:43:50] [Server thread/INFO]: lg_santiago_1 joined the game
+[23:43:50] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:52054] logged in with entity id 39472 at ([world_nether]-20.681460427689153, 42.0, -7.539842507047057)
+[23:43:50] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[23:43:50] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[23:43:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:43:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:43:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[23:44:05] [Server thread/INFO]: thenoxplayer lost connection: Disconnected
+[23:44:05] [Server thread/INFO]: [voicechat] Disconnecting client thenoxplayer
+[23:44:05] [Server thread/INFO]: thenoxplayer left the game
+[23:44:15] [Async Chat Thread - #23/INFO]: [Not Secure] <Vennom_123> XDDD
+[23:44:21] [Server thread/INFO]: lg_santiago_1 lost connection: Disconnected
+[23:44:21] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[23:44:21] [Server thread/INFO]: lg_santiago_1 left the game
+[23:44:28] [Async Chat Thread - #23/INFO]: [Not Secure] <Gatunixdd> SAQUENLO MIERDA
+[23:44:28] [User Authenticator #20/INFO]: UUID of player thenoxplayer is 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[23:44:40] [Server thread/INFO]: TeeRobZti issued server command: /kick Torre22932 No trapear 1/3
+[23:44:40] [Server thread/INFO]: Torre22932 lost connection: No trapear 1/3
+[23:44:40] [Server thread/INFO]: [voicechat] Disconnecting client Torre22932
+[23:44:40] [Server thread/INFO]: Torre22932 left the game
+[23:44:40] [Server thread/INFO]: [TeeRobZti: Kicked Torre22932: No trapear 1/3]
+[23:44:43] [User Authenticator #20/INFO]: UUID of player Torre22932 is df10c331-a0c1-39a5-8288-c551ff673086
+[23:44:47] [Server thread/INFO]: thenoxplayer joined the game
+[23:44:47] [Server thread/INFO]: thenoxplayer[/100.86.158.5:63548] logged in with entity id 40256 at ([world_nether]-15.710722229940634, 42.0, -8.770168067615193)
+[23:44:47] [Server thread/INFO]: [voicechat] Received secret request of thenoxplayer (18)
+[23:44:47] [Server thread/INFO]: [voicechat] Sent secret to thenoxplayer
+[23:44:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[23:44:48] [Server thread/INFO]: Torre22932 joined the game
+[23:44:48] [Server thread/INFO]: Torre22932[/100.79.135.100:52784] logged in with entity id 40392 at ([world_nether]-22.01570503205458, 42.495200877005914, 2.2004224981727227)
+[23:44:49] [Server thread/INFO]: [voicechat] Received secret request of Torre22932 (18)
+[23:44:49] [Server thread/INFO]: [voicechat] Sent secret to Torre22932
+[23:44:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[23:44:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player thenoxplayer (75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5) successfully connected to voice chat
+[23:44:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player df10c331-a0c1-39a5-8288-c551ff673086
+[23:44:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player df10c331-a0c1-39a5-8288-c551ff673086
+[23:44:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Torre22932 (df10c331-a0c1-39a5-8288-c551ff673086) successfully connected to voice chat
+[23:44:56] [User Authenticator #20/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[23:44:59] [Server thread/INFO]: lg_santiago_1 joined the game
+[23:44:59] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:52134] logged in with entity id 40643 at ([world_nether]-17.37042184057473, 42.0, -11.740747778556782)
+[23:44:59] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[23:44:59] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[23:44:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:45:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:45:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[23:45:04] [User Authenticator #20/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:45:06] [Server thread/INFO]: qSeren joined the game
+[23:45:06] [Server thread/INFO]: qSeren[/100.86.135.121:58957] logged in with entity id 40661 at ([world]35.53479872931041, 32.158146761236615, 139.6415020815321)
+[23:45:06] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[23:45:06] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[23:45:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:45:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:45:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[23:45:10] [Server thread/INFO]: Gatunixdd lost connection: Disconnected
+[23:45:10] [Server thread/INFO]: [voicechat] Disconnecting client Gatunixdd
+[23:45:10] [Server thread/INFO]: Gatunixdd left the game
+[23:45:16] [Async Chat Thread - #23/INFO]: [Not Secure] <lg_santiago_1> seren
+[23:45:19] [Async Chat Thread - #23/INFO]: [Not Secure] <wolftho> PERO DOWN
+[23:45:20] [Server thread/INFO]: TeeRobZti issued server command: /msg qseren amigo se me borro toda la hotbar XDDDDD
+[23:45:23] [Async Chat Thread - #24/INFO]: [Not Secure] <lg_santiago_1> no puedo jugar el evento
+[23:45:25] [Server thread/INFO]: qSeren issued server command: /msg TeeRobZti por
+[23:45:29] [Async Chat Thread - #23/INFO]: [Not Secure] <qSeren> QUE MIERDA PASO
+[23:45:29] [Async Chat Thread - #23/INFO]: [Not Secure] <lg_santiago_1> mi internet no me deja :v
+[23:45:32] [Server thread/INFO]: lg_santiago_1 lost connection: Timed out
+[23:45:32] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[23:45:32] [Server thread/INFO]: lg_santiago_1 left the game
+[23:45:38] [User Authenticator #20/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
+[23:45:41] [Server thread/INFO]: qSeren issued server command: /tp lg_santiago_1 qseren
+[23:45:52] [Server thread/INFO]: TeeRobZti issued server command: /msg qSeren no se, los gordos jodieron el spawn y saque las mierdas del creativo para ponerlo denuevo y se me borro todo a la mierda, pero ya recupere lo esencial, luego agarro lo que me falta
+[23:45:55] [Server thread/INFO]: Gatunixdd joined the game
+[23:45:55] [Server thread/INFO]: Gatunixdd[/100.95.252.69:1615] logged in with entity id 41337 at ([world_nether]-26.43432033663628, 43.0, -10.847494040391217)
+[23:45:55] [Server thread/INFO]: [voicechat] Received secret request of Gatunixdd (18)
+[23:45:55] [Server thread/INFO]: [voicechat] Sent secret to Gatunixdd
+[23:45:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[23:45:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[23:45:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gatunixdd (30c6f3b7-f46c-3424-a802-e7c599266de4) successfully connected to voice chat
+[23:46:00] [Server thread/INFO]: wolftho was slain by The Withered King, Blackburn
+[23:46:04] [Server thread/INFO]: qSeren lost connection: Timed out
+[23:46:04] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[23:46:04] [Server thread/INFO]: qSeren left the game
+[23:46:05] [Async Chat Thread - #23/INFO]: [Not Secure] <wolftho> AMIGO EL NOX
+[23:46:05] [Server thread/INFO]: TeeRobZti issued server command: /kick thenoxplayer trapear compañero
+[23:46:05] [Server thread/INFO]: thenoxplayer lost connection: trapear compañero
+[23:46:05] [Server thread/INFO]: [voicechat] Disconnecting client thenoxplayer
+[23:46:05] [Server thread/INFO]: thenoxplayer left the game
+[23:46:05] [Server thread/INFO]: [TeeRobZti: Kicked thenoxplayer: trapear compañero]
+[23:46:07] [Async Chat Thread - #23/INFO]: [Not Secure] <wolftho> PUTA MARE
+[23:46:10] [Async Chat Thread - #23/INFO]: [Not Secure] <wolftho> NOX DE MIERDA AMIGO
+[23:46:14] [Server thread/INFO]: TeeRobZti issued server command: /gamerule keepInventory true
+[23:46:14] [Server thread/INFO]: [TeeRobZti: Gamerule keepInventory is now set to: true]
+[23:46:21] [User Authenticator #20/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[23:46:21] [Async Chat Thread - #23/INFO]: [Not Secure] <TeeRobZti> NO ESTABA EL KEEPINVENTORY QSEREN
+[23:46:22] [Async Chat Thread - #23/INFO]: [Not Secure] <TeeRobZti> NO ESTABA EL KEEPINVENTORY QSEREN
+[23:46:23] [Async Chat Thread - #23/INFO]: [Not Secure] <TeeRobZti> NO ESTABA EL KEEPINVENTORY QSEREN
+[23:46:23] [Async Chat Thread - #23/INFO]: [Not Secure] <TeeRobZti> NO ESTABA EL KEEPINVENTORY QSEREN
+[23:46:24] [Async Chat Thread - #23/INFO]: [Not Secure] <TeeRobZti> NO ESTABA EL KEEPINVENTORY QSEREN
+[23:46:24] [Async Chat Thread - #23/INFO]: [Not Secure] <TeeRobZti> NO ESTABA EL KEEPINVENTORY QSEREN
+[23:46:27] [Server thread/INFO]: lg_santiago_1 joined the game
+[23:46:27] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:52165] logged in with entity id 42069 at ([world_nether]-13.300000011920929, 42.0, -12.699999988079071)
+[23:46:27] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[23:46:27] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[23:46:27] [Async Chat Thread - #23/INFO]: [Not Secure] <wolftho> AMIGO EL NOX
+[23:46:30] [Async Chat Thread - #23/INFO]: [Not Secure] <wolftho> ME CAGO
+[23:46:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:46:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:46:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[23:46:34] [Async Chat Thread - #23/INFO]: [Not Secure] <wolftho> ESTABAMOS BIEN AMIGO
+[23:46:36] [User Authenticator #20/INFO]: UUID of player thenoxplayer is 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[23:46:37] [User Authenticator #21/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:46:39] [Server thread/INFO]: qSeren joined the game
+[23:46:39] [Server thread/INFO]: qSeren[/100.86.135.121:59019] logged in with entity id 42463 at ([world_nether]-33.44733979233327, 42.888056783705224, -12.416609357557308)
+[23:46:39] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[23:46:39] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[23:46:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:46:40] [Async Chat Thread - #23/INFO]: [Not Secure] <wolftho> EL NOX ME CAGO
+[23:46:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:46:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[23:46:43] [Async Chat Thread - #23/INFO]: [Not Secure] <wolftho> DIOS HERMANO
+[23:46:44] [Server thread/INFO]: TeeRobZti issued server command: /ban thenoxplayer trapear compañero
+[23:46:44] [Server thread/INFO]: [TeeRobZti: Banned thenoxplayer: trapear compañero]
+[23:46:45] [Async Chat Thread - #23/INFO]: [Not Secure] <wolftho> QUE RETRASADO
+[23:46:47] [Async Chat Thread - #23/INFO]: [Not Secure] <TeeRobZti> ya lo banee
+[23:46:48] [Async Chat Thread - #24/INFO]: [Not Secure] <TeeRobZti> ya lo banee
+[23:46:48] [Async Chat Thread - #23/INFO]: [Not Secure] <TeeRobZti> ya lo banee
+[23:46:49] [Async Chat Thread - #23/INFO]: [Not Secure] <TeeRobZti> ya lo banee
+[23:46:49] [Async Chat Thread - #23/INFO]: [Not Secure] <TeeRobZti> ya lo banee
+[23:46:52] [Async Chat Thread - #23/INFO]: [Not Secure] <Gatunixdd> AdrianoLC tu ptm madre, si agarraste algo te saco ticket
+[23:46:52] [Async Chat Thread - #23/INFO]: [Not Secure] <Gatunixdd> AdrianoLC tu ptm madre, si agarraste algo te saco ticket
+[23:46:52] [Async Chat Thread - #23/INFO]: [Not Secure] <Gatunixdd> AdrianoLC tu ptm madre, si agarraste algo te saco ticket
+[23:46:56] [Server thread/INFO]: thenoxplayer joined the game
+[23:46:56] [Server thread/INFO]: thenoxplayer[/100.86.158.5:63569] logged in with entity id 42462 at ([world_nether]-36.034923272271485, 43.24918707874468, -3.707583205066116)
+[23:46:57] [Server thread/INFO]: [voicechat] Received secret request of thenoxplayer (18)
+[23:46:57] [Server thread/INFO]: [voicechat] Sent secret to thenoxplayer
+[23:46:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[23:46:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[23:46:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player thenoxplayer (75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5) successfully connected to voice chat
+[23:47:03] [Async Chat Thread - #23/INFO]: [Not Secure] <wolftho> dejalo ban amigo
+[23:47:06] [Server thread/INFO]: qSeren issued server command: /gamerule keepInventory true
+[23:47:06] [Server thread/INFO]: [qSeren: Gamerule keepInventory is now set to: true]
+[23:47:06] [Server thread/INFO]: TeeRobZti issued server command: /ban thenoxplayer
+[23:47:09] [Async Chat Thread - #23/INFO]: [Not Secure] <thenoxplayer> se supone q habia keepinventory igual
+[23:47:11] [Async Chat Thread - #23/INFO]: [Not Secure] <wolftho> va a seguir jodiendo
+[23:47:17] [Async Chat Thread - #24/INFO]: [Not Secure] <Gatunixdd> oe qSeren el adrino se robo unas cosas del wolftho
+[23:47:18] [Server thread/INFO]: TeeRobZti issued server command: /pardon thenoxplayer
+[23:47:18] [Server thread/INFO]: [TeeRobZti: Unbanned thenoxplayer]
+[23:47:20] [Server thread/INFO]: TeeRobZti issued server command: /ban thenoxplayer
+[23:47:20] [Server thread/INFO]: [TeeRobZti: Banned thenoxplayer: Banned by an operator.]
+[23:47:20] [Server thread/INFO]: thenoxplayer lost connection: You are banned from this server
+[23:47:20] [Server thread/INFO]: [voicechat] Disconnecting client thenoxplayer
+[23:47:20] [Server thread/INFO]: thenoxplayer left the game
+[23:47:22] [Async Chat Thread - #24/INFO]: [Not Secure] <AdrianoLC> GATUNI SOS SORDO GORDO
+[23:47:24] [Server thread/INFO]: lg_santiago_1 lost connection: Timed out
+[23:47:24] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[23:47:24] [Server thread/INFO]: lg_santiago_1 left the game
+[23:47:25] [Server thread/INFO]: qSeren lost connection: Timed out
+[23:47:25] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[23:47:25] [Server thread/INFO]: qSeren left the game
+[23:47:27] [Async Chat Thread - #24/INFO]: [Not Secure] <AdrianoLC> llevo media hora diciendo q se las doy
+[23:47:29] [Async Chat Thread - #24/INFO]: [Not Secure] <AdrianoLC> y se alejan
+[23:47:38] [Async Chat Thread - #24/INFO]: [Not Secure] <Gatunixdd> COMO QUERES QUE TE OIGA MIERDAAAAA
+[23:47:41] [User Authenticator #22/INFO]: UUID of player thenoxplayer is 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[23:47:41] [Server thread/INFO]: Disconnecting thenoxplayer (/100.86.158.5:63589): You are banned from this server.
+Reason: Banned by an operator.
+[23:47:41] [Server thread/INFO]: thenoxplayer (/100.86.158.5:63589) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[23:47:42] [Async Chat Thread - #24/INFO]: [Not Secure] <Gatunixdd> SI NO SE OYE NADA XDDDDDDD
+[23:47:42] [Async Chat Thread - #24/INFO]: [Not Secure] <TeeRobZti> wolftho ntp ya lo banee
+[23:47:48] [Async Chat Thread - #24/INFO]: [Not Secure] <TeeRobZti> luego te doy la armor y etc
+[23:47:51] [Async Chat Thread - #24/INFO]: [Not Secure] <wolftho> ok
+[23:47:52] [Server thread/INFO]: [Not Secure] [Server] yo le dije al pendejo que tenia que poner keep
+[23:47:55] [Server thread/INFO]: [Not Secure] [Server] wolf tienes captura de tus cosas?
+[23:47:56] [Async Chat Thread - #24/INFO]: [Not Secure] <TeeRobZti> QUE
+[23:47:57] [User Authenticator #22/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[23:47:59] [Async Chat Thread - #24/INFO]: [Not Secure] <TeeRobZti> A MI NO ME DIJISTE NADA
+[23:48:00] [Server thread/INFO]: lg_santiago_1 joined the game
+[23:48:00] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:52194] logged in with entity id 43692 at ([world_nether]-25.413815022582, 42.0, -12.290978494058486)
+[23:48:00] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[23:48:00] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[23:48:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:48:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:48:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[23:48:03] [Async Chat Thread - #24/INFO]: [Not Secure] <wolftho> no pero si me acuerdo xd
+[23:48:07] [Async Chat Thread - #25/INFO]: [Not Secure] <TeeRobZti> EN MULTIMEDIA DIJISTE
+[23:48:13] [Async Chat Thread - #25/INFO]: [Not Secure] <TeeRobZti> DE Q2UE EL KEEP YA ESTABA PUESTO
+[23:48:14] [Async Chat Thread - #25/INFO]: [Not Secure] <TeeRobZti> MOMO
+[23:48:15] [User Authenticator #22/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:48:17] [Server thread/INFO]: qSeren joined the game
+[23:48:17] [Server thread/INFO]: qSeren[/100.86.135.121:59060] logged in with entity id 44078 at ([world_nether]-22.143721907714614, 44.11650136792814, -12.431903505382072)
+[23:48:18] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[23:48:18] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[23:48:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:48:20] [Server thread/INFO]: [Not Secure] [Server] a mi este jefe me da mucho mal net
+[23:48:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:48:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[23:48:22] [Server thread/INFO]: [Not Secure] [Server] a alguien le pasa?
+[23:48:26] [Async Chat Thread - #25/INFO]: [Not Secure] <Gatunixdd> a mi
+[23:48:27] [Async Chat Thread - #25/INFO]: [Not Secure] <TeeRobZti> x2
+[23:48:39] [Server thread/INFO]: lg_santiago_1 lost connection: Disconnected
+[23:48:39] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[23:48:39] [Server thread/INFO]: lg_santiago_1 left the game
+[23:48:52] [Async Chat Thread - #25/INFO]: [Not Secure] <Torre22932> ES EL CUPHEAD TODAS LAS FASES DE UN JEFE
+[23:48:52] [User Authenticator #22/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[23:48:53] [Async Chat Thread - #25/INFO]: [Not Secure] <Torre22932> ES EL CUPHEAD TODAS LAS FASES DE UN JEFE
+[23:48:53] [Async Chat Thread - #25/INFO]: [Not Secure] <Torre22932> ES EL CUPHEAD TODAS LAS FASES DE UN JEFE
+[23:48:53] [Async Chat Thread - #25/INFO]: [Not Secure] <Torre22932> ES EL CUPHEAD TODAS LAS FASES DE UN JEFE
+[23:48:56] [Server thread/INFO]: lg_santiago_1 joined the game
+[23:48:56] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:52220] logged in with entity id 44526 at ([world_nether]-31.48387720255504, 42.0, -6.50215055693002)
+[23:48:56] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[23:48:56] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[23:48:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:48:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:48:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[23:49:01] [Server thread/INFO]: lg_santiago_1 was struck by lightning
+[23:49:19] [Server thread/INFO]: lg_santiago_1 lost connection: Disconnected
+[23:49:19] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[23:49:19] [Server thread/INFO]: lg_santiago_1 left the game
+[23:49:52] [Server thread/INFO]: qSeren issued server command: /kill @e[type=wither_skeleton]
+[23:49:52] [Server thread/INFO]: Named entity WitherSkeleton['The Withered King, Blackburn'/34916, uuid='03d455bb-5337-4c7a-a462-a4f76ba2bc89', l='ServerLevel[world_nether]', x=-39.63, y=42.50, z=-28.86, cpos=[-3, -2], tl=13011, v=true] died: The Withered King, Blackburn was killed while fighting iRagc
+[23:49:52] [Server thread/INFO]: [qSeren: Killed The Withered King, Blackburn]
+[23:49:56] [Async Chat Thread - #26/INFO]: [Not Secure] <AdrianoLC> gg ez
+[23:49:58] [Async Chat Thread - #26/INFO]: [Not Secure] <Gatunixdd> GG
+[23:49:58] [Server thread/INFO]: qSeren issued server command: /kill @e[type=item]
+[23:49:58] [Server thread/INFO]: [qSeren: Killed 20 entities]
+[23:50:04] [Server thread/INFO]: qSeren lost connection: Timed out
+[23:50:04] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[23:50:04] [Server thread/INFO]: qSeren left the game
+[23:50:09] [Async Chat Thread - #26/INFO]: [Not Secure] <TeeRobZti> wolftho tengo tus botas
+[23:50:12] [Server thread/INFO]: TeeRobZti issued server command: /tp wolftho
+[23:50:12] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to wolftho]
+[23:50:17] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[23:50:17] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[23:50:17] [Async Chat Thread - #26/INFO]: [Not Secure] <Gatunixdd> wolftho luego vamos a ver lo de tus cosas
+[23:50:18] [Async Chat Thread - #26/INFO]: [Not Secure] <Gatunixdd> wolftho luego vamos a ver lo de tus cosas
+[23:50:22] [Server thread/INFO]: XxLinkGamer21xX has completed the challenge [So long, Blackburn]
+[23:50:22] [Server thread/INFO]: AdrianoLC has completed the challenge [So long, Blackburn]
+[23:50:22] [Server thread/INFO]: Vennom_123 has completed the challenge [So long, Blackburn]
+[23:50:22] [Server thread/INFO]: iRagc has completed the challenge [So long, Blackburn]
+[23:50:22] [Server thread/INFO]: Torre22932 has completed the challenge [So long, Blackburn]
+[23:50:22] [Server thread/INFO]: Gatunixdd has completed the challenge [So long, Blackburn]
+[23:50:22] [Server thread/INFO]: wolftho has completed the challenge [So long, Blackburn]
+[23:50:22] [Server thread/INFO]: TeeRobZti has completed the challenge [So long, Blackburn]
+[23:50:24] [Server thread/INFO]: Villager Villager['Villager'/41697, uuid='0f07cb07-9d1d-4537-875d-e3e2a0eb3b51', l='ServerLevel[world]', x=1733.11, y=-20.00, z=1155.52, cpos=[108, 72], tl=313162, v=true] died, message: 'Villager was squished too much'
+[23:50:28] [Server thread/INFO]: TeeRobZti issued server command: /tp ad
+[23:50:30] [Server thread/INFO]: TeeRobZti issued server command: /tp AdrianoLC
+[23:50:30] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to AdrianoLC]
+[23:50:33] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[23:50:33] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[23:50:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/title @a title ["Wither King ha sido baneado"]<--[HERE]
+[23:50:52] [Server thread/INFO]: Showing new title for 8 players
+[23:50:54] [Server thread/INFO]: [Not Secure] [Server] ez
+[23:50:58] [Async Chat Thread - #26/INFO]: [Not Secure] <TeeRobZti> MOMO
+[23:50:58] [User Authenticator #23/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:50:59] [Async Chat Thread - #26/INFO]: [Not Secure] <Gatunixdd> NO SE LEE XD
+[23:51:00] [Server thread/INFO]: qSeren joined the game
+[23:51:00] [Server thread/INFO]: qSeren[/100.86.135.121:59145] logged in with entity id 45953 at ([world_nether]-28.30000001192093, 45.24722470408424, -13.879940898881902)
+[23:51:00] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[23:51:00] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[23:51:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:51:00] [Async Chat Thread - #26/INFO]: [Not Secure] <wolftho> XD
+[23:51:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:51:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[23:51:02] [Async Chat Thread - #27/INFO]: [Not Secure] <Vennom_123> recompensa?
+[23:51:02] [Async Chat Thread - #27/INFO]: [Not Secure] <Vennom_123> recompensa?
+[23:51:03] [Async Chat Thread - #27/INFO]: [Not Secure] <Vennom_123> recompensa?
+[23:51:03] [Async Chat Thread - #27/INFO]: [Not Secure] <Vennom_123> recompensa?
+[23:51:04] [Async Chat Thread - #27/INFO]: [Not Secure] <Torre22932> Y LA RECOMPENSA?
+[23:51:04] [Async Chat Thread - #27/INFO]: [Not Secure] <Torre22932> Y LA RECOMPENSA?
+[23:51:04] [Async Chat Thread - #27/INFO]: [Not Secure] <Torre22932> Y LA RECOMPENSA?
+[23:51:05] [Async Chat Thread - #27/INFO]: [Not Secure] <Torre22932> Y LA RECOMPENSA?
+[23:51:05] [Async Chat Thread - #27/INFO]: [Not Secure] <Torre22932> Y LA RECOMPENSA?
+[23:51:07] [Async Chat Thread - #27/INFO]: [Not Secure] <wolftho> el NETHER
+[23:51:07] [Async Chat Thread - #27/INFO]: [Not Secure] <iRagc> qseren habra recompensa?
+[23:51:09] [Async Chat Thread - #27/INFO]: [Not Secure] <wolftho> GAYS TOTALES
+[23:51:37] [Server thread/INFO]: Torre22932 lost connection: Disconnected
+[23:51:37] [Server thread/INFO]: [voicechat] Disconnecting client Torre22932
+[23:51:37] [Server thread/INFO]: Torre22932 left the game
+[23:51:39] [Async Chat Thread - #27/INFO]: [Not Secure] <wolftho> dios amigo
+[23:51:40] [Server thread/INFO]: qSeren issued server command: /gamemode survival
+[23:51:40] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
+[23:51:42] [Async Chat Thread - #27/INFO]: [Not Secure] <wolftho> el nox
+[23:51:46] [Async Chat Thread - #27/INFO]: [Not Secure] <wolftho> que jodido que es amigo
+[23:51:48] [Async Chat Thread - #27/INFO]: [Not Secure] <Vennom_123> xray
+[23:51:48] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[23:51:48] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[23:51:49] [Async Chat Thread - #27/INFO]: [Not Secure] <Vennom_123> xray
+[23:51:49] [Async Chat Thread - #27/INFO]: [Not Secure] <Vennom_123> xray
+[23:51:53] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[23:51:53] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[23:51:57] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC metete
+[23:52:05] [Async Chat Thread - #26/INFO]: [Not Secure] <Gatunixdd> team, go vc
+[23:52:05] [Async Chat Thread - #26/INFO]: [Not Secure] <Gatunixdd> team, go vc
+[23:52:14] [Async Chat Thread - #26/INFO]: [Not Secure] <iRagc> crea uno p tarao
+[23:52:16] [Server thread/INFO]: TeeRobZti issued server command: /tp qSeren TeeRobZti
+[23:52:16] [Server thread/INFO]: [TeeRobZti: Teleported qSeren to TeeRobZti]
+[23:52:16] [Async Chat Thread - #26/INFO]: [Not Secure] <Gatunixdd> team, go vc
+[23:52:17] [Async Chat Thread - #26/INFO]: [Not Secure] <Gatunixdd> team, go vc
+[23:52:17] [Async Chat Thread - #26/INFO]: [Not Secure] <Gatunixdd> team, go vc
+[23:52:45] [User Authenticator #24/INFO]: UUID of player thenoxplayer is 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[23:52:45] [Server thread/INFO]: Disconnecting thenoxplayer (/100.86.158.5:63636): You are banned from this server.
+Reason: Banned by an operator.
+[23:52:45] [Server thread/INFO]: thenoxplayer (/100.86.158.5:63636) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[23:52:59] [Async Chat Thread - #26/INFO]: [Not Secure] <wolftho> solo unas botas
+[23:53:01] [Async Chat Thread - #26/INFO]: [Not Secure] <wolftho> wachinazo
+[23:53:06] [Async Chat Thread - #26/INFO]: [Not Secure] <wolftho> ok

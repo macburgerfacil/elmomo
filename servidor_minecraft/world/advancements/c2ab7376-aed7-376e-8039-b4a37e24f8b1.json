@@ -2021,73 +2021,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 23:37:55 +0000"
+      "log_spam_fixer": "2025-02-12 23:52:55 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 23:37:55 +0000"
+      "log_spam_fixer": "2025-02-12 23:52:55 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 23:37:55 +0000"
+      "log_spam_fixer": "2025-02-12 23:52:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 23:37:55 +0000"
+      "log_spam_fixer": "2025-02-12 23:52:55 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 23:37:55 +0000"
+      "log_spam_fixer": "2025-02-12 23:52:55 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 23:37:55 +0000"
+      "log_spam_fixer": "2025-02-12 23:52:55 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 23:37:55 +0000"
+      "log_spam_fixer": "2025-02-12 23:52:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 23:37:55 +0000"
+      "log_spam_fixer": "2025-02-12 23:52:55 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 23:37:55 +0000"
+      "log_spam_fixer": "2025-02-12 23:52:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 23:37:55 +0000"
+      "log_spam_fixer": "2025-02-12 23:52:55 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 23:37:55 +0000"
+      "log_spam_fixer": "2025-02-12 23:52:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 23:37:55 +0000"
+      "log_spam_fixer": "2025-02-12 23:52:55 +0000"
     },
     "done": false
   },
@@ -2229,6 +2229,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-12 23:39:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-02-12 23:26:57 +0000"
@@ -2244,6 +2250,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-02-12 23:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 23:46:26 +0000"
     },
     "done": true
   },
@@ -2310,6 +2322,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 23:32:12 +0000"
+    },
+    "done": true
+  },
+  "share:boss/wither_king": {
+    "criteria": {
+      "requirement": "2025-02-12 23:50:22 +0000"
     },
     "done": true
   },
@@ -2427,6 +2445,12 @@
     },
     "done": true
   },
+  "share:boss/spawn_witherking": {
+    "criteria": {
+      "requirement": "2025-02-12 23:38:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-12 23:33:49 +0000"
@@ -2436,6 +2460,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-12 23:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 23:46:26 +0000"
     },
     "done": true
   },
