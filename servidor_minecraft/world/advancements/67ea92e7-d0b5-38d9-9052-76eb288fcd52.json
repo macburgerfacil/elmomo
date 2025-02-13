@@ -114,10 +114,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-02-13 01:42:57 +0000",
       "log_spam_fixer": "2025-02-07 23:16:50 +0000"
     },
-    "done": true
+    "done": false
   },
   "global:inkorthe2nd": {
     "criteria": {
@@ -4002,73 +4001,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:42:05 +0000"
+      "log_spam_fixer": "2025-02-13 01:57:05 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:42:05 +0000"
+      "log_spam_fixer": "2025-02-13 01:57:05 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:42:05 +0000"
+      "log_spam_fixer": "2025-02-13 01:57:05 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:42:05 +0000"
+      "requirement": "2025-02-13 01:57:05 +0000",
+      "log_spam_fixer": "2025-02-13 01:57:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:42:05 +0000"
+      "log_spam_fixer": "2025-02-13 01:57:05 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:42:05 +0000"
+      "log_spam_fixer": "2025-02-13 01:57:05 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:42:05 +0000"
+      "log_spam_fixer": "2025-02-13 01:57:05 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:42:05 +0000"
+      "log_spam_fixer": "2025-02-13 01:57:05 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:42:05 +0000"
+      "log_spam_fixer": "2025-02-13 01:57:05 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:42:05 +0000"
+      "log_spam_fixer": "2025-02-13 01:57:05 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:42:05 +0000"
+      "log_spam_fixer": "2025-02-13 01:57:05 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:42:05 +0000"
+      "log_spam_fixer": "2025-02-13 01:57:05 +0000"
     },
     "done": false
   },
@@ -4083,6 +4083,12 @@
       "has_minecart": "2025-02-13 01:21:45 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:british_shorthair": "2025-02-13 01:56:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {

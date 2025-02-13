@@ -556,3 +556,53 @@
 [01:44:42] [Server thread/INFO]: qSeren lost connection: Timed out
 [01:44:42] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
 [01:44:42] [Server thread/INFO]: qSeren left the game
+[01:47:53] [Server thread/INFO]: TeeRobZti lost connection: Disconnected
+[01:47:53] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[01:47:54] [Server thread/INFO]: TeeRobZti left the game
+[01:48:09] [User Authenticator #39/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:48:10] [Server thread/INFO]: qSeren joined the game
+[01:48:10] [Server thread/INFO]: qSeren[/100.86.135.121:60530] logged in with entity id 82913 at ([world_nether]4149.645127631919, 32.7531999805212, 1080.126957809318)
+[01:48:11] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[01:48:11] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[01:48:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:48:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:48:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[01:49:11] [Server thread/INFO]: iRagc issued server command: /skin reset
+[01:49:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-229, y=-45, z=70}
+[01:49:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-227, y=-45, z=71}
+[01:49:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-228, y=-45, z=72}
+[01:49:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-228, y=-45, z=69}
+[01:49:44] [Server thread/INFO]: qSeren has made the advancement [The Dust Settles]
+[01:49:44] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-68, y=-51, z=70}
+[01:49:44] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-68, y=-51, z=53}
+[01:49:46] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-195, y=-53, z=95}
+[01:49:46] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=112}
+[01:49:46] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=121}
+[01:49:46] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-197, y=-53, z=89}
+[01:49:47] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-187, y=-54, z=56}
+[01:49:49] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=112}
+[01:49:49] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=121}
+[01:49:49] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=112}
+[01:49:49] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=121}
+[01:50:21] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83303, uuid='7e8c6604-1af2-46d3-9b18-710c511c5ddc', l='ServerLevel[world_nether]', x=4007.70, y=30.40, z=595.93, cpos=[250, 37], tl=66, v=true] died: Sanctum Cultist tried to swim in lava
+[01:50:23] [Server thread/INFO]: qSeren has reached the goal [An Illager Refuge?]
+[01:50:51] [Server thread/INFO]: Named entity Illusioner['Sanctum Illusionist'/83364, uuid='d481418a-5380-4db7-b171-c4c0f3099cd5', l='ServerLevel[world_nether]', x=4000.46, y=42.00, z=584.64, cpos=[250, 36], tl=618, v=true] died: Sanctum Illusionist was slain by qSeren
+[01:51:01] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83352, uuid='2d9854e6-eb1a-480c-9eed-9df0ed64f173', l='ServerLevel[world_nether]', x=4032.53, y=37.00, z=575.77, cpos=[252, 35], tl=808, v=true] died: Sanctum Cultist went up in flames
+[01:52:27] [Server thread/INFO]: qSeren has completed the challenge [Vault Hunter]
+[01:52:27] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83442, uuid='19da1ea1-7848-41df-b1d2-c88b885f2f80', l='ServerLevel[world_nether]', x=3985.25, y=36.00, z=548.33, cpos=[249, 34], tl=1306, v=true] died: Sanctum Cultist was slain by qSeren
+[01:52:34] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83367, uuid='74d9a3a9-63e3-471f-9099-b68ffc5753fd', l='ServerLevel[world_nether]', x=3987.00, y=36.00, z=554.95, cpos=[249, 34], tl=2082, v=true] died: Sanctum Cultist was slain by qSeren
+[01:52:39] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83454, uuid='e0a3be0a-8c03-4cbc-9e30-dba6798c727e', l='ServerLevel[world_nether]', x=3984.05, y=36.00, z=544.08, cpos=[249, 34], tl=1486, v=true] died: Sanctum Cultist was slain by qSeren
+[01:53:02] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83407, uuid='3876d85b-b160-4a20-a94e-19d157f456f4', l='ServerLevel[world_nether]', x=3995.54, y=33.44, z=572.67, cpos=[249, 35], tl=2573, v=true] died: Sanctum Cultist tried to swim in lava
+[01:53:02] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/83434, uuid='4774dde5-0a4f-4f20-88a8-258915469b8e', l='ServerLevel[world_nether]', x=4000.62, y=33.30, z=544.95, cpos=[250, 34], tl=2394, v=true] died: Sanctum Inquisitor tried to swim in lava
+[01:53:03] [Server thread/INFO]: Named entity Illusioner['Sanctum Illusionist'/83435, uuid='9f7f8d78-3316-4b61-834e-5a8b595702da', l='ServerLevel[world_nether]', x=4000.50, y=33.88, z=538.59, cpos=[250, 33], tl=1970, v=true] died: Sanctum Illusionist tried to swim in lava
+[01:54:01] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/83404, uuid='73880a6d-ddb8-45e1-93e4-609586977938', l='ServerLevel[world_nether]', x=4005.30, y=36.00, z=551.93, cpos=[250, 34], tl=3767, v=true] died: Sanctum Inquisitor was slain by qSeren
+[01:54:04] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/83439, uuid='0fa7d420-f9cb-4772-9929-f1422b9fd973', l='ServerLevel[world_nether]', x=4005.41, y=36.00, z=551.38, cpos=[250, 34], tl=3374, v=true] died: Sanctum Protector was slain by qSeren
+[01:54:06] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/83437, uuid='10671f08-1a31-4faa-ae81-4bcc6d25c56a', l='ServerLevel[world_nether]', x=4005.59, y=36.00, z=551.50, cpos=[250, 34], tl=3417, v=true] died: Sanctum Inquisitor was slain by qSeren
+[01:54:09] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/83441, uuid='6ca12af4-76b3-4453-b7de-47171705523b', l='ServerLevel[world_nether]', x=4018.40, y=36.00, z=568.42, cpos=[251, 35], tl=3475, v=true] died: Sanctum Inquisitor was shot by qSeren
+[01:55:57] [Server thread/INFO]: qSeren issued server command: /give iRagc name_tag
+[01:55:57] [Server thread/INFO]: [qSeren: Gave 1 [Name Tag] to iRagc]
+[01:56:03] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83409, uuid='1be7553b-3bad-4169-b9ab-a613116f711c', l='ServerLevel[world_nether]', x=4006.54, y=36.00, z=575.23, cpos=[250, 35], tl=6318, v=true] died: Sanctum Cultist was shot by qSeren
+[01:56:05] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83405, uuid='373688d8-d4c2-4184-80c5-22efe6db7aca', l='ServerLevel[world_nether]', x=4007.54, y=36.00, z=573.30, cpos=[250, 35], tl=6246, v=true] died: Sanctum Cultist was shot by qSeren
+[01:56:13] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83358, uuid='de49040e-d14a-45f1-bfff-a78fc5ae86ff', l='ServerLevel[world_nether]', x=4008.76, y=36.00, z=581.30, cpos=[250, 36], tl=6597, v=true] died: Sanctum Cultist was shot by qSeren
+[01:56:13] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83359, uuid='d3a99149-1cee-4972-a4fe-8ca802ada431', l='ServerLevel[world_nether]', x=4008.33, y=36.00, z=582.20, cpos=[250, 36], tl=6608, v=true] died: Sanctum Cultist was burned to a crisp while fighting qSeren
+[01:56:19] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83305, uuid='607bcca9-923c-48da-9b06-801888a7d3ce', l='ServerLevel[world_nether]', x=4011.05, y=30.67, z=594.24, cpos=[250, 37], tl=7107, v=true] died: Sanctum Cultist tried to swim in lava to escape qSeren
