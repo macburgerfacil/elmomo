@@ -1556,3 +1556,85 @@
 [04:31:36] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> donde esta
 [04:31:44] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> vs
 [04:32:08] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> cord
+[04:32:20] [Server thread/INFO]: Named entity PiglinBrute['Piglin Archer'/105879, uuid='9d55c881-387d-41fd-a167-3309877b3aaa', l='ServerLevel[world_nether]', x=-6061.49, y=71.94, z=1392.10, cpos=[-379, 87], tl=92136, v=true] died: Piglin Archer went off with a bang
+[04:32:51] [Async Chat Thread - #137/INFO]: [Not Secure] <AdrianoLC> -6045 82 1411
+[04:33:43] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> adri quien soy
+[04:34:00] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> el piglin de mierda
+[04:34:09] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> foto con todo lo custom
+[04:34:10] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> toma
+[04:34:12] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> ah
+[04:34:12] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> para
+[04:34:23] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> ponete otra
+[04:34:24] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> una espada
+[04:34:28] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> esa
+[04:34:30] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> en la otra mano
+[04:34:42] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> LA FOTO DALE GORD
+[04:34:48] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> bueno
+[04:34:50] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> a ver veni
+[04:34:57] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> XDD
+[04:35:02] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> ah tiene poco kb
+[04:35:09] [Async Chat Thread - #136/INFO]: [Not Secure] <qSeren> sabes lo bueno
+[04:35:10] [Async Chat Thread - #136/INFO]: [Not Secure] <qSeren> mirale el tag
+[04:35:12] [Async Chat Thread - #136/INFO]: [Not Secure] <qSeren> es de diamante
+[04:35:14] [Async Chat Thread - #136/INFO]: [Not Secure] <qSeren> se pude mejorar a netherite
+[04:35:21] [Async Chat Thread - #136/INFO]: [Not Secure] <qSeren> sisis
+[04:35:26] [Async Chat Thread - #136/INFO]: [Not Secure] <qSeren> lo dice en la misma wiki no pierde textura ni nada
+[04:36:08] [Async Chat Thread - #136/INFO]: [Not Secure] <qSeren> ya agarret
+[04:36:09] [Async Chat Thread - #136/INFO]: [Not Secure] <qSeren> espera
+[04:36:13] [Async Chat Thread - #136/INFO]: [Not Secure] <qSeren> quiero desconectarme viendo mis riquezas
+[04:36:41] [Async Chat Thread - #136/INFO]: [Not Secure] <qSeren> lo hacemosde oro
+[04:36:41] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> ez
+[04:36:48] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> si
+[04:36:49] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> foto
+[04:37:15] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> foto
+[04:37:32] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> q lag
+[04:37:33] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> XDD
+[04:37:35] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> de repente
+[04:37:36] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> si
+[04:37:36] [Async Chat Thread - #137/INFO]: [Not Secure] <qSeren> morimos
+[04:37:52] [Server thread/INFO]: qSeren lost connection: Disconnected
+[04:37:52] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[04:37:52] [Server thread/INFO]: qSeren left the game
+[04:37:54] [Server thread/INFO]: AdrianoLC lost connection: Disconnected
+[04:37:54] [Server thread/INFO]: [voicechat] Disconnecting client AdrianoLC
+[04:37:54] [Server thread/INFO]: AdrianoLC left the game
+[04:38:50] [Server thread/INFO]: Stopping the server
+[04:38:50] [Server thread/INFO]: Stopping server
+[04:38:50] [Server thread/INFO]: [FastChunkPregenerator] Disabling FastChunkPregenerator v2.0.9-SNAPSHOT
+[04:38:50] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
+[04:38:50] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[04:38:50] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[04:38:50] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[04:38:50] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[04:38:50] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[04:38:50] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[04:38:50] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.7.10.0
+[04:38:50] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
+[04:38:50] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[04:38:50] [Server thread/INFO]: Saving players
+[04:38:50] [Server thread/INFO]: Saving worlds
+[04:38:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:38:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:38:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Saved 6 block chunks, 37 entity chunks, 0 poi chunks in world 'world' in 0.10s
+[04:38:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Saved 5 block chunks, 56 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
+[04:38:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[04:38:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_cavernous_the_myst]'/cavernous:the_myst
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_cavernous_the_myst'
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_cavernous_the_myst'
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_cavernous_the_myst'
+[04:38:51] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 8 entity chunks, 0 poi chunks in world 'world_cavernous_the_myst' in 0.01s
+[04:38:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:38:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:38:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:38:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_myst): All chunks are saved
+[04:38:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
