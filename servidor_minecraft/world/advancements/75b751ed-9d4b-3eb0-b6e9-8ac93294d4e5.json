@@ -3540,73 +3540,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 17:01:07 +0000"
+      "log_spam_fixer": "2025-02-13 17:11:07 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 17:01:07 +0000"
+      "log_spam_fixer": "2025-02-13 17:11:07 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 17:01:07 +0000"
+      "log_spam_fixer": "2025-02-13 17:11:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 17:01:07 +0000"
+      "log_spam_fixer": "2025-02-13 17:11:07 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 17:01:07 +0000"
+      "log_spam_fixer": "2025-02-13 17:11:07 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 17:01:07 +0000"
+      "log_spam_fixer": "2025-02-13 17:11:07 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 17:01:07 +0000"
+      "log_spam_fixer": "2025-02-13 17:11:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 17:01:07 +0000"
+      "log_spam_fixer": "2025-02-13 17:11:07 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 17:01:07 +0000"
+      "log_spam_fixer": "2025-02-13 17:11:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 17:01:07 +0000"
+      "log_spam_fixer": "2025-02-13 17:11:07 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 17:01:07 +0000"
+      "log_spam_fixer": "2025-02-13 17:11:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 17:01:07 +0000"
+      "log_spam_fixer": "2025-02-13 17:11:07 +0000"
     },
     "done": false
   },
@@ -3646,9 +3646,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-13 17:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-13 17:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-13 17:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-02-13 16:57:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-02-13 17:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-13 17:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-13 17:09:04 +0000"
     },
     "done": true
   },
@@ -3658,9 +3694,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-13 17:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-02-13 16:57:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-02-13 17:09:08 +0000"
     },
     "done": true
   },
@@ -3687,6 +3735,12 @@
       "has_nether_bricks": "2025-02-13 16:57:32 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-02-13 17:09:08 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
