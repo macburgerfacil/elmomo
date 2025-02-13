@@ -3766,78 +3766,91 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:53:05 +0000"
+      "fortress": "2025-02-13 18:02:51 +0000",
+      "nether_keep": "2025-02-13 18:17:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:53:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 18:53:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-02-13 18:53:24 +0000",
-      "log_spam_fixer": "2025-02-13 18:53:05 +0000"
+      "fortress": "2025-02-13 18:02:51 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "incendium:toxic_heap/root": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:53:05 +0000"
+      "requirement": "2025-02-13 18:12:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-02-13 18:17:16 +0000",
+      "junk": "2025-02-13 18:18:09 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/firestorm": {
+  "nova_structures:nether/find_keep": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:53:05 +0000"
+      "minecraft:nether_keep": "2025-02-13 18:17:16 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "incendium:toxic_heap/nuclear_fusion": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:53:05 +0000"
+      "incendium:waste": "2025-02-13 18:17:16 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "incendium:withered_forest/root": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:53:05 +0000"
+      "requirement": "2025-02-13 18:19:07 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:53:05 +0000"
+      "blaze_rod": "2025-02-13 18:19:19 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:53:05 +0000"
+      "has_blaze_rod": "2025-02-13 18:19:19 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:53:05 +0000"
+      "has_blaze_rod": "2025-02-13 18:19:19 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:53:05 +0000"
+      "has_blaze_powder": "2025-02-13 18:36:18 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-13 18:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-02-13 18:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-13 18:37:22 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
@@ -3857,37 +3870,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-13 18:36:18 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/mystic_wisdom": {
-    "criteria": {
-      "waste": "2025-02-13 18:17:16 +0000",
-      "junk": "2025-02-13 18:18:09 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-02-13 18:37:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-02-13 18:19:19 +0000"
-    },
-    "done": true
-  },
-  "incendium:withered_forest/root": {
-    "criteria": {
-      "requirement": "2025-02-13 18:19:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-13 18:37:23 +0000"
@@ -3897,19 +3879,6 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-02-13 18:37:23 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_nether_skeleton": {
-    "criteria": {
-      "fortress": "2025-02-13 18:02:51 +0000",
-      "nether_keep": "2025-02-13 18:17:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-13 18:36:18 +0000"
     },
     "done": true
   },
@@ -3925,45 +3894,9 @@
     },
     "done": true
   },
-  "nova_structures:nether/find_keep": {
-    "criteria": {
-      "minecraft:nether_keep": "2025-02-13 18:17:16 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/root": {
-    "criteria": {
-      "requirement": "2025-02-13 18:12:12 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/nuclear_fusion": {
-    "criteria": {
-      "incendium:waste": "2025-02-13 18:17:16 +0000"
-    },
-    "done": true
-  },
-  "stellarity:story/cloud_save": {
-    "criteria": {
-      "requirement": "2025-02-13 18:37:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-02-13 18:37:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-02-13 18:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-02-13 18:19:19 +0000"
     },
     "done": true
   },
@@ -3973,17 +3906,83 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "stellarity:story/cloud_save": {
     "criteria": {
-      "fortress": "2025-02-13 18:02:51 +0000"
+      "requirement": "2025-02-13 18:37:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_blaze_rod": "2025-02-13 18:19:19 +0000"
+      "log_spam_fixer": "2025-02-13 23:18:10 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 23:18:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 23:18:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 23:18:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 23:18:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 23:18:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 23:18:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 23:18:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 23:18:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 23:18:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 23:18:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 23:18:10 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

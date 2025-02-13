@@ -1,13 +1,13 @@
-[17:55:22] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[17:55:22] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[17:55:23] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:55:24] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[17:55:24] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[23:12:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[23:12:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[23:12:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:12:39] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[23:12:39] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - BlockLocker (1.13), FastChunkPregenerator (2.0.9-SNAPSHOT), ImageFrame (1.7.10.0), LoginSecurity (3.3.0), SkinsRestorer (15.5.2), WorldEdit (7.3.9+6959-7adf70b), voicechat (2.5.26)
-[17:55:28] [ServerMain/WARN]: resource-pack-id missing, using default of 24696f4d-dc48-3d38-9515-c73880600e81
-[17:55:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:55:34] [ServerMain/INFO]: Loaded 1320 recipes
-[17:55:34] [ServerMain/ERROR]: Failed to load function witherking:abilities/laserbeam/main_tick
+[23:12:43] [ServerMain/WARN]: resource-pack-id missing, using default of 24696f4d-dc48-3d38-9515-c73880600e81
+[23:12:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:12:48] [ServerMain/INFO]: Loaded 1320 recipes
+[23:12:48] [ServerMain/ERROR]: Failed to load function witherking:abilities/laserbeam/main_tick
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 9: Incorrect argument for command at position 46: ... ..80 run <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -20,431 +20,105 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[17:55:34] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[17:55:34] [ServerMain/INFO]: Loaded 1697 advancements
-[17:55:35] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:55:35] [Server thread/INFO]: Loading properties
-[17:55:35] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[17:55:36] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:55:36] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:55:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:55:36] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[17:55:37] [Server thread/INFO]: Default game type: SURVIVAL
-[17:55:37] [Server thread/INFO]: Generating keypair
-[17:55:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:55:37] [Server thread/INFO]: Using epoll channel type
-[17:55:37] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:55:37] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:55:38] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[17:55:38] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.7.10.0
-[17:55:38] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
-[17:55:40] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7563225c]
-[17:55:40] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
-[17:55:40] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[17:55:40] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
-[17:55:40] [Server thread/INFO]: [FastChunkPregenerator] Loading server plugin FastChunkPregenerator v2.0.9-SNAPSHOT
-[17:55:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:55:40] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[17:55:42] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[17:55:42] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[17:55:43] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[17:55:44] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
-[17:55:44] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[17:55:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[17:55:44] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[17:55:44] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
-[17:55:46] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
-[17:55:46] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[17:55:55] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
-[17:55:55] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
-[17:55:55] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
-[17:55:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:55:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:55:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:55:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:55:55] [Server thread/INFO]: Preparing level "world"
-[17:55:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:55:58] [Server thread/INFO]: Time elapsed: 1144 ms
-[17:55:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:55:59] [Server thread/INFO]: Time elapsed: 278 ms
-[17:55:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:55:59] [Server thread/INFO]: Time elapsed: 214 ms
-[17:55:59] [Server thread/INFO]: Preparing start region for dimension cavernous:the_myst
-[17:55:59] [Server thread/INFO]: Time elapsed: 496 ms
-[17:55:59] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.7.10.0
-[17:56:00] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
-[17:56:00] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[17:56:00] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[17:56:00] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[17:56:00] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[17:56:01] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[17:56:01] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[17:56:01] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[17:56:01] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.1-R0.1
-[17:56:01] [Server thread/INFO]: [voicechat] Compatibility version 18
-[17:56:01] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[17:56:01] [Server thread/INFO]: [FastChunkPregenerator] Enabling FastChunkPregenerator v2.0.9-SNAPSHOT
-[17:56:01] [Server thread/INFO]: [FastChunkPregenerator] >> Paper was found.
-[17:56:01] [Server thread/INFO]: [FastChunkPregenerator] >> Async chunk loading support is enabled.
-[17:56:01] [Server thread/INFO]: [spark] Starting background profiler...
-[17:56:02] [Server thread/INFO]: Done preparing level "world" (6.242s)
-[17:56:02] [Server thread/INFO]: Running delayed init tasks
-[17:56:02] [Server thread/INFO]: Done (40.772s)! For help, type "help"
-[17:56:02] [Server thread/INFO]: Timings Reset
-[17:56:02] [Server thread/INFO]: [voicechat] Loading plugins
-[17:56:02] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[17:56:02] [Server thread/INFO]: [voicechat] Initializing plugins
-[17:56:02] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[17:56:02] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[17:56:02] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 100.119.93.34:24454
-[17:56:03] [Craft Scheduler Thread - 0 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 3 ImageMaps!
-[17:57:43] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[17:57:46] [Server thread/INFO]: qSeren joined the game
-[17:57:46] [Server thread/INFO]: qSeren[/100.86.135.121:51137] logged in with entity id 30 at ([world_nether]-7274.716796779573, 56.25220334025373, 2639.9331586714047)
-[17:57:46] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
-[17:57:46] [Server thread/INFO]: [voicechat] Sent secret to qSeren
-[17:57:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2929ms or 58 ticks behind
-[17:57:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[17:57:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[17:57:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
-[17:58:39] [User Authenticator #0/INFO]: UUID of player thenoxplayer is 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
-[17:58:48] [Server thread/INFO]: thenoxplayer joined the game
-[17:58:48] [Server thread/INFO]: thenoxplayer[/100.86.158.5:60735] logged in with entity id 123 at ([world_nether]-429.3727240111691, 37.17675927506424, -1419.5994127636764)
-[17:58:48] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 4af1b8a9-cc8a-4e25-b04e-22da70b61040, mapped to Piglin['Piglin'/127, uuid='4af1b8a9-cc8a-4e25-b04e-22da70b61040', l='ServerLevel[world_nether]', x=-424.26, y=38.00, z=-1408.19, cpos=[-27, -89], tl=2441, v=true], can't add Piglin['Piglin'/130, uuid='4af1b8a9-cc8a-4e25-b04e-22da70b61040', l='ServerLevel[world_nether]', x=-424.70, y=38.00, z=-1407.77, cpos=[-27, -88], tl=2742, v=false]
-[17:58:48] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1a4a3006-8287-49e6-87b7-1b539a57fbb2, mapped to PiglinBrute['Piglin Brute'/133, uuid='1a4a3006-8287-49e6-87b7-1b539a57fbb2', l='ServerLevel[world_nether]', x=-413.26, y=38.00, z=-1411.25, cpos=[-26, -89], tl=2499, v=true], can't add PiglinBrute['Piglin Brute'/139, uuid='1a4a3006-8287-49e6-87b7-1b539a57fbb2', l='ServerLevel[world_nether]', x=-413.68, y=37.42, z=-1407.34, cpos=[-26, -88], tl=2800, v=false]
-[17:58:48] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d31a1eca-7868-459d-b7ab-ef19234a8caf, mapped to Piglin['Piglin'/136, uuid='d31a1eca-7868-459d-b7ab-ef19234a8caf', l='ServerLevel[world_nether]', x=-440.44, y=35.00, z=-1414.52, cpos=[-28, -89], tl=3245, v=true], can't add Piglin['Piglin'/143, uuid='d31a1eca-7868-459d-b7ab-ef19234a8caf', l='ServerLevel[world_nether]', x=-436.21, y=39.00, z=-1437.51, cpos=[-28, -90], tl=1059, v=false]
-[17:58:48] [Server thread/INFO]: [voicechat] Received secret request of thenoxplayer (18)
-[17:58:48] [Server thread/INFO]: [voicechat] Sent secret to thenoxplayer
-[17:58:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
-[17:58:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
-[17:58:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player thenoxplayer (75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5) successfully connected to voice chat
-[17:59:30] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> q se sigan riendo
-[17:59:33] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> el sv ya abrio
-[17:59:33] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> ez
-[18:00:03] [User Authenticator #1/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
-[18:00:04] [User Authenticator #1/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
-[18:00:09] [Server thread/INFO]: iRagc joined the game
-[18:00:09] [Server thread/INFO]: iRagc[/100.84.182.88:56436] logged in with entity id 218 at ([world]1676.766785441899, -19.125, 1171.3398114315298)
-[18:00:09] [Server thread/INFO]: [voicechat] Received secret request of iRagc (18)
-[18:00:09] [Server thread/INFO]: [voicechat] Sent secret to iRagc
-[18:00:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
-[18:00:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
-[18:00:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player iRagc (67ea92e7-d0b5-38d9-9052-76eb288fcd52) successfully connected to voice chat
-[18:00:17] [Server thread/INFO]: TeeRobZti joined the game
-[18:00:17] [Server thread/INFO]: TeeRobZti[/100.127.70.41:63288] logged in with entity id 217 at ([world_nether]22.86998623190706, 13.0, 142.40919879606554)
-[18:00:17] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
-[18:00:17] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
-[18:00:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
-[18:00:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
-[18:00:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
-[18:00:34] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> en 0 0
-[18:00:43] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> no rollbackeo tanto
-[18:01:00] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> AMIGO TU MADRE COLANDO FIDEOS
-[18:01:20] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-218, y=10, z=-283}
-[18:01:22] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> bro la unica verga que tienes es la que tienes metida en el culo
-[18:01:34] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> dale gordo
-[18:01:36] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> deja de desviar el insulto
-[18:01:40] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> porque no le contestas
-[18:01:42] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> como hombre
-[18:01:42] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> ?
-[18:01:55] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> ?
-[18:02:00] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> amigo
-[18:02:03] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> pero q te puedo decir a vos
-[18:02:06] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> si sos un fracasado
-[18:02:51] [Server thread/INFO]: thenoxplayer has made the advancement [A Terrible Fortress]
-[18:03:06] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> si le respondo dice q me enojo
-[18:04:04] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> BRO
-[18:04:06] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> OTRO FORBIDDEN CASTLE
-[18:04:15] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> HOY ME CHETO
-[18:04:39] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> pq mierda
-[18:04:41] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> sono como narrador
-[18:04:42] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> el rag
-[18:04:43] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> xDD
-[18:05:25] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> ese si es el gay de torre
-[18:05:29] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> hasta gimio
-[18:06:04] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> xDDDDDDDDDDDDD
-[18:07:05] [User Authenticator #2/INFO]: UUID of player Torre22932 is df10c331-a0c1-39a5-8288-c551ff673086
-[18:07:08] [Server thread/INFO]: Torre22932 joined the game
-[18:07:08] [Server thread/INFO]: Torre22932[/100.79.135.100:61884] logged in with entity id 2760 at ([world]1386.373453338843, 85.0, 1103.4934316527967)
-[18:07:09] [Server thread/INFO]: [voicechat] Received secret request of Torre22932 (18)
-[18:07:09] [Server thread/INFO]: [voicechat] Sent secret to Torre22932
-[18:07:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player df10c331-a0c1-39a5-8288-c551ff673086
-[18:07:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player df10c331-a0c1-39a5-8288-c551ff673086
-[18:07:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Torre22932 (df10c331-a0c1-39a5-8288-c551ff673086) successfully connected to voice chat
-[18:07:25] [Server thread/INFO]: [Not Secure] [Server] mojon..
-[18:07:39] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
-[18:08:00] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> bro sant tiene que trabajar
-[18:08:14] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/1039, uuid='6ad0e322-a681-493f-a45d-fc9e9fdbdc7b', l='ServerLevel[world_nether]', x=-7482.80, y=62.00, z=3056.88, cpos=[-468, 191], tl=3206, v=true] died: Piglin Knight tried to swim in lava
-[18:08:54] [Server thread/INFO]: Villager Villager['Villager'/303, uuid='00e0db72-8574-4422-aede-fdc3e18bab9f', l='ServerLevel[world]', x=1733.12, y=-20.00, z=1155.70, cpos=[108, 72], tl=39323, v=true] died, message: 'Villager was squished too much'
-[18:08:57] [Server thread/INFO]: Torre22932 lost connection: Disconnected
-[18:08:57] [Server thread/INFO]: [voicechat] Disconnecting client Torre22932
-[18:08:57] [Server thread/INFO]: Torre22932 left the game
-[18:09:26] [Server thread/INFO]: Villager Villager['Villager'/298, uuid='4bd7138b-5294-48e4-bdc1-6d3130ddba8d', l='ServerLevel[world]', x=1733.25, y=-20.00, z=1155.70, cpos=[108, 72], tl=625625, v=true] died, message: 'Villager was squished too much'
-[18:09:33] [Server thread/INFO]: Villager Villager['Villager'/296, uuid='1e070b97-a54a-48a4-acdf-c4396858c38d', l='ServerLevel[world]', x=1733.20, y=-20.00, z=1155.46, cpos=[108, 72], tl=271042, v=true] died, message: 'Villager was squished too much'
-[18:11:23] [Async Chat Thread - #6/INFO]: [Not Secure] <thenoxplayer> FACTOS
-[18:11:25] [Async Chat Thread - #7/INFO]: [Not Secure] <thenoxplayer> RAG
-[18:11:26] [Async Chat Thread - #7/INFO]: [Not Secure] <thenoxplayer> TIRO
-[18:11:27] [Async Chat Thread - #7/INFO]: [Not Secure] <thenoxplayer> FACTURAS
-[18:11:37] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
-[18:11:38] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
-[18:12:12] [Server thread/INFO]: thenoxplayer has made the advancement [Radioactive]
-[18:12:47] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1163, uuid='eee22a18-1641-43d0-bf0a-f3eb18d32bff', l='ServerLevel[world_nether]', x=-7503.48, y=84.00, z=3084.60, cpos=[-469, 192], tl=6375, v=true] died: Piglin Paratrooper was slain by qSeren using [Scarlet Dagger]
-[18:12:57] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1162, uuid='1bef0ba2-9551-45d1-948c-fe3e86ccefa8', l='ServerLevel[world_nether]', x=-7502.09, y=86.50, z=3084.85, cpos=[-469, 192], tl=6560, v=true] died: Piglin Paratrooper was slain by qSeren using [Scarlet Dagger]
-[18:13:53] [Server thread/INFO]: iRagc lost connection: Disconnected
-[18:13:53] [Server thread/INFO]: [voicechat] Disconnecting client iRagc
-[18:13:53] [Server thread/INFO]: iRagc left the game
-[18:14:59] [Async Chat Thread - #8/INFO]: [Not Secure] <thenoxplayer> q mierda
-[18:15:02] [Async Chat Thread - #8/INFO]: [Not Secure] <thenoxplayer> pq el bioma esta dado vuelta
-[18:15:20] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer estas molesto conmigo?
-[18:15:35] [Server thread/INFO]: Named entity Piglin['Village Brewer'/4171, uuid='f93ffd4c-e538-4612-b78d-34c613e7b067', l='ServerLevel[world_nether]', x=-645.61, y=56.00, z=-2566.54, cpos=[-41, -161], tl=1431, v=true] died: Village Brewer was slain by thenoxplayer
-[18:15:49] [Server thread/INFO]: Named entity Piglin['Piglin Civilian'/4480, uuid='f59dd462-0222-4df4-a3ca-4f62bb934ae2', l='ServerLevel[world_nether]', x=-657.57, y=33.00, z=-2563.14, cpos=[-42, -161], tl=1554, v=true] died: Piglin Civilian fell from a high place
-[18:16:09] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/5328, uuid='222a0fcf-e3fe-4189-8d0a-c5a1334da7c3', l='ServerLevel[world_nether]', x=-7494.20, y=92.00, z=3082.15, cpos=[-469, 192], tl=332, v=true] died: Piglin Paratrooper was slain by qSeren using [Scarlet Dagger]
-[18:16:39] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> tu madre se comio el mic bro
-[18:16:43] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> okt
-[18:16:49] [Server thread/WARN]: qSeren moved too quickly! -0.45776457962074346,0.0,-12.001678768051988
-[18:16:49] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> me acuerdo de esto
-[18:16:51] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> por el sv de nasa
-[18:16:52] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> bro dan ganas de cs
-[18:17:16] [Server thread/INFO]: thenoxplayer has reached the goal [Pocket Edition Alpha]
-[18:17:16] [Server thread/INFO]: thenoxplayer has made the advancement [Concrete Halls]
-[18:17:35] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> mierdecita22932
-[18:18:26] [Async Chat Thread - #10/INFO]: [Not Secure] <TeeRobZti> thenoxplayer
-[18:18:27] [Async Chat Thread - #10/INFO]: [Not Secure] <TeeRobZti> broi
-[18:18:29] [Async Chat Thread - #10/INFO]: [Not Secure] <TeeRobZti> estamos op
-[18:18:51] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> bro no hay multiplex
-[18:18:52] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> me cago en todo
-[18:19:07] [Server thread/INFO]: thenoxplayer has made the advancement [Ancient Battlefield]
-[18:19:19] [Server thread/INFO]: thenoxplayer has made the advancement [Into Fire]
-[18:19:25] [Server thread/INFO]: TeeRobZti has completed the challenge [Cover Me in Debris]
-[18:19:48] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> toma pene
-[18:19:59] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> bro el pvp es
-[18:20:01] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> uhc neth
-[18:20:03] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> literalmente
-[18:20:08] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> o smp
-[18:20:22] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> bro
-[18:20:27] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> no quiero escuchar uhc
-[18:20:28] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> ni smp
-[18:20:31] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> mierda tryhard pvp
-[18:20:34] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> es el pvp xd
-[18:20:35] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> ponte a explorar y jugar el puto server
-[18:20:38] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> q se va a jugar ahora
-[18:20:46] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> thenoxplayer
-[18:20:47] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> bro me vale mierda que sea mjonazopvp
-[18:20:50] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> xDDD
-[18:20:52] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> me hiciste barrap?
-[18:21:10] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> q mierda es eso
-[18:21:11] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> sale cs
-[18:21:12] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> dale
-[18:21:17] [Async Chat Thread - #10/INFO]: [Not Secure] <TeeRobZti> thenoxplayer mutear
-[18:21:21] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> alta paja
-[18:21:34] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> chupame la pija nox
-[18:21:38] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-286, y=168, z=-18}
-[18:21:38] [Paper Common Worker #0/ERROR]: Tried to load invalid item: 'Failed to parse either. First: Failed to parse either. First: Not a string: null; Second: Not a json array: null; Second: Not a JSON object: null missed input: {"minecraft:lore":['{"italic":true,"color":"#4400AA","text":"Feel its electrical power"}',"",'{"translate":"Incendium","color":"#FF8000","italic":true}']}'
-[18:21:38] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> le digo a teerob
-[18:21:39] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> gordito
-[18:21:41] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> rebotante
-[18:21:45] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> bueno cs
-[18:21:47] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> na
-[18:21:48] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> z
-[18:21:53] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> tengo q hacerme full neth
-[18:21:54] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> chupame la pija nox
-[18:21:54] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-218, y=10, z=-283}
-[18:21:54] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-218, y=10, z=-283}
-[18:21:54] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> ayer no jugue
-[18:21:59] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> thenoxplayer dale amigo
-[18:22:03] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> busca ancient debris
-[18:22:04] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> XD
-[18:22:04] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> XD
-[18:22:04] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> XD
-[18:22:05] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> XD
-[18:22:08] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> yo ya estoy full diamante en todo
-[18:22:12] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> otro forbidden castle a 500 bloques del otro
-[18:22:14] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> thenoxplayer y no jugaste por la boludez que hiciste
-[18:22:14] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> na
-[18:22:15] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> gil
-[18:22:23] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> 7suerte
-[18:22:27] [Server thread/INFO]: qSeren lost connection: Timed out
-[18:22:27] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
-[18:22:27] [Server thread/INFO]: qSeren left the game
-[18:22:27] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> XD
-[18:22:30] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> bro ya no se que hacer
-[18:22:34] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> tengo full neth en todo
-[18:22:34] [Async Chat Thread - #10/INFO]: [Not Secure] <TeeRobZti> gg
-[18:22:46] [User Authenticator #3/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[18:22:56] [Server thread/INFO]: qSeren joined the game
-[18:22:56] [Server thread/INFO]: qSeren[/100.86.135.121:51710] logged in with entity id 6972 at ([world_nether]-7616.579061231751, 32.0, 3375.6008831586637)
-[18:22:56] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
-[18:22:56] [Server thread/INFO]: [voicechat] Sent secret to qSeren
-[18:23:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[18:23:01] [Server thread/INFO]: [Not Secure] [Server] 500 MS QE PESADO DE MIERDA CON TU ROBLOX
-[18:23:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[18:23:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
-[18:23:12] [Server thread/INFO]: Set qSeren's game mode to Creative Mode
-[18:23:13] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> yo digo
-[18:23:16] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> q le quites el net
-[18:23:17] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> xD
-[18:23:36] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> enseñale un juego de hombres che
-[18:23:38] [Server thread/INFO]: qSeren lost connection: Timed out
-[18:23:38] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
-[18:23:38] [Server thread/INFO]: qSeren left the game
-[18:23:44] [User Authenticator #3/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[18:23:46] [Server thread/INFO]: qSeren joined the game
-[18:23:46] [Server thread/INFO]: qSeren[/100.86.135.121:51745] logged in with entity id 7232 at ([world_nether]-7616.579061231751, 32.0, 3375.6008831586637)
-[18:23:46] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
-[18:23:46] [Server thread/INFO]: [voicechat] Sent secret to qSeren
-[18:23:51] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> si quiere
-[18:23:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[18:23:53] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> q juegue el source
-[18:23:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[18:23:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
-[18:23:57] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> asi no se asusta por los graficos
-[18:24:01] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> a teerob lo voy a dejar traumado en el cs
-[18:24:16] [Server thread/INFO]: [Not Secure] [Server] el q no le gusta el cs por los graficos es adri
-[18:24:25] [Server thread/INFO]: [Not Secure] [Server] cuando este en descuento que se compre el source
-[18:24:54] [Server thread/INFO]: qSeren lost connection: Timed out
-[18:24:54] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
-[18:24:54] [Server thread/INFO]: qSeren left the game
-[18:25:04] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> q
-[18:25:05] [User Authenticator #4/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[18:25:06] [Server thread/INFO]: qSeren joined the game
-[18:25:06] [Server thread/INFO]: qSeren[/100.86.135.121:51781] logged in with entity id 7537 at ([world_nether]-7679.744995747861, 83.02777754147385, 3466.4069318881207)
-[18:25:06] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
-[18:25:06] [Server thread/INFO]: [voicechat] Sent secret to qSeren
-[18:25:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[18:25:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[18:25:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
-[18:25:16] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> estoy looteando cosas
-[18:25:19] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> no ando consiguiendo debris
-[18:25:23] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> tengo 11
-[18:25:26] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> OTRO PUTO CASTILLO SIN MULTIPLEX
-[18:25:32] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> q es multiplex
-[18:25:44] [Async Chat Thread - #12/INFO]: [Not Secure] <thenoxplayer> es legal?
-[18:25:51] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> la escopeta
-[18:25:54] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> es para mobs
-[18:26:12] [Server thread/INFO]: qSeren issued server command: /gamemode survival
-[18:26:12] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
-[18:26:20] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> jaja me cago no de risa pero de mierda
-[18:26:32] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> por lo menos esta el voltaic trident
-[18:27:09] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> eso es admin abuse
-[18:27:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 60f425a3-b4ca-31c1-a532-8475c0b676c0 timed out
-[18:27:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player qSeren
-[18:27:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to qSeren
-[18:27:43] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> explora
-[18:27:45] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> pa conseguir
-[18:27:47] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> las armas
-[18:27:47] [Server thread/INFO]: qSeren lost connection: Timed out
-[18:27:47] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
-[18:27:47] [Server thread/INFO]: qSeren left the game
-[18:27:48] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> custom
-[18:27:49] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> gordito pelotudo
-[18:27:54] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> me zzz
-[18:28:09] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> no podes ganarle ni a torre
-[18:28:11] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> y vas a matar
-[18:28:57] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer hola
-[18:29:00] [Async Chat Thread - #12/INFO]: [Not Secure] <thenoxplayer> q
-[18:29:08] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer hola
-[18:29:14] [Server thread/INFO]: thenoxplayer issued server command: /msg TeeRobZti hola q pasa
-[18:29:19] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer nada
-[18:30:43] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> adios
-[18:30:45] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> voy a dormir
-[18:30:47] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> zzz
-[18:30:49] [Async Chat Thread - #13/INFO]: [Not Secure] <thenoxplayer> xD
-[18:30:59] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> ?
-[18:31:16] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> pillo
-[18:31:18] [Server thread/INFO]: TeeRobZti lost connection: Disconnected
-[18:31:18] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
-[18:31:18] [Server thread/INFO]: TeeRobZti left the game
-[18:31:23] [Server thread/INFO]: Named entity Piglin['Piglin Civilian'/8653, uuid='6c727a88-560a-4c95-b191-d5511c310396', l='ServerLevel[world_nether]', x=-1193.19, y=59.00, z=-3500.23, cpos=[-75, -219], tl=971, v=true] died: Piglin Civilian was slain by thenoxplayer
-[18:31:26] [Server thread/INFO]: Named entity Piglin['Village Guard'/8575, uuid='3e35266a-1db7-44a7-a00a-7509a2df7811', l='ServerLevel[world_nether]', x=-1185.38, y=58.00, z=-3499.68, cpos=[-75, -219], tl=1053, v=true] died: Village Guard was slain by thenoxplayer
-[18:31:31] [Server thread/INFO]: Named entity Piglin['Piglin Civilian'/8437, uuid='6b3707fb-bfce-4b44-9217-fef0d7703fe8', l='ServerLevel[world_nether]', x=-1174.27, y=58.00, z=-3503.25, cpos=[-74, -219], tl=1498, v=true] died: Piglin Civilian was slain by thenoxplayer
-[18:31:35] [Server thread/INFO]: Named entity Piglin['Piglin Civilian'/8427, uuid='528e6bcc-1746-4c49-acab-faddede932c1', l='ServerLevel[world_nether]', x=-1185.98, y=58.00, z=-3500.02, cpos=[-75, -219], tl=1584, v=true] died: Piglin Civilian was burned to a crisp while fighting thenoxplayer
-[18:34:00] [User Authenticator #5/INFO]: UUID of player AdrianoLC is c2ab7376-aed7-376e-8039-b4a37e24f8b1
-[18:34:08] [Server thread/INFO]: AdrianoLC joined the game
-[18:34:08] [Server thread/INFO]: AdrianoLC[/100.85.44.77:51753] logged in with entity id 9012 at ([world_nether]-6039.202111311193, 81.0, 1424.300000011921)
-[18:34:09] [Server thread/INFO]: [voicechat] Received secret request of AdrianoLC (18)
-[18:34:09] [Server thread/INFO]: [voicechat] Sent secret to AdrianoLC
-[18:34:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c2ab7376-aed7-376e-8039-b4a37e24f8b1
-[18:34:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c2ab7376-aed7-376e-8039-b4a37e24f8b1
-[18:34:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AdrianoLC (c2ab7376-aed7-376e-8039-b4a37e24f8b1) successfully connected to voice chat
-[18:34:13] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> grasa lc
-[18:34:23] [Async Chat Thread - #15/INFO]: [Not Secure] <AdrianoLC> incredibol
-[18:34:24] [Async Chat Thread - #15/INFO]: [Not Secure] <AdrianoLC> y seren
-[18:34:28] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> no puede jugar
-[18:34:30] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> por q su hermanito
-[18:34:33] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> esta jugando piggy
-[18:34:35] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> xDD
-[18:34:41] [Async Chat Thread - #15/INFO]: [Not Secure] <AdrianoLC> XDDD
-[18:36:20] [Async Chat Thread - #17/INFO]: [Not Secure] <thenoxplayer> eu
-[18:36:21] [Async Chat Thread - #17/INFO]: [Not Secure] <thenoxplayer> gordito
-[18:36:22] [Async Chat Thread - #17/INFO]: [Not Secure] <AdrianoLC> q
-[18:36:25] [Async Chat Thread - #17/INFO]: [Not Secure] <thenoxplayer> ya hay pvp
-[18:36:30] [Async Chat Thread - #17/INFO]: [Not Secure] <AdrianoLC> ya se
-[18:36:31] [Async Chat Thread - #17/INFO]: [Not Secure] <thenoxplayer> cuando pinta podrirla en la base de esos downs
-[18:36:37] [Async Chat Thread - #17/INFO]: [Not Secure] <AdrianoLC> XDDD
-[18:36:49] [Async Chat Thread - #17/INFO]: [Not Secure] <AdrianoLC> re injusto
-[18:36:51] [Async Chat Thread - #17/INFO]: [Not Secure] <AdrianoLC> 10v4
-[18:36:54] [Async Chat Thread - #17/INFO]: [Not Secure] <thenoxplayer> igual
-[18:36:55] [Async Chat Thread - #17/INFO]: [Not Secure] <AdrianoLC> para ellos digo
-[18:36:58] [Async Chat Thread - #17/INFO]: [Not Secure] <thenoxplayer> nos los garchamos
-[18:37:03] [Async Chat Thread - #17/INFO]: [Not Secure] <thenoxplayer> amigo
-[18:37:06] [Async Chat Thread - #18/INFO]: [Not Secure] <thenoxplayer> le pones una coweb a wolf
-[18:37:09] [Async Chat Thread - #18/INFO]: [Not Secure] <thenoxplayer> y se queda duro
-[18:37:12] [Async Chat Thread - #18/INFO]: [Not Secure] <AdrianoLC> XDDDD
-[18:37:13] [Async Chat Thread - #18/INFO]: [Not Secure] <thenoxplayer> imaginate los demas
-[18:37:30] [Server thread/INFO]: thenoxplayer has made the advancement [Cloud Save]
-[18:38:10] [Async Chat Thread - #18/INFO]: [Not Secure] <thenoxplayer> che adri
-[18:38:12] [Async Chat Thread - #18/INFO]: [Not Secure] <AdrianoLC> q
-[18:38:13] [Async Chat Thread - #18/INFO]: [Not Secure] <thenoxplayer> te molesta si me cojo a tu vieja?
-[18:38:18] [Async Chat Thread - #18/INFO]: [Not Secure] <AdrianoLC> tu puta madre
-[18:38:20] [Async Chat Thread - #18/INFO]: [Not Secure] <thenoxplayer> xD
-[18:38:37] [Async Chat Thread - #18/INFO]: [Not Secure] <AdrianoLC> yo en un rato me salgo
-[18:38:42] [Async Chat Thread - #18/INFO]: [Not Secure] <thenoxplayer> na
-[18:38:43] [Async Chat Thread - #18/INFO]: [Not Secure] <thenoxplayer> gorda
-[18:38:47] [Async Chat Thread - #18/INFO]: [Not Secure] <AdrianoLC> ez
-[18:39:44] [Server thread/INFO]: thenoxplayer has completed the challenge [Hot Tourist Destinations]
-[18:39:49] [Async Chat Thread - #19/INFO]: [Not Secure] <AdrianoLC> calidos
-[18:41:46] [Server thread/INFO]: Named entity Slime['Toxic Slime'/9934, uuid='b097cc4a-b472-4ac9-ba28-60a7b23ef70f', l='ServerLevel[world_nether]', x=-978.12, y=-20.00, z=-3800.66, cpos=[-62, -238], tl=0, v=true] died: Toxic Slime was killed
-[18:41:46] [Server thread/INFO]: Named entity Slime['Toxic Slime'/9933, uuid='0843fbac-66fd-4947-b2f8-65f36b7ab6d2', l='ServerLevel[world_nether]', x=-978.88, y=-20.00, z=-3800.88, cpos=[-62, -238], tl=0, v=true] died: Toxic Slime was killed
-[18:42:12] [Server thread/INFO]: Named entity Slime['Toxic Slime'/10091, uuid='99be4709-d8fa-4379-99d5-1ea08544126e', l='ServerLevel[world_nether]', x=-962.86, y=-20.00, z=-3836.86, cpos=[-61, -240], tl=0, v=true] died: Toxic Slime was killed
-[18:42:12] [Server thread/INFO]: Named entity Slime['Toxic Slime'/10092, uuid='394a4c11-a8e7-4329-a7de-c871031476a7', l='ServerLevel[world_nether]', x=-961.86, y=-20.00, z=-3793.14, cpos=[-61, -238], tl=0, v=true] died: Toxic Slime was killed
-[18:43:04] [Server thread/INFO]: Named entity Slime['Toxic Slime'/10364, uuid='f1d0b445-824e-43e2-94f8-b95e6e5494a8', l='ServerLevel[world_nether]', x=-949.89, y=-20.00, z=-3810.14, cpos=[-60, -239], tl=0, v=true] died: Toxic Slime was killed
-[18:43:09] [Async Chat Thread - #21/INFO]: [Not Secure] <AdrianoLC> me rompi las piernas
-[18:49:07] [Async Chat Thread - #23/INFO]: [Not Secure] <thenoxplayer> che
-[18:49:11] [Async Chat Thread - #23/INFO]: [Not Secure] <AdrianoLC> so
-[18:49:11] [Async Chat Thread - #23/INFO]: [Not Secure] <thenoxplayer> me salio un multiplex
-[18:49:12] [Async Chat Thread - #23/INFO]: [Not Secure] <thenoxplayer> pa q sirve
-[18:49:18] [Async Chat Thread - #23/INFO]: [Not Secure] <AdrianoLC> ?
-[18:49:21] [Async Chat Thread - #23/INFO]: [Not Secure] <AdrianoLC> q era eso
-[18:49:22] [Async Chat Thread - #23/INFO]: [Not Secure] <thenoxplayer> osea
-[18:49:26] [Async Chat Thread - #23/INFO]: [Not Secure] <thenoxplayer> como una ballesta
-[18:49:29] [Async Chat Thread - #23/INFO]: [Not Secure] <thenoxplayer> q se llama multiplex
-[18:49:31] [Async Chat Thread - #23/INFO]: [Not Secure] <AdrianoLC> aver
-[18:49:32] [Async Chat Thread - #23/INFO]: [Not Secure] <AdrianoLC> foto md
-[18:49:35] [Async Chat Thread - #23/INFO]: [Not Secure] <thenoxplayer> na
-[18:49:36] [Async Chat Thread - #23/INFO]: [Not Secure] <thenoxplayer> alta paja
-[18:49:37] [Async Chat Thread - #23/INFO]: [Not Secure] <AdrianoLC> ez
-[18:49:41] [Async Chat Thread - #23/INFO]: [Not Secure] <AdrianoLC> mentiroso
-[18:51:39] [Async Chat Thread - #25/INFO]: [Not Secure] <thenoxplayer> A LA MIERDA
-[18:51:44] [Async Chat Thread - #25/INFO]: [Not Secure] <thenoxplayer> UN MEGACASTILLOENORMEGIGANTO
-[18:51:47] [Async Chat Thread - #25/INFO]: [Not Secure] <thenoxplayer> parece tu vieja
-[18:51:52] [Async Chat Thread - #25/INFO]: [Not Secure] <AdrianoLC> si claro gordo
-[18:52:03] [Async Chat Thread - #25/INFO]: [Not Secure] <thenoxplayer> pillo
-[18:52:49] [Server thread/INFO]: AdrianoLC has made the advancement [Hellish Paradise]
-[18:52:52] [Async Chat Thread - #25/INFO]: [Not Secure] <AdrianoLC> al finw
-[18:53:08] [Server thread/INFO]: iRagc (/100.84.182.88:52666) lost connection: Disconnected
-[18:53:08] [Async Chat Thread - #25/INFO]: [Not Secure] <thenoxplayer> esas ya las encontre
-[18:53:09] [User Authenticator #6/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
-[18:53:12] [Async Chat Thread - #25/INFO]: [Not Secure] <thenoxplayer> el pergamino es clavicula
-[18:53:17] [Async Chat Thread - #26/INFO]: [Not Secure] <AdrianoLC> si
+[23:12:48] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[23:12:48] [ServerMain/INFO]: Loaded 1697 advancements
+[23:12:49] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[23:12:49] [Server thread/INFO]: Loading properties
+[23:12:49] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[23:12:49] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:12:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:12:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:12:50] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[23:12:51] [Server thread/INFO]: Default game type: SURVIVAL
+[23:12:51] [Server thread/INFO]: Generating keypair
+[23:12:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:12:51] [Server thread/INFO]: Using epoll channel type
+[23:12:51] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:12:51] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:12:51] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[23:12:51] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.7.10.0
+[23:12:51] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[23:12:53] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@61a2c2c0]
+[23:12:53] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[23:12:53] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[23:12:53] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
+[23:12:53] [Server thread/INFO]: [FastChunkPregenerator] Loading server plugin FastChunkPregenerator v2.0.9-SNAPSHOT
+[23:12:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:12:53] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[23:12:54] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[23:12:54] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[23:12:55] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:12:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[23:12:55] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:12:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:12:55] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[23:12:56] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[23:12:58] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
+[23:12:58] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[23:13:04] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
+[23:13:04] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
+[23:13:04] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
+[23:13:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:13:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:13:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:13:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:13:05] [Server thread/INFO]: Preparing level "world"
+[23:13:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:13:07] [Server thread/INFO]: Time elapsed: 955 ms
+[23:13:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:13:07] [Server thread/INFO]: Time elapsed: 263 ms
+[23:13:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:13:07] [Server thread/INFO]: Time elapsed: 165 ms
+[23:13:07] [Server thread/INFO]: Preparing start region for dimension cavernous:the_myst
+[23:13:08] [Server thread/INFO]: Time elapsed: 355 ms
+[23:13:08] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.7.10.0
+[23:13:09] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
+[23:13:09] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[23:13:09] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[23:13:09] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[23:13:09] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[23:13:09] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[23:13:09] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[23:13:09] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[23:13:09] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.1-R0.1
+[23:13:09] [Server thread/INFO]: [voicechat] Compatibility version 18
+[23:13:09] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[23:13:09] [Server thread/INFO]: [FastChunkPregenerator] Enabling FastChunkPregenerator v2.0.9-SNAPSHOT
+[23:13:09] [Server thread/INFO]: [FastChunkPregenerator] >> Paper was found.
+[23:13:09] [Server thread/INFO]: [FastChunkPregenerator] >> Async chunk loading support is enabled.
+[23:13:09] [Server thread/INFO]: [spark] Starting background profiler...
+[23:13:10] [Server thread/INFO]: Done preparing level "world" (5.199s)
+[23:13:10] [Server thread/INFO]: Running delayed init tasks
+[23:13:10] [Server thread/INFO]: Done (32.745s)! For help, type "help"
+[23:13:10] [Server thread/INFO]: Timings Reset
+[23:13:10] [Server thread/INFO]: [voicechat] Loading plugins
+[23:13:10] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[23:13:10] [Server thread/INFO]: [voicechat] Initializing plugins
+[23:13:10] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[23:13:10] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[23:13:10] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 100.119.93.34:24454
+[23:13:11] [Craft Scheduler Thread - 0 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 3 ImageMaps!
+[23:13:13] [User Authenticator #0/INFO]: UUID of player thenoxplayer is 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[23:13:24] [Server thread/INFO]: thenoxplayer joined the game
+[23:13:25] [Server thread/INFO]: thenoxplayer[/100.86.158.5:49973] logged in with entity id 34 at ([world_nether]-1308.7315821892569, 51.0, -4554.201714139695)
+[23:13:25] [Server thread/INFO]: [voicechat] Received secret request of thenoxplayer (18)
+[23:13:25] [Server thread/INFO]: [voicechat] Sent secret to thenoxplayer
+[23:13:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[23:13:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[23:13:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player thenoxplayer (75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5) successfully connected to voice chat
+[23:18:36] [Server thread/INFO]: [Not Secure] [Server] ban thenoxplayer
+[23:18:39] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> down
+[23:18:48] [Server thread/INFO]: [Not Secure] [Server] hola mierdiplayer
+[23:22:20] [Server thread/INFO]: Named entity Vex['Restless Spirit'/1005, uuid='1e2713a6-1c0a-4387-8d36-5b7a9572e523', l='ServerLevel[world_nether]', x=-1660.19, y=43.82, z=-5548.77, cpos=[-104, -347], tl=59, v=true] died: Restless Spirit was shot by Piglin
