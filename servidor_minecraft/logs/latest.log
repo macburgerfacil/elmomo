@@ -98,3 +98,157 @@
 [00:12:19] [Server thread/INFO]: iRagc lost connection: Disconnected
 [00:12:19] [Server thread/INFO]: [voicechat] Disconnecting client iRagc
 [00:12:19] [Server thread/INFO]: iRagc left the game
+[00:14:48] [Async Chat Thread - #39/INFO]: [Not Secure] <Vennom_123> la recompensa era los amigos que hicimos en el camino, y el ban de nox gg
+[00:15:53] [Server thread/WARN]: Gatunixdd moved too quickly! -33.179671651279136,-0.5550609541324718,-26.294907216621596
+[00:15:57] [Server thread/INFO]: AdrianoLC has made the advancement [Into Fire]
+[00:16:13] [Async Chat Thread - #41/INFO]: [Not Secure] <AdrianoLC> naa mojon
+[00:16:28] [Server thread/INFO]: Named entity Skeleton['Pirómano'/15851, uuid='a2169207-7729-4d91-ae94-5d85a0771854', l='ServerLevel[world_nether]', x=14.52, y=47.00, z=14.78, cpos=[0, 0], tl=31712, v=true] died: Pirómano burned to death
+[00:18:50] [Async Chat Thread - #43/INFO]: [Not Secure] <Vennom_123> 30 30 150
+[00:18:54] [Async Chat Thread - #43/INFO]: [Not Secure] <TeeRobZti> q
+[00:18:57] [Async Chat Thread - #43/INFO]: [Not Secure] <Gatunixdd> SO
+[00:19:00] [Async Chat Thread - #43/INFO]: [Not Secure] <Vennom_123> las cords del portal
+[00:19:01] [Async Chat Thread - #43/INFO]: [Not Secure] <Vennom_123> baboson
+[00:19:04] [Async Chat Thread - #43/INFO]: [Not Secure] <Vennom_123> del medio
+[00:19:08] [Server thread/INFO]: Vennom_123 lost connection: Disconnected
+[00:19:08] [Server thread/INFO]: [voicechat] Disconnecting client Vennom_123
+[00:19:08] [Server thread/INFO]: Vennom_123 left the game
+[00:19:17] [Server thread/WARN]: lg_santiago_1 moved wrongly!
+[00:19:47] [User Authenticator #30/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[00:19:48] [Server thread/INFO]: qSeren joined the game
+[00:19:48] [Server thread/INFO]: qSeren[/100.86.135.121:59339] logged in with entity id 56222 at ([world_nether]1135.699999988079, 62.0, 842.5786829597256)
+[00:19:48] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[00:19:48] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[00:19:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[00:19:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[00:19:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[00:19:57] [Async Chat Thread - #43/INFO]: [Not Secure] <qSeren> d
+[00:20:06] [Server thread/INFO]: qSeren issued server command: /gamemode survival
+[00:20:06] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
+[00:20:27] [Server thread/INFO]: TeeRobZti has made the advancement [Those Were the Days]
+[00:21:34] [Server thread/INFO]: lg_santiago_1 has made the advancement [A Terrible Fortress]
+[00:21:52] [Server thread/INFO]: qSeren has made the advancement [UNLIMITED POWER!!!]
+[00:21:57] [Server thread/INFO]: Gatunixdd has made the advancement [A Terrible Fortress]
+[00:22:01] [Server thread/INFO]: lg_santiago_1 has made the advancement [Into Fire]
+[00:22:11] [Server thread/INFO]: qSeren has reached the goal [Ceci n'est pas un blaze]
+[00:22:11] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/56555, uuid='2c950055-e96c-4c50-a60e-81a848f04f1b', l='ServerLevel[world_nether]', x=1323.30, y=63.71, z=993.58, cpos=[82, 62], tl=812, v=true] died: Pipeline Sentry was shot by qSeren
+[00:22:23] [Server thread/INFO]: TeeRobZti has made the advancement [War Pigs]
+[00:22:37] [Server thread/INFO]: TeeRobZti has made the advancement [Hidden in the Depths]
+[00:25:22] [Server thread/INFO]: AdrianoLC has made the advancement [Those Were the Days]
+[00:28:30] [Server thread/INFO]: qSeren has made the advancement [Port o' Magma]
+[00:28:51] [Server thread/INFO]: lg_santiago_1 has reached the goal [Ceci n'est pas un blaze]
+[00:28:51] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/56165, uuid='7e60295f-9f03-4a56-a226-9104f4ffa509', l='ServerLevel[world_nether]', x=106.52, y=53.65, z=-196.89, cpos=[6, -13], tl=1133, v=true] died: Pipeline Sentry was shot by lg_santiago_1
+[00:29:02] [Server thread/INFO]: lg_santiago_1 has made the advancement [Strange Biomes]
+[00:29:02] [Server thread/INFO]: lg_santiago_1 has made the advancement [The Dust Settles]
+[00:29:07] [Server thread/INFO]: AdrianoLC has completed the challenge [Hot Tourist Destinations]
+[00:29:08] [Async Chat Thread - #45/INFO]: [Not Secure] <AdrianoLC> GG
+[00:29:12] [Async Chat Thread - #46/INFO]: [Not Secure] <AdrianoLC> osea gg lg_santiago_1
+[00:29:16] [Async Chat Thread - #46/INFO]: [Not Secure] <TeeRobZti> no jodas
+[00:29:21] [Server thread/INFO]: qSeren issued server command: /msg lg_santiago_1 bro cord
+[00:29:25] [Async Chat Thread - #45/INFO]: [Not Secure] <TeeRobZti> lg_santiago_1 cords
+[00:29:42] [Async Chat Thread - #45/INFO]: [Not Secure] <lg_santiago_1> no se we
+[00:29:48] [Async Chat Thread - #45/INFO]: [Not Secure] <Gatunixdd> XDDDDDDD
+[00:29:57] [Async Chat Thread - #45/INFO]: [Not Secure] <lg_santiago_1> que me dan a cambio
+[00:29:58] [Async Chat Thread - #45/INFO]: [Not Secure] <qSeren> we
+[00:30:04] [Async Chat Thread - #45/INFO]: [Not Secure] <qSeren> 2 escombros
+[00:30:08] [Async Chat Thread - #45/INFO]: [Not Secure] <TeeRobZti> 2 escombros we
+[00:30:08] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=112}
+[00:30:08] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=121}
+[00:30:08] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=112}
+[00:30:08] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=121}
+[00:30:08] [Async Chat Thread - #46/INFO]: [Not Secure] <lg_santiago_1> naaaaaaaaaaaaaaaaaaaaa
+[00:30:12] [Async Chat Thread - #46/INFO]: [Not Secure] <Gatunixdd> sa panza
+[00:30:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-187, y=-54, z=56}
+[00:30:15] [Async Chat Thread - #46/INFO]: [Not Secure] <TeeRobZti> 10 escombros
+[00:30:16] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-197, y=-53, z=89}
+[00:30:16] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-195, y=-53, z=95}
+[00:30:16] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=112}
+[00:30:16] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=121}
+[00:30:27] [Server thread/INFO]: TeeRobZti has made the advancement [Hellish Paradise]
+[00:30:27] [Server thread/INFO]: TeeRobZti has made the advancement [Strange Biomes]
+[00:30:37] [Async Chat Thread - #46/INFO]: [Not Secure] <lg_santiago_1> 4 lingotes de netherite
+[00:30:40] [Server thread/INFO]: qSeren has made the advancement [Spooky Scary Skeleton]
+[00:30:42] [Async Chat Thread - #45/INFO]: [Not Secure] <Gatunixdd> XDDDDDDD C lg_santiago_1
+[00:30:42] [Async Chat Thread - #45/INFO]: [Not Secure] <lg_santiago_1> XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+[00:30:47] [Server thread/INFO]: TeeRobZti has made the advancement [The Floor is Tears]
+[00:30:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-68, y=-51, z=70}
+[00:30:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-68, y=-51, z=53}
+[00:31:11] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=112}
+[00:31:11] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=121}
+[00:31:11] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=112}
+[00:31:11] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=121}
+[00:31:17] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-195, y=-53, z=95}
+[00:31:17] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=112}
+[00:31:17] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=121}
+[00:31:17] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-197, y=-53, z=89}
+[00:31:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-187, y=-54, z=56}
+[00:31:23] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-68, y=-51, z=70}
+[00:31:24] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-68, y=-51, z=53}
+[00:31:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-229, y=-45, z=70}
+[00:31:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-227, y=-45, z=71}
+[00:31:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-228, y=-45, z=72}
+[00:31:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-228, y=-45, z=69}
+[00:31:33] [Server thread/INFO]: lg_santiago_1 has made the advancement [UNLIMITED POWER!!!]
+[00:31:34] [Server thread/INFO]: TeeRobZti has reached the goal [An Illager Refuge?]
+[00:31:44] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/60653, uuid='488d1d67-2c29-4e64-9172-a33f59835a22', l='ServerLevel[world_nether]', x=1087.41, y=33.00, z=2806.51, cpos=[67, 175], tl=349, v=true] died: Sanctum Protector burned to death
+[00:31:51] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/60652, uuid='e47ee39e-d332-4e41-8e6e-fa2d14a4b9a7', l='ServerLevel[world_nether]', x=1086.02, y=32.00, z=2804.61, cpos=[67, 175], tl=420, v=true] died: Sanctum Protector was shot by TeeRobZti
+[00:31:52] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/56532, uuid='19f87ba3-7f7e-4246-a230-5d116016048d', l='ServerLevel[world_nether]', x=111.70, y=59.78, z=-246.66, cpos=[6, -16], tl=4605, v=true] died: Pipeline Sentry was shot by lg_santiago_1
+[00:31:52] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/60654, uuid='be81518b-6c9e-4bd1-a6f8-00ccbac5ab4c', l='ServerLevel[world_nether]', x=1086.55, y=32.00, z=2804.43, cpos=[67, 175], tl=502, v=true] died: Sanctum Protector was shot by TeeRobZti
+[00:31:58] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/60657, uuid='5a4af625-e820-4fa4-97a1-a05d13f57d13', l='ServerLevel[world_nether]', x=1086.55, y=32.00, z=2804.61, cpos=[67, 175], tl=589, v=true] died: Sanctum Protector was shot by TeeRobZti
+[00:32:06] [Server thread/INFO]: qSeren lost connection: Disconnected
+[00:32:06] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[00:32:06] [Server thread/INFO]: qSeren left the game
+[00:32:07] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60934, uuid='490e7ebf-f9fd-4c81-a1e0-f9ef9b12bbbb', l='ServerLevel[world_nether]', x=1079.70, y=30.38, z=2883.93, cpos=[67, 180], tl=65, v=true] died: Sanctum Cultist tried to swim in lava
+[00:32:19] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60890, uuid='f5da5ced-824d-4376-a253-ca2064a07fca', l='ServerLevel[world_nether]', x=1105.22, y=37.00, z=2863.57, cpos=[69, 178], tl=846, v=true] died: Sanctum Cultist went up in flames
+[00:32:30] [Server thread/INFO]: Named entity Illusioner['Sanctum Illusionist'/60759, uuid='b59c73e3-222f-487e-8c41-284397694140', l='ServerLevel[world_nether]', x=1095.05, y=43.00, z=2825.47, cpos=[68, 176], tl=1136, v=true] died: Sanctum Illusionist was shot by Sanctum Cultist
+[00:32:30] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60697, uuid='8121f888-c143-46a5-8592-cfc0639e0cbf', l='ServerLevel[world_nether]', x=1094.79, y=43.96, z=2826.30, cpos=[68, 176], tl=1136, v=true] died: Sanctum Cultist was shot by Sanctum Cultist
+[00:32:31] [Server thread/INFO]: TeeRobZti has completed the challenge [Vault Hunter]
+[00:32:31] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60774, uuid='f7f7c651-90c6-4d29-a053-8823516fadc5', l='ServerLevel[world_nether]', x=1095.51, y=43.00, z=2826.93, cpos=[68, 176], tl=1141, v=true] died: Sanctum Cultist was shot by TeeRobZti
+[00:32:40] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60883, uuid='7910bfca-0b0e-4397-ae42-eb68bb05f615', l='ServerLevel[world_nether]', x=1094.70, y=43.00, z=2825.72, cpos=[68, 176], tl=1278, v=true] died: Sanctum Cultist was shot by TeeRobZti
+[00:32:41] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60773, uuid='a5016350-1cc3-42c0-8967-8963fa87d511', l='ServerLevel[world_nether]', x=1095.26, y=43.00, z=2825.21, cpos=[68, 176], tl=1360, v=true] died: Sanctum Cultist was shot by TeeRobZti
+[00:32:46] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60888, uuid='4f0ce1cf-4b87-4835-8a9a-410fb9d1f301', l='ServerLevel[world_nether]', x=1094.55, y=43.00, z=2829.99, cpos=[68, 176], tl=1401, v=true] died: Sanctum Cultist was shot by TeeRobZti
+[00:32:50] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60757, uuid='b01a73c9-dc4d-492b-b0a4-a8b30c244ffa', l='ServerLevel[world_nether]', x=1096.70, y=43.00, z=2826.38, cpos=[68, 176], tl=1467, v=true] died: Sanctum Cultist was slain by TeeRobZti using [Blade of the Ruined King]
+[00:32:51] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60880, uuid='31599f9b-054c-4c14-a6d4-703c152c0d86', l='ServerLevel[world_nether]', x=1096.31, y=43.00, z=2826.30, cpos=[68, 176], tl=1501, v=true] died: Sanctum Cultist was burned to a crisp while fighting TeeRobZti
+[00:32:55] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/60702, uuid='3ec9492f-7789-4208-90ef-2f7b2d4e97fc', l='ServerLevel[world_nether]', x=1095.50, y=43.00, z=2828.20, cpos=[68, 176], tl=1630, v=true] died: Sanctum Protector was slain by TeeRobZti using [Blade of the Ruined King]
+[00:32:57] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60884, uuid='cfe1861f-db4c-4322-a4f9-ed815ad6c951', l='ServerLevel[world_nether]', x=1091.72, y=43.00, z=2828.14, cpos=[68, 176], tl=1679, v=true] died: Sanctum Cultist was slain by TeeRobZti using [Blade of the Ruined King]
+[00:33:01] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60900, uuid='01453d11-8333-429b-a76c-9b405cf51a53', l='ServerLevel[world_nether]', x=1098.35, y=43.00, z=2839.45, cpos=[68, 177], tl=1695, v=true] died: Sanctum Cultist was slain by TeeRobZti using [Blade of the Ruined King]
+[00:33:10] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/60764, uuid='9f7d359d-897f-4daa-b149-132848792605', l='ServerLevel[world_nether]', x=1109.30, y=43.00, z=2829.28, cpos=[69, 176], tl=2039, v=true] died: Sanctum Protector was slain by TeeRobZti using [Blade of the Ruined King]
+[00:33:12] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[00:33:15] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60875, uuid='3ac468cd-4087-4c5d-a07c-95760474a420', l='ServerLevel[world_nether]', x=1108.16, y=43.00, z=2830.09, cpos=[69, 176], tl=1966, v=true] died: Sanctum Cultist was burned to a crisp while fighting TeeRobZti
+[00:33:17] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60775, uuid='63021d36-8efe-4b78-a2bc-105608a33272', l='ServerLevel[world_nether]', x=1104.70, y=43.00, z=2830.30, cpos=[69, 176], tl=2009, v=true] died: Sanctum Cultist was slain by TeeRobZti using [Blade of the Ruined King]
+[00:33:18] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60908, uuid='c91fbf4d-0f01-48f1-a2b0-8dc71c9abad0', l='ServerLevel[world_nether]', x=1101.70, y=43.00, z=2830.93, cpos=[68, 176], tl=2022, v=true] died: Sanctum Cultist was slain by TeeRobZti using [Blade of the Ruined King]
+[00:33:19] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/46271, uuid='e66ee0ed-fd00-4bd3-86f3-a52421553b44', l='ServerLevel[world_nether]', x=80.09, y=59.00, z=-221.30, cpos=[5, -14], tl=6867, v=true] died: Pipeline Sentry was shot by lg_santiago_1
+[00:33:21] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60865, uuid='e593a39c-1369-4923-ba48-cbb46b7f0654', l='ServerLevel[world_nether]', x=1101.57, y=43.00, z=2828.54, cpos=[68, 176], tl=2097, v=true] died: Sanctum Cultist was slain by TeeRobZti using [Blade of the Ruined King]
+[00:33:34] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60889, uuid='a9231e07-4601-4044-b449-60c3b3482f83', l='ServerLevel[world_nether]', x=1099.90, y=43.06, z=2834.71, cpos=[68, 177], tl=2363, v=true] died: Sanctum Cultist was burned to a crisp while fighting TeeRobZti
+[00:33:35] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60866, uuid='05daaf11-eec0-4426-8d59-2b11314419c3', l='ServerLevel[world_nether]', x=1103.30, y=43.00, z=2836.70, cpos=[68, 177], tl=2371, v=true] died: Sanctum Cultist was slain by TeeRobZti using [Blade of the Ruined King]
+[00:33:43] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/60763, uuid='a7ebbbb1-2be8-4b58-abc5-8e697fe4295c', l='ServerLevel[world_nether]', x=1099.70, y=37.19, z=2827.50, cpos=[68, 176], tl=2687, v=true] died: Sanctum Inquisitor burned to death
+[00:33:51] [User Authenticator #31/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[00:33:53] [Server thread/INFO]: qSeren joined the game
+[00:33:53] [Server thread/INFO]: qSeren[/100.86.135.121:59466] logged in with entity id 61736 at ([world_nether]1942.5016028778614, 37.875, 1710.699999988079)
+[00:33:53] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[00:33:53] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[00:33:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[00:33:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[00:33:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[00:34:02] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/60758, uuid='be18cd6f-b3d3-4a13-8031-c6c5e43cf60b', l='ServerLevel[world_nether]', x=1092.46, y=34.00, z=2839.37, cpos=[68, 177], tl=2971, v=true] died: Sanctum Inquisitor burned to death
+[00:34:05] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60905, uuid='617e5478-d3d3-4d15-86ff-428175832a94', l='ServerLevel[world_nether]', x=1109.23, y=43.00, z=2833.70, cpos=[69, 177], tl=2979, v=true] died: Sanctum Cultist was burned to a crisp while fighting TeeRobZti
+[00:34:06] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60931, uuid='d56272d1-44e9-4d1a-b791-3cc5e721a1ee', l='ServerLevel[world_nether]', x=1109.88, y=43.00, z=2838.70, cpos=[69, 177], tl=2453, v=true] died: Sanctum Cultist was slain by TeeRobZti using [Blade of the Ruined King]
+[00:34:15] [Server thread/INFO]: Named entity Pillager['Sanctum Apostle'/60935, uuid='22b64280-3d23-4d3d-891b-dc56fe7f5ade', l='ServerLevel[world_nether]', x=1098.41, y=43.00, z=2835.12, cpos=[68, 177], tl=2619, v=true] died: Sanctum Apostle was slain by TeeRobZti using [Blade of the Ruined King]
+[00:34:16] [Server thread/INFO]: AdrianoLC has made the advancement [Radioactive]
+[00:34:17] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60878, uuid='44d5b858-adcf-4ce5-9641-d5e91ecc1065', l='ServerLevel[world_nether]', x=1100.30, y=36.42, z=2841.52, cpos=[68, 177], tl=3336, v=true] died: Sanctum Cultist burned to death
+[00:34:21] [Server thread/INFO]: AdrianoLC has reached the goal [Ceci n'est pas un blaze]
+[00:34:21] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/61235, uuid='65e5b420-b5c7-4aa8-8a5c-6c325b71a82a', l='ServerLevel[world_nether]', x=-873.46, y=34.48, z=2193.70, cpos=[-55, 137], tl=1075, v=true] died: Pipeline Sentry was slain by AdrianoLC
+[00:34:23] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60901, uuid='50d43fcb-a43b-4896-88b2-256b778ad4f1', l='ServerLevel[world_nether]', x=1094.39, y=43.00, z=2857.05, cpos=[68, 178], tl=3334, v=true] died: Sanctum Cultist was slain by TeeRobZti using [Blade of the Ruined King]
+[00:34:26] [Server thread/INFO]: Named entity Pillager['Sanctum Apostle'/60921, uuid='3f253810-82ec-4940-a331-772a29268259', l='ServerLevel[world_nether]', x=1095.20, y=43.00, z=2854.67, cpos=[68, 178], tl=2839, v=true] died: Sanctum Apostle was slain by TeeRobZti using [Blade of the Ruined King]
+[00:34:40] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60752, uuid='bde710c6-09f0-44e3-9529-c6b8cd3bf6ba', l='ServerLevel[world_nether]', x=1092.49, y=43.00, z=2865.13, cpos=[68, 179], tl=3674, v=true] died: Sanctum Cultist was shot by Sanctum Cultist
+[00:34:41] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60894, uuid='774d9475-35c8-41f1-86c8-9a633b05bef4', l='ServerLevel[world_nether]', x=1094.93, y=43.00, z=2865.99, cpos=[68, 179], tl=3701, v=true] died: Sanctum Cultist burned to death
+[00:34:44] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/56830, uuid='4d7748fe-fce8-4fba-a990-e39dfa83cb33', l='ServerLevel[world_nether]', x=155.90, y=33.49, z=-247.78, cpos=[9, -16], tl=7317, v=true] died: Pipeline Sentry was shot by lg_santiago_1
+[00:34:47] [Server thread/INFO]: Named entity Pillager['Sanctum Apostle'/60899, uuid='12c139c9-a147-4815-b468-008793452034', l='ServerLevel[world_nether]', x=1092.49, y=43.00, z=2855.57, cpos=[68, 178], tl=3813, v=true] died: Sanctum Apostle was burned to a crisp while fighting TeeRobZti
+[00:34:48] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60932, uuid='c05262d8-5554-44f9-9af9-7efa4e64c132', l='ServerLevel[world_nether]', x=1092.51, y=43.00, z=2851.56, cpos=[68, 178], tl=3283, v=true] died: Sanctum Cultist was burned to a crisp while fighting TeeRobZti
+[00:34:49] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60877, uuid='c7c9f305-9dc9-4bb3-8e00-d840d351fb22', l='ServerLevel[world_nether]', x=1093.87, y=43.06, z=2850.93, cpos=[68, 178], tl=3856, v=true] died: Sanctum Cultist was shot by TeeRobZti
+[00:34:50] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60927, uuid='b732f468-cf1b-4177-8b69-7db98625eb6d', l='ServerLevel[world_nether]', x=1092.82, y=43.06, z=2849.89, cpos=[68, 178], tl=3327, v=true] died: Sanctum Cultist was shot by TeeRobZti
+[00:34:52] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60874, uuid='573c8902-f9d2-4bf7-88c5-c09c6b8ae10d', l='ServerLevel[world_nether]', x=1091.77, y=43.00, z=2852.97, cpos=[68, 178], tl=3908, v=true] died: Sanctum Cultist was shot by TeeRobZti
+[00:34:52] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60869, uuid='ca03eafe-bb48-4650-98aa-3e244c022d16', l='ServerLevel[world_nether]', x=1094.29, y=43.06, z=2851.71, cpos=[68, 178], tl=3922, v=true] died: Sanctum Cultist was shot by TeeRobZti
+[00:34:53] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60895, uuid='f995b70d-b3fa-4911-a55f-99175803196f', l='ServerLevel[world_nether]', x=1095.51, y=43.00, z=2851.91, cpos=[68, 178], tl=3937, v=true] died: Sanctum Cultist was shot by TeeRobZti
+[00:35:04] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/60972, uuid='7fbba9c4-8d0f-4a4f-9f52-effac9c08d28', l='ServerLevel[world_nether]', x=1099.50, y=45.00, z=2895.75, cpos=[68, 180], tl=2223, v=true] died: Sanctum Cultist was slain by TeeRobZti using [Blade of the Ruined King]
+[00:35:07] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/60960, uuid='abeaf52b-0c22-443f-bb84-b0ba103824cc', l='ServerLevel[world_nether]', x=1101.90, y=45.00, z=2895.11, cpos=[68, 180], tl=2491, v=true] died: Sanctum Protector was slain by TeeRobZti using [Blade of the Ruined King]
+[00:35:11] [Server thread/INFO]: AdrianoLC has made the advancement [The Dust Settles]
