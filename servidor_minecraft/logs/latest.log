@@ -361,3 +361,38 @@
 [00:54:04] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/66090, uuid='5f787101-e415-4443-85a4-0786c9d77b38', l='ServerLevel[world_nether]', x=-1516.70, y=35.52, z=2629.30, cpos=[-95, 164], tl=1777, v=true] died: Pipeline Sentry was shot by AdrianoLC
 [00:56:10] [Server thread/INFO]: TeeRobZti issued server command: /skin set lobi_mdm
 [00:56:11] [Server thread/INFO]: AdrianoLC has made the advancement [Ancient Battlefield]
+[00:57:31] [User Authenticator #32/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[00:57:34] [Server thread/INFO]: lg_santiago_1 joined the game
+[00:57:34] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:55571] logged in with entity id 68585 at ([world_nether]37.18915236453049, 50.0, -236.0602737621899)
+[00:57:34] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[00:57:34] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[00:57:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[00:57:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[00:57:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[00:57:47] [Async Chat Thread - #51/INFO]: [Not Secure] <lg_santiago_1> chikos
+[00:57:50] [Async Chat Thread - #51/INFO]: [Not Secure] <TeeRobZti> q
+[00:57:52] [Async Chat Thread - #51/INFO]: [Not Secure] <lg_santiago_1> me voy a testear
+[00:57:57] [Async Chat Thread - #51/INFO]: [Not Secure] <AdrianoLC> gg
+[00:57:58] [Async Chat Thread - #51/INFO]: [Not Secure] <TeeRobZti> gg
+[00:58:00] [Async Chat Thread - #51/INFO]: [Not Secure] <lg_santiago_1> gg
+[00:58:05] [Async Chat Thread - #51/INFO]: [Not Secure] <TeeRobZti> calentaste ya?
+[00:58:07] [Async Chat Thread - #51/INFO]: [Not Secure] <lg_santiago_1> si
+[00:58:08] [Async Chat Thread - #51/INFO]: [Not Secure] <lg_santiago_1> xd
+[00:58:13] [Async Chat Thread - #51/INFO]: [Not Secure] <lg_santiago_1> me desean suerte
+[00:58:15] [Async Chat Thread - #51/INFO]: [Not Secure] <lg_santiago_1> ?
+[00:58:17] [Async Chat Thread - #51/INFO]: [Not Secure] <TeeRobZti> si
+[00:58:18] [Async Chat Thread - #51/INFO]: [Not Secure] <lg_santiago_1> xd
+[00:58:23] [Async Chat Thread - #51/INFO]: [Not Secure] <lg_santiago_1> gracias
+[00:58:25] [Async Chat Thread - #51/INFO]: [Not Secure] <lg_santiago_1> les cuento{
+[00:58:27] [Server thread/INFO]: lg_santiago_1 lost connection: Disconnected
+[00:58:27] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[00:58:27] [Server thread/INFO]: lg_santiago_1 left the game
+[00:59:42] [Server thread/INFO]: TeeRobZti issued server command: /skin set xxlinkgamer21xx
+[01:00:10] [Server thread/INFO]: TeeRobZti has made the advancement [Radioactive]
+[01:03:49] [Server thread/INFO]: Named entity Slime['Toxic Slime'/69673, uuid='45754a8f-e92d-4089-a15e-24e047f13a01', l='ServerLevel[world_nether]', x=627.14, y=-20.00, z=2442.11, cpos=[39, 152], tl=0, v=true] died: Toxic Slime was killed
+[01:04:00] [Server thread/INFO]: Named entity Slime['Toxic Slime'/69720, uuid='c0c89b30-30f2-4d25-8382-9d83b90dbdb6', l='ServerLevel[world_nether]', x=610.14, y=-20.00, z=2430.14, cpos=[38, 151], tl=0, v=true] died: Toxic Slime was killed
+[01:04:00] [Server thread/INFO]: Named entity Slime['Toxic Slime'/69721, uuid='aabaf030-0c8b-40af-b4b7-f6fe9fa818fc', l='ServerLevel[world_nether]', x=653.86, y=-20.00, z=2429.14, cpos=[40, 151], tl=0, v=true] died: Toxic Slime was killed
+[01:04:06] [Server thread/INFO]: Named entity Slime['Toxic Slime'/69733, uuid='0f05081a-2dc0-4258-b8a8-bb19b3a11797', l='ServerLevel[world_nether]', x=617.88, y=-20.00, z=2413.12, cpos=[38, 150], tl=0, v=true] died: Toxic Slime was killed
+[01:04:06] [Server thread/INFO]: Named entity Slime['Toxic Slime'/69734, uuid='3d27b2e4-c4d6-47f1-b992-8b17c5a30ab2', l='ServerLevel[world_nether]', x=617.86, y=-20.00, z=2402.86, cpos=[38, 150], tl=0, v=true] died: Toxic Slime was killed
+[01:04:06] [Server thread/INFO]: Named entity Slime['Toxic Slime'/69735, uuid='56132987-7acb-4aeb-8ce2-7883780f5b69', l='ServerLevel[world_nether]', x=617.66, y=-20.00, z=2413.88, cpos=[38, 150], tl=0, v=true] died: Toxic Slime was killed
+[01:05:46] [Server thread/INFO]: TeeRobZti issued server command: /skin set qseren
