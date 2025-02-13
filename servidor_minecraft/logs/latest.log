@@ -326,3 +326,63 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 [18:25:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
 [18:25:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
 [18:25:16] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> estoy looteando cosas
+[18:25:19] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> no ando consiguiendo debris
+[18:25:23] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> tengo 11
+[18:25:26] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> OTRO PUTO CASTILLO SIN MULTIPLEX
+[18:25:32] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> q es multiplex
+[18:25:44] [Async Chat Thread - #12/INFO]: [Not Secure] <thenoxplayer> es legal?
+[18:25:51] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> la escopeta
+[18:25:54] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> es para mobs
+[18:26:12] [Server thread/INFO]: qSeren issued server command: /gamemode survival
+[18:26:12] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
+[18:26:20] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> jaja me cago no de risa pero de mierda
+[18:26:32] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> por lo menos esta el voltaic trident
+[18:27:09] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> eso es admin abuse
+[18:27:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 60f425a3-b4ca-31c1-a532-8475c0b676c0 timed out
+[18:27:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player qSeren
+[18:27:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to qSeren
+[18:27:43] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> explora
+[18:27:45] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> pa conseguir
+[18:27:47] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> las armas
+[18:27:47] [Server thread/INFO]: qSeren lost connection: Timed out
+[18:27:47] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[18:27:47] [Server thread/INFO]: qSeren left the game
+[18:27:48] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> custom
+[18:27:49] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> gordito pelotudo
+[18:27:54] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> me zzz
+[18:28:09] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> no podes ganarle ni a torre
+[18:28:11] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> y vas a matar
+[18:28:57] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer hola
+[18:29:00] [Async Chat Thread - #12/INFO]: [Not Secure] <thenoxplayer> q
+[18:29:08] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer hola
+[18:29:14] [Server thread/INFO]: thenoxplayer issued server command: /msg TeeRobZti hola q pasa
+[18:29:19] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer nada
+[18:30:43] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> adios
+[18:30:45] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> voy a dormir
+[18:30:47] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> zzz
+[18:30:49] [Async Chat Thread - #13/INFO]: [Not Secure] <thenoxplayer> xD
+[18:30:59] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> ?
+[18:31:16] [Async Chat Thread - #13/INFO]: [Not Secure] <TeeRobZti> pillo
+[18:31:18] [Server thread/INFO]: TeeRobZti lost connection: Disconnected
+[18:31:18] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[18:31:18] [Server thread/INFO]: TeeRobZti left the game
+[18:31:23] [Server thread/INFO]: Named entity Piglin['Piglin Civilian'/8653, uuid='6c727a88-560a-4c95-b191-d5511c310396', l='ServerLevel[world_nether]', x=-1193.19, y=59.00, z=-3500.23, cpos=[-75, -219], tl=971, v=true] died: Piglin Civilian was slain by thenoxplayer
+[18:31:26] [Server thread/INFO]: Named entity Piglin['Village Guard'/8575, uuid='3e35266a-1db7-44a7-a00a-7509a2df7811', l='ServerLevel[world_nether]', x=-1185.38, y=58.00, z=-3499.68, cpos=[-75, -219], tl=1053, v=true] died: Village Guard was slain by thenoxplayer
+[18:31:31] [Server thread/INFO]: Named entity Piglin['Piglin Civilian'/8437, uuid='6b3707fb-bfce-4b44-9217-fef0d7703fe8', l='ServerLevel[world_nether]', x=-1174.27, y=58.00, z=-3503.25, cpos=[-74, -219], tl=1498, v=true] died: Piglin Civilian was slain by thenoxplayer
+[18:31:35] [Server thread/INFO]: Named entity Piglin['Piglin Civilian'/8427, uuid='528e6bcc-1746-4c49-acab-faddede932c1', l='ServerLevel[world_nether]', x=-1185.98, y=58.00, z=-3500.02, cpos=[-75, -219], tl=1584, v=true] died: Piglin Civilian was burned to a crisp while fighting thenoxplayer
+[18:34:00] [User Authenticator #5/INFO]: UUID of player AdrianoLC is c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[18:34:08] [Server thread/INFO]: AdrianoLC joined the game
+[18:34:08] [Server thread/INFO]: AdrianoLC[/100.85.44.77:51753] logged in with entity id 9012 at ([world_nether]-6039.202111311193, 81.0, 1424.300000011921)
+[18:34:09] [Server thread/INFO]: [voicechat] Received secret request of AdrianoLC (18)
+[18:34:09] [Server thread/INFO]: [voicechat] Sent secret to AdrianoLC
+[18:34:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[18:34:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[18:34:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AdrianoLC (c2ab7376-aed7-376e-8039-b4a37e24f8b1) successfully connected to voice chat
+[18:34:13] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> grasa lc
+[18:34:23] [Async Chat Thread - #15/INFO]: [Not Secure] <AdrianoLC> incredibol
+[18:34:24] [Async Chat Thread - #15/INFO]: [Not Secure] <AdrianoLC> y seren
+[18:34:28] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> no puede jugar
+[18:34:30] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> por q su hermanito
+[18:34:33] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> esta jugando piggy
+[18:34:35] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> xDD
+[18:34:41] [Async Chat Thread - #15/INFO]: [Not Secure] <AdrianoLC> XDDD
