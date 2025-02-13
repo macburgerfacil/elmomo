@@ -511,3 +511,48 @@
 [01:37:09] [Server thread/WARN]: Dark Oak Boat (vehicle of TeeRobZti) moved wrongly! 1.3238612134405046
 [01:37:09] [Server thread/WARN]: Dark Oak Boat (vehicle of TeeRobZti) moved wrongly! 1.3238612134405046
 [01:37:09] [Server thread/WARN]: Dark Oak Boat (vehicle of TeeRobZti) moved wrongly! 1.3238612134405046
+[01:38:30] [Server thread/INFO]: iRagc issued server command: /skin Santwashere
+[01:38:37] [Server thread/INFO]: iRagc issued server command: /skin santxwashere
+[01:38:56] [Server thread/INFO]: iRagc issued server command: /skin michifach4
+[01:39:18] [Server thread/INFO]: iRagc issued server command: /skin michifach4
+[01:39:51] [Server thread/INFO]: iRagc issued server command: /skin zdrux
+[01:39:57] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[01:40:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=303, y=98, z=248}
+[01:40:10] [Server thread/INFO]: iRagc issued server command: /skin gatunixddd
+[01:40:14] [Server thread/INFO]: iRagc issued server command: /skin gatunixdd
+[01:40:25] [Server thread/INFO]: qSeren has made the advancement [Hellish Paradise]
+[01:41:43] [Server thread/INFO]: qSeren has made the advancement [The Floor is Tears]
+[01:42:11] [Server thread/INFO]: qSeren lost connection: Timed out
+[01:42:11] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[01:42:11] [Server thread/INFO]: qSeren left the game
+[01:42:34] [User Authenticator #37/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:42:37] [Server thread/INFO]: qSeren joined the game
+[01:42:37] [Server thread/INFO]: qSeren[/100.86.135.121:60476] logged in with entity id 82273 at ([world_nether]4205.560243525588, 33.024424088213685, 1127.5228714467275)
+[01:42:37] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[01:42:37] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[01:42:40] [Async Chat Thread - #61/INFO]: [Not Secure] <iRagc> qSeren}
+[01:42:43] [Async Chat Thread - #61/INFO]: [Not Secure] <iRagc> que es dune speed iii
+[01:42:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:42:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:42:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[01:42:58] [Async Chat Thread - #61/INFO]: [Not Secure] <qSeren> asi que.. esto es el vacio
+[01:43:02] [Async Chat Thread - #61/INFO]: [Not Secure] <qSeren> capa -1500
+[01:43:02] [Async Chat Thread - #61/INFO]: [Not Secure] <qSeren> ...
+[01:43:44] [Server thread/INFO]: qSeren lost connection: Timed out
+[01:43:44] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[01:43:44] [Server thread/INFO]: qSeren left the game
+[01:43:50] [User Authenticator #38/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:43:53] [Server thread/INFO]: qSeren joined the game
+[01:43:53] [Server thread/INFO]: qSeren[/100.86.135.121:60500] logged in with entity id 82463 at ([world_nether]4205.559877096394, 32.0, 1127.3954719582784)
+[01:43:53] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[01:43:53] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[01:43:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:43:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:43:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[01:44:18] [Async Chat Thread - #63/INFO]: [Not Secure] <qSeren> CAIGO INFINITAMENTEEEEEEEEEEEEEEEEEEEEEEEEEEE
+[01:44:22] [Async Chat Thread - #63/INFO]: [Not Secure] <qSeren> INTERNET DE MIERDA ROBLOX PUTA
+[01:44:24] [Server thread/INFO]: Villager Villager['Villager'/72942, uuid='7db8ac7b-b9a5-4cc3-83a2-f298416ea02a', l='ServerLevel[world]', x=1733.16, y=-20.00, z=1155.70, cpos=[108, 72], tl=373296, v=true] died, message: 'Villager was squished too much'
+[01:44:30] [Async Chat Thread - #63/INFO]: [Not Secure] <TeeRobZti> XDDDDDDDDDDDDD
+[01:44:42] [Server thread/INFO]: qSeren lost connection: Timed out
+[01:44:42] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[01:44:42] [Server thread/INFO]: qSeren left the game
