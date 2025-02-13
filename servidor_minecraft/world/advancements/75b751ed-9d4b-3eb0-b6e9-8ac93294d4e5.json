@@ -3300,10 +3300,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-02-13 17:32:25 +0000",
       "minecraft:nether_wastes": "2025-02-13 18:12:53 +0000",
+      "minecraft:soul_sand_valley": "2025-02-13 18:39:44 +0000",
       "minecraft:basalt_deltas": "2025-02-12 23:32:55 +0000",
       "minecraft:warped_forest": "2025-02-13 17:13:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
@@ -3767,76 +3768,100 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:33:05 +0000"
+      "log_spam_fixer": "2025-02-13 18:43:05 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:33:05 +0000"
+      "log_spam_fixer": "2025-02-13 18:43:05 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:33:05 +0000"
+      "log_spam_fixer": "2025-02-13 18:43:05 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-02-13 18:33:06 +0000",
-      "log_spam_fixer": "2025-02-13 18:33:05 +0000"
+      "requirement": "2025-02-13 18:43:09 +0000",
+      "log_spam_fixer": "2025-02-13 18:43:05 +0000"
     },
     "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:33:05 +0000"
+      "log_spam_fixer": "2025-02-13 18:43:05 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:33:05 +0000"
+      "log_spam_fixer": "2025-02-13 18:43:05 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:33:05 +0000"
+      "log_spam_fixer": "2025-02-13 18:43:05 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:33:05 +0000"
+      "log_spam_fixer": "2025-02-13 18:43:05 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:33:05 +0000"
+      "log_spam_fixer": "2025-02-13 18:43:05 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:33:05 +0000"
+      "log_spam_fixer": "2025-02-13 18:43:05 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:33:05 +0000"
+      "log_spam_fixer": "2025-02-13 18:43:05 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 18:33:05 +0000"
+      "log_spam_fixer": "2025-02-13 18:43:05 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-02-13 18:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-02-13 18:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-13 18:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-13 18:36:18 +0000"
+    },
+    "done": true
   },
   "incendium:toxic_heap/mystic_wisdom": {
     "criteria": {
@@ -3844,6 +3869,12 @@
       "junk": "2025-02-13 18:18:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-02-13 18:37:22 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
@@ -3857,12 +3888,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-13 18:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-02-13 18:37:23 +0000"
+    },
+    "done": true
+  },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
       "fortress": "2025-02-13 18:02:51 +0000",
       "nether_keep": "2025-02-13 18:17:16 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-13 18:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-02-13 18:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-13 18:37:23 +0000"
+    },
+    "done": true
   },
   "nova_structures:nether/find_keep": {
     "criteria": {
@@ -3882,9 +3943,33 @@
     },
     "done": true
   },
+  "stellarity:story/cloud_save": {
+    "criteria": {
+      "requirement": "2025-02-13 18:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-13 18:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-02-13 18:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-02-13 18:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-13 18:37:23 +0000"
     },
     "done": true
   },
