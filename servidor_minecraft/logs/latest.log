@@ -926,3 +926,150 @@
 [02:59:35] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-218, y=10, z=-283}
 [02:59:41] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-218, y=10, z=-283}
 [02:59:45] [Async Chat Thread - #96/INFO]: [Not Secure] <Gatunixdd> NO SE BRO PERO ESTOY RE OP
+[03:00:05] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC 5557 65 1655
+[03:00:06] [Server thread/INFO]: qSeren issued server command: /tp AdrianoLC
+[03:00:06] [Server thread/INFO]: [qSeren: Teleported qSeren to AdrianoLC]
+[03:00:19] [Server thread/INFO]: AdrianoLC has reached the goal [In the Hall of the Piglin King]
+[03:00:44] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC -6084 1374
+[03:00:48] [Server thread/INFO]: qSeren issued server command: /tp 5557 65 1655
+[03:00:48] [Server thread/INFO]: [qSeren: Teleported qSeren to 5557.500000, 65.000000, 1655.500000]
+[03:02:30] [Server thread/INFO]: AdrianoLC has made the advancement [Ol' Betsy]
+[03:02:31] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/95155, uuid='f326bcab-a17f-4274-a2fa-989714a893a7', l='ServerLevel[world_nether]', x=-6085.74, y=62.94, z=1394.70, cpos=[-381, 87], tl=2999, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[03:02:31] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/95156, uuid='cfa1c204-b0e6-46c7-b572-59794fe9ce6e', l='ServerLevel[world_nether]', x=-6081.05, y=62.94, z=1394.70, cpos=[-381, 87], tl=2999, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[03:02:50] [Async Chat Thread - #97/INFO]: [Not Secure] <Gatunixdd> esta re god la nueva generacion de terreno xd
+[03:02:54] [Async Chat Thread - #98/INFO]: [Not Secure] <qSeren> si
+[03:02:57] [Async Chat Thread - #98/INFO]: [Not Secure] <Gatunixdd> aunque está muy rota
+[03:02:57] [Async Chat Thread - #98/INFO]: [Not Secure] <qSeren> y el techo del entehr esta
+[03:02:58] [Async Chat Thread - #98/INFO]: [Not Secure] <qSeren> mas arriba
+[03:03:35] [Async Chat Thread - #98/INFO]: [Not Secure] <Gatunixdd> para
+[03:03:46] [Async Chat Thread - #98/INFO]: [Not Secure] <Gatunixdd> minar ancient debris ya generada en una estructura?
+[03:04:06] [Async Chat Thread - #98/INFO]: [Not Secure] <Gatunixdd> no jodas si me dio un mojon XDDD
+[03:04:21] [User Authenticator #42/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[03:04:28] [Server thread/INFO]: TeeRobZti joined the game
+[03:04:28] [Server thread/INFO]: TeeRobZti[/100.127.70.41:62569] logged in with entity id 95987 at ([world]1897.699999988079, 85.875, -349.30000001192093)
+[03:04:29] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[03:04:29] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[03:04:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[03:04:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[03:04:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[03:04:43] [Server thread/INFO]: Named entity PiglinBrute['Piglin Archer'/95166, uuid='a2216377-9204-4f4e-bd22-d8f43a0c24c6', l='ServerLevel[world_nether]', x=-6161.29, y=66.00, z=1407.15, cpos=[-386, 87], tl=611, v=true] died: Piglin Archer went off with a bang
+[03:05:07] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot incendium:artifact/patron/scroll_of_returning
+[03:05:47] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC -6084 1374
+[03:05:54] [Server thread/INFO]: TeeRobZti has made the advancement [Crafting a New Look]
+[03:06:33] [User Authenticator #43/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[03:06:36] [Server thread/INFO]: iRagc joined the game
+[03:06:36] [Server thread/INFO]: iRagc[/100.84.182.88:53706] logged in with entity id 96693 at ([world]1710.1102552750187, -19.862667848657512, 1174.6961484791557)
+[03:06:36] [Server thread/INFO]: [voicechat] Received secret request of iRagc (18)
+[03:06:36] [Server thread/INFO]: [voicechat] Sent secret to iRagc
+[03:06:36] [Async Chat Thread - #100/INFO]: [Not Secure] <Gatunixdd> callate babosa
+[03:06:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[03:06:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[03:06:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player iRagc (67ea92e7-d0b5-38d9-9052-76eb288fcd52) successfully connected to voice chat
+[03:06:47] [Async Chat Thread - #100/INFO]: [Not Secure] <Gatunixdd> BRO iRagc APURATE MRD
+[03:06:52] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC -6084 1374
+[03:07:19] [Server thread/INFO]: Gatunixdd issued server command: /msg iRagc 960 110
+[03:07:30] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC cuanto escombro tenes
+[03:07:40] [Server thread/INFO]: AdrianoLC issued server command: /msg qSeren tengo para vos
+[03:07:40] [Server thread/INFO]: qSeren issued server command: /advancement revoke AdrianoLC only minecraft:nether/netherite_armor
+[03:07:40] [Server thread/INFO]: [qSeren: Revoked the advancement [Cover Me in Debris] from AdrianoLC]
+[03:07:43] [Server thread/INFO]: AdrianoLC has completed the challenge [Cover Me in Debris]
+[03:07:52] [Async Chat Thread - #99/INFO]: [Not Secure] <TeeRobZti> gg xray
+[03:09:00] [Server thread/INFO]: Villager Villager['Villager'/96772, uuid='579bfca4-94f2-4966-8277-f5789208039b', l='ServerLevel[world]', x=1733.19, y=-20.00, z=1155.32, cpos=[108, 72], tl=355438, v=true] died, message: 'Villager was squished too much'
+[03:09:08] [Server thread/INFO]: Villager Villager['Villager'/96755, uuid='d0b5ea82-11c3-4a7e-86e5-ad4427ddf78f', l='ServerLevel[world]', x=1733.21, y=-20.00, z=1155.30, cpos=[108, 72], tl=330798, v=true] died, message: 'Villager was squished too much'
+[03:09:14] [Server thread/INFO]: Villager Villager['Villager'/96774, uuid='38786c02-ef0c-49f8-b7b6-96ada0141068', l='ServerLevel[world]', x=1733.26, y=-20.00, z=1155.70, cpos=[108, 72], tl=80950, v=true] died, message: 'Villager was squished too much'
+[03:10:08] [Async Chat Thread - #101/INFO]: [Not Secure] <TeeRobZti> q paja seguir jugando el sv ahora q anda el nether
+[03:10:10] [Async Chat Thread - #102/INFO]: [Not Secure] <TeeRobZti> la verdad
+[03:10:20] [Async Chat Thread - #102/INFO]: [Not Secure] <Gatunixdd> dejalo bro
+[03:10:25] [Async Chat Thread - #102/INFO]: [Not Secure] <TeeRobZti> no
+[03:10:26] [Async Chat Thread - #102/INFO]: [Not Secure] <Gatunixdd> no tiene el op
+[03:10:29] [Async Chat Thread - #102/INFO]: [Not Secure] <Gatunixdd> por eso se queja
+[03:10:30] [User Authenticator #44/INFO]: UUID of player Torre22932 is df10c331-a0c1-39a5-8288-c551ff673086
+[03:10:30] [Async Chat Thread - #102/INFO]: [Not Secure] <TeeRobZti> aun no los mato
+[03:10:32] [Async Chat Thread - #102/INFO]: [Not Secure] <TeeRobZti> a ustedes
+[03:10:33] [Server thread/INFO]: Torre22932 joined the game
+[03:10:33] [Server thread/INFO]: Torre22932[/100.79.135.100:53719] logged in with entity id 98232 at ([world_nether]-48.49614368887679, 32.0, -1.8245087522476304)
+[03:10:34] [Server thread/INFO]: [voicechat] Received secret request of Torre22932 (18)
+[03:10:34] [Server thread/INFO]: [voicechat] Sent secret to Torre22932
+[03:10:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player df10c331-a0c1-39a5-8288-c551ff673086
+[03:10:34] [Async Chat Thread - #102/INFO]: [Not Secure] <iRagc> es que no puede hacer /give
+[03:10:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player df10c331-a0c1-39a5-8288-c551ff673086
+[03:10:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Torre22932 (df10c331-a0c1-39a5-8288-c551ff673086) successfully connected to voice chat
+[03:10:36] [Async Chat Thread - #102/INFO]: [Not Secure] <iRagc> eso pasa
+[03:10:38] [Async Chat Thread - #102/INFO]: [Not Secure] <Gatunixdd> aja
+[03:10:38] [Async Chat Thread - #102/INFO]: [Not Secure] <TeeRobZti> ?
+[03:10:42] [Async Chat Thread - #101/INFO]: [Not Secure] <iRagc> ?
+[03:10:43] [Async Chat Thread - #101/INFO]: [Not Secure] <Torre22932> qSeren
+[03:10:43] [Async Chat Thread - #101/INFO]: [Not Secure] <Torre22932> qSeren
+[03:10:43] [Async Chat Thread - #101/INFO]: [Not Secure] <Torre22932> qSeren
+[03:10:48] [Async Chat Thread - #101/INFO]: [Not Secure] <qSeren> q
+[03:10:52] [Async Chat Thread - #101/INFO]: [Not Secure] <Torre22932> tpeame a iRagc estoy en la dungeon bro
+[03:10:55] [Async Chat Thread - #101/INFO]: [Not Secure] <Torre22932> mas bien en el nether
+[03:10:57] [Async Chat Thread - #101/INFO]: [Not Secure] <qSeren> voy
+[03:10:59] [Server thread/INFO]: qSeren issued server command: /tp Torre22932 iRagc
+[03:10:59] [Server thread/INFO]: [qSeren: Teleported Torre22932 to iRagc]
+[03:11:06] [Async Chat Thread - #101/INFO]: [Not Secure] <TeeRobZti> qSeren me tepeo a vos gg
+[03:11:09] [Server thread/INFO]: qSeren issued server command: /tp iRagc Gatunixdd
+[03:11:10] [Server thread/INFO]: [qSeren: Teleported iRagc to Gatunixdd]
+[03:11:47] [Server thread/INFO]: Torre22932 lost connection: Disconnected
+[03:11:47] [Server thread/INFO]: [voicechat] Disconnecting client Torre22932
+[03:11:47] [Server thread/INFO]: Torre22932 left the game
+[03:12:09] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC 5k
+[03:12:20] [Server thread/INFO]: iRagc has made the advancement [War Pigs]
+[03:12:21] [Server thread/INFO]: iRagc has made the advancement [Who is Cutting Onions?]
+[03:12:31] [Async Chat Thread - #104/INFO]: [Not Secure] <qSeren> GORDO CERDIMAX
+[03:13:52] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC ellos no saben que con las armas custom los vamos a follar XD
+[03:14:00] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[03:14:02] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=303, y=98, z=248}
+[03:14:10] [Async Chat Thread - #106/INFO]: [Not Secure] <Gatunixdd> ggz
+[03:14:13] [Server thread/INFO]: iRagc issued server command: /msg Gatunixdd di que tiene 8 u 7 totems
+[03:14:24] [Server thread/INFO]: TeeRobZti lost connection: Disconnected
+[03:14:24] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[03:14:24] [Server thread/INFO]: TeeRobZti left the game
+[03:14:27] [Server thread/INFO]: AdrianoLC issued server command: /msg qSeren XDDD
+[03:14:58] [Server thread/INFO]: iRagc has made the advancement [Darude - Firestorm]
+[03:14:58] [Server thread/INFO]: iRagc has made the advancement [Strange Biomes]
+[03:14:58] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-68, y=-51, z=53}
+[03:15:10] [Server thread/INFO]: Named entity Skeleton['Skeleton Brother'/99410, uuid='cae8fdef-e60d-4347-8d0d-62337d4a3a1b', l='ServerLevel[world_nether]', x=-1470.85, y=37.00, z=425.33, cpos=[-92, 26], tl=769, v=true] died: Skeleton Brother was slain by qSeren
+[03:15:20] [Server thread/INFO]: Named entity Skeleton['Skeleton Brother'/99409, uuid='b47e1ef2-dfac-40b5-917a-dbec7633c0ba', l='ServerLevel[world_nether]', x=-1470.40, y=37.00, z=422.31, cpos=[-92, 26], tl=1125, v=true] died: Skeleton Brother was slain by qSeren
+[03:15:50] [Server thread/INFO]: Named entity Skeleton['Skeleton Brother'/99425, uuid='fde5bed3-6050-4311-856a-cfc7206fa5c5', l='ServerLevel[world_nether]', x=-1476.25, y=41.50, z=429.38, cpos=[-93, 26], tl=1600, v=true] died: Skeleton Brother was doomed to fall
+[03:16:18] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-68, y=-51, z=70}
+[03:16:18] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-187, y=-54, z=56}
+[03:16:24] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-229, y=-45, z=70}
+[03:16:24] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-227, y=-45, z=71}
+[03:16:24] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-228, y=-45, z=72}
+[03:16:24] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-228, y=-45, z=69}
+[03:16:25] [Server thread/INFO]: Named entity Skeleton['Skeleton Brother'/99412, uuid='23830752-ed33-4d63-8c36-d900482dd00c', l='ServerLevel[world_nether]', x=-1473.95, y=38.41, z=441.58, cpos=[-93, 27], tl=1958, v=true] died: Skeleton Brother was burned to a crisp while fighting qSeren
+[03:16:29] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/95100, uuid='0857c0dd-832a-47e6-b5f5-ceedef41f46f', l='ServerLevel[world_nether]', x=-6122.30, y=64.44, z=1379.48, cpos=[-383, 86], tl=12891, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[03:16:37] [Server thread/INFO]: Named entity PiglinBrute['Piglin Archer'/95101, uuid='984a3b48-8092-47f2-a44c-71ffd6300323', l='ServerLevel[world_nether]', x=-6126.30, y=71.32, z=1378.70, cpos=[-383, 86], tl=13070, v=true] died: Piglin Archer went off with a bang
+[03:16:41] [Server thread/INFO]: qSeren has reached the goal [You Fool!]
+[03:16:41] [Server thread/INFO]: Named entity Skeleton['Torte'/99411, uuid='0486c147-bfa4-4743-8fce-9ed1fd809c03', l='ServerLevel[world_nether]', x=-1475.03, y=37.00, z=445.04, cpos=[-93, 27], tl=2283, v=true] died: Torte was shot by qSeren
+[03:17:00] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-197, y=-53, z=89}
+[03:17:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-195, y=-53, z=95}
+[03:17:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=112}
+[03:17:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=121}
+[03:17:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=112}
+[03:17:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=121}
+[03:17:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=112}
+[03:17:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=121}
+[03:17:07] [Server thread/INFO]: qSeren issued server command: /team add rag
+[03:17:07] [Server thread/INFO]: [qSeren: Created team [rag]]
+[03:17:13] [Server thread/INFO]: qSeren issued server command: /team modify rag friendlyFire false
+[03:17:13] [Server thread/INFO]: [qSeren: Disabled friendly fire for team [rag]]
+[03:17:21] [Server thread/INFO]: qSeren issued server command: /team remove rag
+[03:17:21] [Server thread/INFO]: [qSeren: Removed team [rag]]
+[03:17:26] [Server thread/INFO]: qSeren issued server command: /team add mierditeam
+[03:17:26] [Server thread/INFO]: [qSeren: Created team [mierditeam]]
+[03:17:31] [Server thread/INFO]: qSeren issued server command: /team modify mierditeam friendlyFire false
+[03:17:31] [Server thread/INFO]: [qSeren: Disabled friendly fire for team [mierditeam]]
+[03:17:37] [Server thread/INFO]: qSeren issued server command: /team join mierditeam iRagc
+[03:17:37] [Server thread/INFO]: [qSeren: Added iRagc to team [mierditeam]]
+[03:17:39] [Server thread/INFO]: qSeren issued server command: /team join mierditeam Gatunixdd
+[03:17:39] [Server thread/INFO]: [qSeren: Added Gatunixdd to team [mierditeam]]
+[03:18:01] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=372, y=120, z=-264}
+[03:18:13] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=303, y=98, z=248}
+[03:18:24] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC -1368 38 643
+[03:18:34] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[03:18:42] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/100111, uuid='c1774db7-11c1-4a07-a91b-207b5260ce0b', l='ServerLevel[world_nether]', x=-1273.30, y=57.00, z=627.87, cpos=[-80, 39], tl=112, v=true] died: Sanctum Cultist went up in flames
+[03:19:08] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/95439, uuid='fa59937b-3593-4969-8daa-6789b1017f8c', l='ServerLevel[world_nether]', x=-6069.22, y=64.00, z=1457.25, cpos=[-380, 91], tl=455, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[03:19:49] [Server thread/INFO]: AdrianoLC issued server command: /msg qSeren
+[03:19:56] [Server thread/INFO]: AdrianoLC issued server command: /msg qSeren -6085 83 1381
