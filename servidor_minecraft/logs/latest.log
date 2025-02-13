@@ -152,3 +152,227 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 [23:32:16] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
 [23:32:40] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1670, uuid='10dcf2f1-a555-410b-8421-bfb7729f56b3', l='ServerLevel[world_nether]', x=-7631.50, y=62.00, z=3491.39, cpos=[-477, 218], tl=5195, v=true] died: Piglin Paratrooper was shot by qSeren
 [23:32:58] [Server thread/INFO]: Named entity PiglinBrute['Piglin Archer'/1687, uuid='4841a5ae-4176-4d46-bd80-81a85993ba74', l='ServerLevel[world_nether]', x=-7629.50, y=71.19, z=3507.30, cpos=[-477, 219], tl=5555, v=true] died: Piglin Archer was slain by qSeren using [Scarlet Dagger]
+[23:33:21] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/1774, uuid='27c9871e-0799-405c-b14d-94ce9436085f', l='ServerLevel[world_nether]', x=-7658.71, y=62.00, z=3505.37, cpos=[-479, 219], tl=5761, v=true] died: Piglin Knight was shot by qSeren
+[23:33:25] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/1793, uuid='91f4522a-57cf-49d2-8dc7-4f12e0cdc70b', l='ServerLevel[world_nether]', x=-7652.66, y=62.00, z=3506.51, cpos=[-479, 219], tl=5074, v=true] died: Piglin Knight was burned to a crisp while fighting qSeren
+[23:33:26] [Async Chat Thread - #3/INFO]: [Not Secure] <Vennom_123> extingan a los bolivianos por favor, no aportan nada al mundo, graciass <3
+[23:33:32] [Async Chat Thread - #4/INFO]: [Not Secure] <thenoxplayer> bro
+[23:33:33] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:33:33] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:33:34] [Async Chat Thread - #4/INFO]: [Not Secure] <thenoxplayer> pero si yo te aporto pene
+[23:33:34] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:33:34] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:33:34] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:33:44] [Async Chat Thread - #4/INFO]: [Not Secure] <Vennom_123> un pene de -18 cm no cuenta
+[23:33:54] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1812, uuid='578fa1fd-bbe1-4b00-ac91-53aef58dcb5b', l='ServerLevel[world_nether]', x=-7686.29, y=62.00, z=3520.89, cpos=[-481, 220], tl=3194, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by qSeren
+[23:33:56] [Async Chat Thread - #4/INFO]: [Not Secure] <thenoxplayer> -18 + -18 =
+[23:34:00] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1827, uuid='bc5da8dd-c9a8-4fca-a325-1424237590d0', l='ServerLevel[world_nether]', x=-7681.05, y=62.94, z=3522.74, cpos=[-481, 220], tl=2999, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by qSeren
+[23:34:04] [Server thread/INFO]: Named entity PiglinBrute['Piglin Scout'/1732, uuid='dfa029eb-7664-4842-9d92-1a0365319700', l='ServerLevel[world_nether]', x=-7670.46, y=72.94, z=3504.69, cpos=[-480, 219], tl=6537, v=true] died: Piglin Scout went off with a bang due to a firework fired from [Holy Wrath] by qSeren
+[23:34:04] [Async Chat Thread - #4/INFO]: [Not Secure] <Vennom_123> 0
+[23:34:07] [Async Chat Thread - #4/INFO]: [Not Secure] <thenoxplayer> DOWN
+[23:34:08] [Async Chat Thread - #4/INFO]: [Not Secure] <thenoxplayer> REGLA DE SIGNOS
+[23:34:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Vennom_123> ya pues, el -18 se vuelve +18-18
+[23:34:19] [Async Chat Thread - #4/INFO]: [Not Secure] <Vennom_123> imbecil
+[23:34:20] [Async Chat Thread - #4/INFO]: [Not Secure] <Vennom_123> 0
+[23:34:20] [Async Chat Thread - #4/INFO]: [Not Secure] <Vennom_123> gg
+[23:34:21] [Async Chat Thread - #4/INFO]: [Not Secure] <thenoxplayer> ????
+[23:34:24] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1830, uuid='83ea307e-029f-4a2e-b565-85a8732c5917', l='ServerLevel[world_nether]', x=-7701.69, y=31.00, z=3508.60, cpos=[-482, 219], tl=3483, v=true] died: Piglin Paratrooper tried to swim in lava to escape qSeren
+[23:34:26] [Async Chat Thread - #4/INFO]: [Not Secure] <thenoxplayer> no
+[23:34:28] [Async Chat Thread - #4/INFO]: [Not Secure] <thenoxplayer> sos mi hijito
+[23:34:28] [Async Chat Thread - #4/INFO]: [Not Secure] <Vennom_123> si
+[23:34:29] [Async Chat Thread - #4/INFO]: [Not Secure] <Vennom_123> down
+[23:34:30] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/1828, uuid='28cfa617-7b45-4f1a-94d1-0d1ec61a715e', l='ServerLevel[world_nether]', x=-7697.21, y=62.00, z=3519.82, cpos=[-482, 219], tl=3600, v=true] died: Piglin Knight was slain by qSeren using [Scarlet Dagger]
+[23:34:31] [Async Chat Thread - #4/INFO]: [Not Secure] <thenoxplayer> no era asi
+[23:34:33] [Async Chat Thread - #4/INFO]: [Not Secure] <thenoxplayer> soy retrasado
+[23:34:33] [Async Chat Thread - #4/INFO]: [Not Secure] <thenoxplayer> era
+[23:34:33] [Async Chat Thread - #4/INFO]: [Not Secure] <Vennom_123> dile a la calculador
+[23:34:34] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> brot
+[23:34:37] [Async Chat Thread - #4/INFO]: [Not Secure] <Vennom_123> nah bro
+[23:34:37] [Async Chat Thread - #4/INFO]: [Not Secure] <thenoxplayer> -18 -18
+[23:34:38] [Async Chat Thread - #3/INFO]: [Not Secure] <Vennom_123> banealo
+[23:34:39] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> hasta los piglins dropean menos que vennom
+[23:34:39] [Async Chat Thread - #3/INFO]: [Not Secure] <Vennom_123> por tonto
+[23:34:41] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> se comenmgap
+[23:34:50] [User Authenticator #2/INFO]: UUID of player AdrianoLC is c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[23:34:58] [Server thread/INFO]: AdrianoLC joined the game
+[23:34:58] [Server thread/INFO]: AdrianoLC[/100.85.44.77:64803] logged in with entity id 2848 at ([world_nether]-6929.830957911811, 32.64326471325824, 2367.491136749235)
+[23:34:59] [Server thread/INFO]: [voicechat] Received secret request of AdrianoLC (18)
+[23:34:59] [Server thread/INFO]: [voicechat] Sent secret to AdrianoLC
+[23:34:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[23:35:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[23:35:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AdrianoLC (c2ab7376-aed7-376e-8039-b4a37e24f8b1) successfully connected to voice chat
+[23:35:10] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> bueno
+[23:35:12] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> el goati
+[23:35:13] [Server thread/INFO]: thenoxplayer has made the advancement [UNLIMITED POWER!!!]
+[23:35:17] [Server thread/INFO]: thenoxplayer has reached the goal [Ceci n'est pas un blaze]
+[23:35:17] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/2434, uuid='04979eed-a5de-4ba1-b19c-bd7e8b089a71', l='ServerLevel[world_nether]', x=-2293.81, y=33.15, z=-6343.26, cpos=[-144, -397], tl=714, v=true] died: Pipeline Sentry was slain by thenoxplayer
+[23:35:19] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> PODER ILIMITADOOO
+[23:35:29] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> wtf
+[23:35:35] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> tremendo rollback hizo nox
+[23:35:41] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> nono
+[23:35:42] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> yo rompi el oro
+[23:35:46] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> adri tenes alguna perla?
+[23:35:47] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> no gordo imbecil
+[23:35:50] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> literalmente me hizo rollback
+[23:35:53] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> ah}
+[23:36:06] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> y por que insultas tanto gordo maricon
+[23:36:08] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:36:08] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:36:08] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:36:08] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:36:08] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:36:08] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:36:08] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:36:10] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> no se XDD
+[23:36:12] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/2417, uuid='9253e4d6-8edb-47ed-a043-2b38b79a1e70', l='ServerLevel[world_nether]', x=-2260.45, y=35.62, z=-6347.70, cpos=[-142, -397], tl=2208, v=true] died: Pipeline Sentry was slain by thenoxplayer
+[23:36:13] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> lo siento..
+[23:36:16] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1802, uuid='2db33015-335f-4597-8cfc-9ed935e5b71c', l='ServerLevel[world_nether]', x=-7709.30, y=62.40, z=3500.29, cpos=[-482, 218], tl=5778, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:36:16] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1803, uuid='c5e8c2a3-5edb-4f04-b26a-2f1bfa900d7a', l='ServerLevel[world_nether]', x=-7711.05, y=62.94, z=3502.30, cpos=[-482, 218], tl=5419, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:36:23] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1813, uuid='a3f44baf-e899-4d9b-b72b-641caa0acd0b', l='ServerLevel[world_nether]', x=-7713.45, y=62.04, z=3509.69, cpos=[-483, 219], tl=5373, v=true] died: Piglin Paratrooper was slain by qSeren using [Scarlet Dagger]
+[23:36:28] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> tengo otra scarlet dagger para vos
+[23:36:33] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/2427, uuid='16d81cf1-b397-4641-be3d-cfa9309f1302', l='ServerLevel[world_nether]', x=-2235.32, y=34.65, z=-6339.30, cpos=[-140, -397], tl=2602, v=true] died: Pipeline Sentry was slain by thenoxplayer
+[23:36:35] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> U
+[23:36:36] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> exploraste sin mi..
+[23:36:37] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> ES IMPERDONABLEE
+[23:36:38] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> una tercera
+[23:36:41] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> no
+[23:36:42] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/2476, uuid='ab090945-ca48-496e-9481-c1d1f34a5ba6', l='ServerLevel[world_nether]', x=-2189.50, y=52.00, z=-6382.42, cpos=[-137, -399], tl=1122, v=true] died: Pipeline Sentry suffocated in a wall
+[23:36:44] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/2416, uuid='bd1d0489-d5c4-4a70-b853-6a1ca1ed063c', l='ServerLevel[world_nether]', x=-2245.70, y=30.57, z=-6360.70, cpos=[-141, -398], tl=2846, v=true] died: Pipeline Sentry was slain by thenoxplayer
+[23:36:46] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> estoy explorando la tercera fortaleza
+[23:36:48] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> la segunda no
+[23:36:53] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> ??
+[23:37:00] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> encontre
+[23:37:00] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> 2 mas
+[23:37:04] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/2477, uuid='56a3278c-a236-4ef3-9145-f5b01108ff78', l='ServerLevel[world_nether]', x=-2245.70, y=21.16, z=-6378.39, cpos=[-141, -399], tl=2693, v=true] died: Pipeline Sentry was slain by thenoxplayer
+[23:37:05] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> te mande las coordenadas de 1
+[23:37:07] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> queria explorar las dos...
+[23:37:10] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> y despues explore un poco mas y encontre otra
+[23:37:12] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> ... momo
+[23:37:20] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> esto es ser...
+[23:37:23] [Async Chat Thread - #4/INFO]: [Not Secure] <AdrianoLC> TRAICIONADO
+[23:37:25] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/2532, uuid='84ee97c2-b2da-42d7-823f-5251d273b843', l='ServerLevel[world_nether]', x=-2245.70, y=20.49, z=-6424.70, cpos=[-141, -402], tl=1572, v=true] died: Pipeline Sentry was slain by thenoxplayer
+[23:37:37] [Async Chat Thread - #4/INFO]: [Not Secure] <AdrianoLC> NUNCA TE LO
+[23:37:38] [Async Chat Thread - #4/INFO]: [Not Secure] <AdrianoLC> PERDONAREEE
+[23:37:41] [Server thread/INFO]: Vennom_123 has made the advancement [Night Sky Stalkers]
+[23:37:44] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> en ninguna habia multiplex eh
+[23:37:57] [Server thread/INFO]: AdrianoLC issued server command: /msg qSeren adios
+[23:38:09] [Server thread/INFO]: Named entity PiglinBrute['Piglin Scout'/1731, uuid='53dea9be-907d-40d2-8824-3e0da7c2e80a', l='ServerLevel[world_nether]', x=-7671.05, y=72.00, z=3498.12, cpos=[-480, 218], tl=11427, v=true] died: Piglin Scout went off with a bang
+[23:38:12] [Server thread/INFO]: AdrianoLC issued server command: /msg qSeren dale down unite
+[23:38:27] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> helouu
+[23:38:41] [Server thread/INFO]: Villager Villager['Librarian'/2836, uuid='f6953010-7a33-45d5-a5d0-fef4e16dc287', l='ServerLevel[world]', x=513.70, y=76.18, z=375.80, cpos=[32, 23], tl=37751, v=true] died, message: 'Librarian was shot by Pillager'
+[23:38:42] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> ADRIII
+[23:38:43] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> XDDD
+[23:38:45] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/2414, uuid='ac244272-9438-4526-8c01-0eab89f72631', l='ServerLevel[world_nether]', x=-2194.29, y=33.00, z=-6343.88, cpos=[-138, -397], tl=4210, v=true] died: Pipeline Sentry was slain by thenoxplayer
+[23:38:45] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> TU MADRE
+[23:38:48] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> XDDDDDDDDDDDDDD
+[23:38:55] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> como me puedes hacer estoooo ADRIII
+[23:39:02] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/2415, uuid='dee782ce-a700-4e19-9352-a5c6bcdea869', l='ServerLevel[world_nether]', x=-2219.70, y=34.78, z=-6348.75, cpos=[-139, -397], tl=5128, v=true] died: Pipeline Sentry was shot by thenoxplayer
+[23:39:54] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> ee adri porcierto
+[23:39:56] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> ...
+[23:39:57] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> la caguee
+[23:40:05] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> rompi el ender con fortunaaa
+[23:40:06] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> XDD
+[23:40:13] [Async Chat Thread - #3/INFO]: [Not Secure] <thenoxplayer> megadown
+[23:40:19] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> la cosa es que no etngo perlas
+[23:40:58] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> XD
+[23:41:00] [Async Chat Thread - #3/INFO]: [Not Secure] <Vennom_123> serent
+[23:41:07] [Async Chat Thread - #3/INFO]: [Not Secure] <Vennom_123> se puede robar las cosas del jugador si se muere?
+[23:41:09] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1678, uuid='8424e503-64d3-439c-9c72-c1dd85d2fd94', l='ServerLevel[world_nether]', x=-7680.69, y=83.00, z=3470.42, cpos=[-481, 216], tl=12876, v=true] died: Piglin Paratrooper was slain by qSeren using [Scarlet Dagger]
+[23:41:10] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> n
+[23:41:12] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> igga
+[23:41:14] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> y no
+[23:41:20] [Async Chat Thread - #3/INFO]: [Not Secure] <thenoxplayer> qSeren pero si mato a alguien
+[23:41:23] [Async Chat Thread - #3/INFO]: [Not Secure] <thenoxplayer> lo looteo
+[23:41:23] [Async Chat Thread - #3/INFO]: [Not Secure] <thenoxplayer> ez
+[23:41:27] [Async Chat Thread - #3/INFO]: [Not Secure] <AdrianoLC> baneadisimo
+[23:41:28] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> ah ahi si
+[23:41:32] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> pero no deberias matar ais poq si
+[23:41:50] [Async Chat Thread - #3/INFO]: [Not Secure] <Vennom_123> mi pene dice lo contrario
+[23:42:08] [Server thread/INFO]: Named entity PiglinBrute['Piglin Scout'/1713, uuid='641df86a-434b-4acd-8a2e-694f3a1d8efa', l='ServerLevel[world_nether]', x=-7675.55, y=81.00, z=3441.70, cpos=[-480, 215], tl=13021, v=true] died: Piglin Scout was slain by qSeren using [Scarlet Dagger]
+[23:42:17] [Async Chat Thread - #3/INFO]: [Not Secure] <Vennom_123> hola
+[23:42:18] [Server thread/INFO]: Named entity PiglinBrute['Piglin Alchemist'/1715, uuid='b2d1a7f1-35d6-44ed-bdb9-6a9cad00f2ad', l='ServerLevel[world_nether]', x=-7675.61, y=81.00, z=3440.41, cpos=[-480, 215], tl=13220, v=true] died: Piglin Alchemist was slain by qSeren using [Scarlet Dagger]
+[23:42:35] [Async Chat Thread - #3/INFO]: [Not Secure] <Vennom_123> xray detected gg
+[23:42:48] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> estoy en la otra
+[23:43:09] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> el q
+[23:43:32] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> voltaic trident
+[23:43:42] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> ok pasa cordes
+[23:43:43] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> y exploraos esa
+[23:43:44] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> primero
+[23:43:49] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> yess
+[23:43:55] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC -7696 81 3451
+[23:43:57] [User Authenticator #3/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[23:44:00] [Server thread/INFO]: lg_santiago_1 joined the game
+[23:44:00] [Server thread/INFO]: lg_santiago_1[/100.96.27.113:62254] logged in with entity id 5592 at ([world_nether]598.8490776955756, 57.0, 400.78898820606355)
+[23:44:00] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[23:44:00] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[23:44:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:44:01] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> no
+[23:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[23:44:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[23:44:02] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> esa no
+[23:44:03] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> y esta tampco
+[23:44:06] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> odas una MIERDA
+[23:44:09] [Server thread/INFO]: Named entity PiglinBrute['Piglin Archer'/4584, uuid='f4025258-b1df-42a3-b821-e70055a2f9d9', l='ServerLevel[world_nether]', x=-7492.01, y=54.50, z=3089.49, cpos=[-469, 193], tl=18184, v=true] died: Piglin Archer went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:44:18] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> TONTO
+[23:44:20] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/4496, uuid='6db47add-e29a-48c0-801b-b2c93d8c5376', l='ServerLevel[world_nether]', x=-7459.30, y=59.94, z=3075.13, cpos=[-467, 192], tl=20537, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:44:20] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/4495, uuid='9960c826-b038-4771-84eb-aa34dda69425', l='ServerLevel[world_nether]', x=-7459.30, y=59.00, z=3072.39, cpos=[-467, 192], tl=18832, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:44:27] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1842, uuid='a8d2d55a-be4a-4622-8d1a-7c5b150aa3b6', l='ServerLevel[world_nether]', x=-7709.30, y=52.00, z=3451.32, cpos=[-482, 215], tl=9318, v=true] died: Piglin Paratrooper was doomed to fall
+[23:44:35] [Async Chat Thread - #4/INFO]: [Not Secure] <lg_santiago_1> vennom
+[23:44:37] [Async Chat Thread - #4/INFO]: [Not Secure] <lg_santiago_1> vc
+[23:44:44] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/4585, uuid='29826a8e-62bd-4cd8-8dfb-e51f7ad4b32f', l='ServerLevel[world_nether]', x=-7493.30, y=56.36, z=3090.40, cpos=[-469, 193], tl=18883, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:44:49] [Async Chat Thread - #4/INFO]: [Not Secure] <Vennom_123> f
+[23:44:50] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> pero pasa cordes adri mojon
+[23:44:59] [Server thread/INFO]: AdrianoLC issued server command: /msg qSeren -7481 3048
+[23:45:01] [Server thread/INFO]: Vennom_123 has made the advancement [Safe Haven]
+[23:45:03] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> pero me siguen pigliiin
+[23:45:13] [Async Chat Thread - #3/INFO]: [Not Secure] <Vennom_123> SAFE HAVEN, COMO POPPY PLATIME GG REFERENCIA
+[23:45:15] [Async Chat Thread - #3/INFO]: [Not Secure] <lg_santiago_1> unete vennom
+[23:45:22] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> poppy mierdas
+[23:45:38] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[23:46:30] [Async Chat Thread - #5/INFO]: [Not Secure] <qSeren> TNTOO VIDE
+[23:46:33] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> VIDEO TONTO
+[23:46:52] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC me voy a bañar explorala vos
+[23:46:55] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC momo
+[23:46:57] [Server thread/INFO]: qSeren lost connection: Disconnected
+[23:46:57] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[23:46:57] [Server thread/INFO]: qSeren left the game
+[23:47:35] [Async Chat Thread - #6/INFO]: [Not Secure] <Vennom_123> desactiva pvp
+[23:47:35] [Async Chat Thread - #6/INFO]: [Not Secure] <Vennom_123> desactiva pvp
+[23:47:47] [Async Chat Thread - #5/INFO]: [Not Secure] <AdrianoLC> se fue a la mierda a quien le decis
+[23:47:56] [Async Chat Thread - #5/INFO]: [Not Secure] <Vennom_123> al [Server]
+[23:47:57] [Server thread/INFO]: Named entity PiglinBrute['Piglin Scout'/4540, uuid='623de784-f65e-48f1-b4c8-3ece1d63ea68', l='ServerLevel[world_nether]', x=-7446.38, y=63.94, z=3083.20, cpos=[-466, 192], tl=21994, v=true] died: Piglin Scout went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:47:57] [Server thread/INFO]: Named entity PiglinBrute['Piglin Scout'/4539, uuid='b8c16ad1-2942-4729-a22c-aea1f2590b7b', l='ServerLevel[world_nether]', x=-7451.06, y=63.94, z=3082.78, cpos=[-466, 192], tl=21994, v=true] died: Piglin Scout went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:48:04] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/4542, uuid='8b05e31c-2559-4c5c-ac90-73a2034da21a', l='ServerLevel[world_nether]', x=-7450.61, y=63.83, z=3080.98, cpos=[-466, 192], tl=22141, v=true] died: Piglin Paratrooper went off with a bang
+[23:48:12] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/4537, uuid='7a9c420b-7e14-488a-9612-a1a8950430fd', l='ServerLevel[world_nether]', x=-7452.24, y=63.00, z=3087.51, cpos=[-466, 192], tl=22288, v=true] died: Piglin Paratrooper was slain by AdrianoLC
+[23:48:39] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:48:39] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:48:39] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[23:48:39] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:48:42] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:48:42] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:48:42] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[23:48:42] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:49:01] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/4656, uuid='f869f6f9-57ea-47d8-b75b-09fb10d13561', l='ServerLevel[world_nether]', x=-7450.81, y=62.00, z=3107.49, cpos=[-466, 194], tl=22154, v=true] died: Piglin Paratrooper was shot by AdrianoLC using [Holy Wrath]
+[23:49:03] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:49:03] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:49:03] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:49:03] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:49:03] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:49:09] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:49:09] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:49:09] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:49:09] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:49:21] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/4937, uuid='f63ead9b-fada-45f3-91c7-98269b326d38', l='ServerLevel[world_nether]', x=-7483.91, y=62.83, z=3137.70, cpos=[-468, 196], tl=16079, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:50:14] [Server thread/INFO]: Named entity PiglinBrute['Piglin Archer'/4583, uuid='2d1898ac-4e48-4c66-81e0-b99539be99b6', l='ServerLevel[world_nether]', x=-7499.70, y=36.00, z=3088.30, cpos=[-469, 193], tl=25471, v=true] died: Piglin Archer was shot by AdrianoLC
+[23:50:22] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/5149, uuid='fbbe8742-bc4b-4737-8d74-f32539ea1356', l='ServerLevel[world_nether]', x=-7506.96, y=62.00, z=3139.51, cpos=[-470, 196], tl=17609, v=true] died: Piglin Paratrooper went off with a bang
+[23:50:22] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/5150, uuid='185439c6-f245-4df0-9a73-94af2415c56c', l='ServerLevel[world_nether]', x=-7506.05, y=62.05, z=3135.88, cpos=[-470, 195], tl=17512, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:50:30] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:50:30] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:50:30] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:50:46] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/4558, uuid='6bf75daa-610e-4cab-8717-24d9b2503927', l='ServerLevel[world_nether]', x=-7533.45, y=63.94, z=3097.70, cpos=[-471, 193], tl=18156, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:50:49] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/4600, uuid='d424dbdb-d3bc-4c42-9acb-28fcd08bc2de', l='ServerLevel[world_nether]', x=-7534.99, y=63.40, z=3097.70, cpos=[-471, 193], tl=19036, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:51:17] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/4557, uuid='b53da522-a67a-4248-badc-01dbde56ddba', l='ServerLevel[world_nether]', x=-7535.14, y=62.36, z=3100.71, cpos=[-471, 193], tl=18897, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:51:36] [Server thread/INFO]: Named entity PiglinBrute['Piglin Scout'/4597, uuid='0f4c9d83-a4e0-4f23-85e5-b8cfffd16519', l='ServerLevel[world_nether]', x=-7521.21, y=70.00, z=3090.66, cpos=[-471, 193], tl=25287, v=true] died: Piglin Scout went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:51:38] [Server thread/INFO]: Named entity PiglinBrute['Piglin Alchemist'/4598, uuid='4b34dfec-e5d0-4d65-a7e8-0e9129c9ae26', l='ServerLevel[world_nether]', x=-7521.52, y=70.36, z=3090.68, cpos=[-471, 193], tl=25328, v=true] died: Piglin Alchemist went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:52:06] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/4500, uuid='93f406c5-4111-4b87-b317-62e5586148ac', l='ServerLevel[world_nether]', x=-7536.49, y=62.83, z=3068.87, cpos=[-472, 191], tl=21389, v=true] died: Piglin Knight went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:52:16] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/4478, uuid='370cf356-9286-44b7-9e64-b22aeb93340b', l='ServerLevel[world_nether]', x=-7527.86, y=62.91, z=3057.70, cpos=[-471, 191], tl=25732, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
+[23:53:00] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/4582, uuid='d9eca585-39cd-4c8c-a75d-ebcaad8fc1ca', l='ServerLevel[world_nether]', x=-7486.98, y=36.00, z=3112.02, cpos=[-468, 194], tl=28634, v=true] died: Piglin Knight was slain by AdrianoLC
