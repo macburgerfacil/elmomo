@@ -122,3 +122,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 [23:18:39] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> down
 [23:18:48] [Server thread/INFO]: [Not Secure] [Server] hola mierdiplayer
 [23:22:20] [Server thread/INFO]: Named entity Vex['Restless Spirit'/1005, uuid='1e2713a6-1c0a-4387-8d36-5b7a9572e523', l='ServerLevel[world_nether]', x=-1660.19, y=43.82, z=-5548.77, cpos=[-104, -347], tl=59, v=true] died: Restless Spirit was shot by Piglin
+[23:25:01] [Server thread/INFO]: thenoxplayer has made the advancement [Who is Cutting Onions?]
+[23:30:02] [User Authenticator #1/INFO]: UUID of player Vennom_123 is 34119cd0-1e61-3f6a-b46d-49fc8fa77e36
+[23:30:07] [Server thread/INFO]: thenoxplayer has reached the goal [Postmortal]
+[23:30:12] [Server thread/INFO]: Vennom_123 joined the game
+[23:30:12] [Server thread/INFO]: Vennom_123[/100.122.218.87:53703] logged in with entity id 1551 at ([world]31.674905635516872, 30.0, 153.5084497386748)
+[23:30:12] [Server thread/INFO]: [voicechat] Received secret request of Vennom_123 (18)
+[23:30:12] [Server thread/INFO]: [voicechat] Sent secret to Vennom_123
+[23:30:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 34119cd0-1e61-3f6a-b46d-49fc8fa77e36
+[23:30:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 34119cd0-1e61-3f6a-b46d-49fc8fa77e36
+[23:30:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Vennom_123 (34119cd0-1e61-3f6a-b46d-49fc8fa77e36) successfully connected to voice chat
+[23:30:16] [User Authenticator #1/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:30:18] [Server thread/INFO]: qSeren joined the game
+[23:30:18] [Server thread/INFO]: qSeren[/100.86.135.121:57476] logged in with entity id 1659 at ([world_nether]-7603.45564918888, 81.0, 3456.2356921087876)
+[23:30:20] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[23:30:20] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[23:30:21] [Server thread/INFO]: [Not Secure] [Server] hola messi crack dios momo?
+[23:30:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:30:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[23:30:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[23:30:59] [Async Chat Thread - #1/INFO]: [Not Secure] <Vennom_123> 0 0
+[23:31:10] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1666, uuid='61627691-ebf8-4a9b-b53b-e3df1eb23035', l='ServerLevel[world_nether]', x=-7633.66, y=62.00, z=3475.14, cpos=[-478, 217], tl=3763, v=true] died: Piglin Paratrooper was shot by qSeren
+[23:31:10] [Async Chat Thread - #1/INFO]: [Not Secure] <Vennom_123> 34 150
+[23:31:17] [Async Chat Thread - #1/INFO]: [Not Secure] <Vennom_123> en el nether
+[23:31:20] [Server thread/INFO]: Named entity PiglinBrute['Piglin Archer'/1720, uuid='5a00b4cb-e820-4468-87aa-66dff8ea6734', l='ServerLevel[world_nether]', x=-7682.42, y=82.00, z=3450.82, cpos=[-481, 215], tl=2297, v=true] died: Piglin Archer went off with a bang
+[23:31:30] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1677, uuid='ddb7d26a-c07a-4dc9-8988-8f69845be919', l='ServerLevel[world_nether]', x=-7652.16, y=35.00, z=3467.82, cpos=[-479, 216], tl=1940, v=true] died: Piglin Paratrooper was doomed to fall by qSeren
+[23:32:16] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:32:16] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:32:16] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[23:32:40] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/1670, uuid='10dcf2f1-a555-410b-8421-bfb7729f56b3', l='ServerLevel[world_nether]', x=-7631.50, y=62.00, z=3491.39, cpos=[-477, 218], tl=5195, v=true] died: Piglin Paratrooper was shot by qSeren
+[23:32:58] [Server thread/INFO]: Named entity PiglinBrute['Piglin Archer'/1687, uuid='4841a5ae-4176-4d46-bd80-81a85993ba74', l='ServerLevel[world_nether]', x=-7629.50, y=71.19, z=3507.30, cpos=[-477, 219], tl=5555, v=true] died: Piglin Archer was slain by qSeren using [Scarlet Dagger]
