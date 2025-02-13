@@ -458,3 +458,56 @@
 [01:26:04] [Server thread/INFO]: iRagc issued server command: /skin pene
 [01:26:25] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
 [01:26:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[01:27:02] [Server thread/INFO]: iRagc issued server command: /skin clear
+[01:27:07] [Server thread/INFO]: TeeRobZti issued server command: /skin set atunç
+[01:27:09] [Server thread/INFO]: TeeRobZti issued server command: /skin set atun
+[01:27:48] [Server thread/INFO]: qSeren issued server command: /team remove momo
+[01:27:48] [Server thread/INFO]: [qSeren: Removed team [momo]]
+[01:29:04] [Server thread/INFO]: qSeren has reached the goal [Pocket Edition Alpha]
+[01:29:24] [Server thread/INFO]: iRagc has made the advancement [Enchanter]
+[01:29:24] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/77795, uuid='60959eda-4bf1-4471-9f69-5033643ec911', l='ServerLevel[world_nether]', x=3.42, y=42.00, z=26.51, cpos=[0, 1], tl=697, v=true] died: Guerrero Bruto was shot by TeeRobZti
+[01:29:48] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/34303, uuid='9f160837-cf8d-4d9a-af5f-4e76cf4d58ea', l='ServerLevel[world_nether]', x=5.50, y=42.00, z=-29.78, cpos=[0, -2], tl=31833, v=true] died: Guerrero Bruto was burned to a crisp while fighting TeeRobZti
+[01:30:18] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[01:30:34] [Server thread/INFO]: qSeren has made the advancement [Radioactive]
+[01:31:19] [Server thread/INFO]: qSeren lost connection: Timed out
+[01:31:19] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[01:31:19] [Server thread/INFO]: qSeren left the game
+[01:31:37] [Server thread/INFO]: [Not Secure] [Server] PUTO ROBLOOXXXXXXXXXXX
+[01:31:42] [User Authenticator #35/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:31:42] [Async Chat Thread - #59/INFO]: [Not Secure] <AdrianoLC> XDDD
+[01:31:44] [Server thread/INFO]: qSeren joined the game
+[01:31:44] [Server thread/INFO]: qSeren[/100.86.135.121:60355] logged in with entity id 78583 at ([world_nether]3181.931364044054, 44.0, 2145.8401758755917)
+[01:31:45] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[01:31:45] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[01:31:46] [Async Chat Thread - #59/INFO]: [Not Secure] <iRagc> roblox kid
+[01:31:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:31:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:31:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[01:32:06] [Server thread/INFO]: iRagc issued server command: /skin Teerobzti
+[01:32:06] [Server thread/INFO]: TeeRobZti issued server command: /skin set spreendmc
+[01:32:09] [Server thread/INFO]: AdrianoLC has made the advancement [Who is Cutting Onions?]
+[01:32:17] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[01:32:24] [Server thread/INFO]: qSeren lost connection: Timed out
+[01:32:24] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[01:32:24] [Server thread/INFO]: qSeren left the game
+[01:32:26] [Server thread/INFO]: iRagc issued server command: /skin wolftho
+[01:32:45] [Server thread/INFO]: iRagc issued server command: /skin wolftho
+[01:32:46] [User Authenticator #36/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:32:47] [Server thread/INFO]: qSeren joined the game
+[01:32:47] [Server thread/INFO]: qSeren[/100.86.135.121:60386] logged in with entity id 78900 at ([world_nether]3214.889007736995, 57.0, 2103.5741279677454)
+[01:32:48] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[01:32:48] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[01:32:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:32:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:32:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[01:33:05] [Server thread/INFO]: iRagc issued server command: /skin qseren
+[01:33:25] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[01:33:34] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[01:33:37] [Server thread/INFO]: iRagc issued server command: /skin adrianolc
+[01:33:53] [Server thread/INFO]: iRagc issued server command: /skin thenoxplayer
+[01:34:13] [Server thread/INFO]: iRagc issued server command: /skin thenoxplayer
+[01:36:03] [Server thread/INFO]: Named entity Piglin['Village Guard'/79668, uuid='5eeea3e1-be49-4d1c-8152-ffa22d16adc7', l='ServerLevel[world_nether]', x=3554.35, y=52.00, z=1629.74, cpos=[222, 101], tl=550, v=true] died: Village Guard was slain by qSeren
+[01:37:08] [Server thread/INFO]: TeeRobZti issued server command: /skin clear
+[01:37:09] [Server thread/WARN]: Dark Oak Boat (vehicle of TeeRobZti) moved wrongly! 1.3238612134405046
+[01:37:09] [Server thread/WARN]: Dark Oak Boat (vehicle of TeeRobZti) moved wrongly! 1.3238612134405046
+[01:37:09] [Server thread/WARN]: Dark Oak Boat (vehicle of TeeRobZti) moved wrongly! 1.3238612134405046

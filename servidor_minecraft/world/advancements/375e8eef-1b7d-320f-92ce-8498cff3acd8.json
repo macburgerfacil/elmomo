@@ -4268,73 +4268,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:23:04 +0000"
+      "log_spam_fixer": "2025-02-13 01:33:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:23:04 +0000"
+      "log_spam_fixer": "2025-02-13 01:33:04 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:23:04 +0000"
+      "log_spam_fixer": "2025-02-13 01:33:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:23:04 +0000"
+      "log_spam_fixer": "2025-02-13 01:33:04 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:23:04 +0000"
+      "log_spam_fixer": "2025-02-13 01:33:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:23:04 +0000"
+      "log_spam_fixer": "2025-02-13 01:33:04 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:23:04 +0000"
+      "log_spam_fixer": "2025-02-13 01:33:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:23:04 +0000"
+      "log_spam_fixer": "2025-02-13 01:33:04 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:23:04 +0000"
+      "log_spam_fixer": "2025-02-13 01:33:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:23:04 +0000"
+      "log_spam_fixer": "2025-02-13 01:33:04 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:23:04 +0000"
+      "log_spam_fixer": "2025-02-13 01:33:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 01:23:04 +0000"
+      "log_spam_fixer": "2025-02-13 01:33:04 +0000"
     },
     "done": false
   },
@@ -4352,6 +4352,7 @@
   },
   "nova_structures:nether/find_piglins": {
     "criteria": {
+      "nova_structures:piglin_outstation": "2025-02-13 01:24:49 +0000",
       "nova_structures:piglin_camp": "2025-02-13 01:17:04 +0000"
     },
     "done": false
@@ -4485,6 +4486,12 @@
   "incendium:infernal_dunes/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-02-13 00:44:50 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglin_outpost": {
+    "criteria": {
+      "nova_structures:piglin_outstation": "2025-02-13 01:24:49 +0000"
     },
     "done": true
   },
