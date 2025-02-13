@@ -744,3 +744,127 @@
 [02:18:19] [Async Chat Thread - #71/INFO]: [Not Secure] <qSeren> BETTY LA FEA
 [02:18:44] [Async Chat Thread - #71/INFO]: [Not Secure] <qSeren> QUE
 [02:18:44] [Async Chat Thread - #71/INFO]: [Not Secure] <qSeren> BRO
+[02:18:48] [Async Chat Thread - #72/INFO]: [Not Secure] <qSeren> UN PILLAGER SUBIO UNA ESLCAERA
+[02:18:50] [User Authenticator #40/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
+[02:18:58] [Async Chat Thread - #72/INFO]: [Not Secure] <qSeren> bueno es verda
+[02:19:01] [Server thread/INFO]: Gatunixdd joined the game
+[02:19:01] [Server thread/INFO]: Gatunixdd[/100.95.252.69:3503] logged in with entity id 87457 at ([world_nether]754.7149198211517, 59.0, 69.10937767186256)
+[02:19:02] [Server thread/INFO]: [voicechat] Received secret request of Gatunixdd (18)
+[02:19:02] [Server thread/INFO]: [voicechat] Sent secret to Gatunixdd
+[02:19:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[02:19:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[02:19:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gatunixdd (30c6f3b7-f46c-3424-a802-e7c599266de4) successfully connected to voice chat
+[02:19:11] [Async Chat Thread - #72/INFO]: [Not Secure] <Gatunixdd> GGZ
+[02:19:18] [Async Chat Thread - #72/INFO]: [Not Secure] <qSeren> XDD
+[02:19:24] [Async Chat Thread - #72/INFO]: [Not Secure] <Gatunixdd> alm
+[02:19:24] [Async Chat Thread - #72/INFO]: [Not Secure] <iRagc> Gatunixdd vc
+[02:19:29] [Async Chat Thread - #72/INFO]: [Not Secure] <Gatunixdd> que mierda hago en el nether?
+[02:19:30] [Async Chat Thread - #72/INFO]: [Not Secure] <Gatunixdd> que mierda hago en el nether?
+[02:19:31] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC a buscar el forbidden castle
+[02:19:38] [Async Chat Thread - #72/INFO]: [Not Secure] <iRagc> nose lol
+[02:19:47] [Async Chat Thread - #72/INFO]: [Not Secure] <qSeren> torre los esta afectando
+[02:20:05] [Async Chat Thread - #72/INFO]: [Not Secure] <qSeren> adri seria el pez mojon
+[02:20:10] [Async Chat Thread - #72/INFO]: [Not Secure] <Gatunixdd> XDDDDDDDD
+[02:21:01] [Server thread/INFO]: iRagc has made the advancement [UNLIMITED POWER!!!]
+[02:21:29] [Async Chat Thread - #73/INFO]: [Not Secure] <qSeren> bro me cargan tanto los chunks
+[02:21:32] [Async Chat Thread - #74/INFO]: [Not Secure] <qSeren> una porcion de bastion flotante
+[02:21:35] [Async Chat Thread - #74/INFO]: [Not Secure] <Gatunixdd> XDDDDDDDDDD
+[02:22:01] [Server thread/INFO]: iRagc has reached the goal [Ceci n'est pas un blaze]
+[02:22:01] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/86672, uuid='2ef86f6f-1b89-41fa-9a31-1c01d17dd386', l='ServerLevel[world_nether]', x=162.69, y=50.48, z=-253.65, cpos=[10, -16], tl=18085, v=true] died: Pipeline Sentry was slain by iRagc
+[02:22:28] [Server thread/WARN]: iRagc moved wrongly!
+[02:22:46] [Async Chat Thread - #75/INFO]: [Not Secure] <Gatunixdd> YO VOY A PERU Y ME ALABAN POR VER A ALGUIEN DE COLOR BLANCO GGZ
+[02:23:03] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/86699, uuid='d5478cc5-29c3-46b0-98d5-349daf102d1c', l='ServerLevel[world_nether]', x=48.85, y=34.00, z=-289.70, cpos=[3, -19], tl=13101, v=true] died: Pipeline Sentry was slain by iRagc
+[02:23:43] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/87809, uuid='1b569871-3588-405a-87f9-a7129530b4b6', l='ServerLevel[world_nether]', x=36.83, y=34.00, z=-297.47, cpos=[2, -19], tl=10711, v=true] died: Pipeline Sentry was slain by iRagc
+[02:24:03] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> si bro llueve lava
+[02:24:08] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> si no tienes casco hace daño mira
+[02:24:10] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> saquenselo por 3 segundos
+[02:24:12] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/87814, uuid='dc6c2167-23c4-49fc-8251-7ffe61f1ea19', l='ServerLevel[world_nether]', x=36.30, y=34.00, z=-273.27, cpos=[2, -18], tl=12880, v=true] died: Pipeline Sentry was slain by iRagc
+[02:24:17] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/83450, uuid='e810b20a-4c38-4247-bf37-a4309f3d05c5', l='ServerLevel[world_nether]', x=3993.79, y=36.00, z=495.48, cpos=[249, 30], tl=19843, v=true] died: Sanctum Protector burned to death
+[02:24:17] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/83452, uuid='c4438fd4-b484-42cd-9201-6b528950ebb3', l='ServerLevel[world_nether]', x=4015.51, y=32.00, z=516.50, cpos=[250, 32], tl=28830, v=true] died: Sanctum Protector burned to death
+[02:24:19] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83230, uuid='6eca3b3a-07d5-4853-9d1f-585d982e9b16', l='ServerLevel[world_nether]', x=4006.42, y=62.50, z=568.45, cpos=[250, 35], tl=28940, v=true] died: Sanctum Cultist burned to death
+[02:24:20] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/88586, uuid='2d7a49b0-2f75-474c-b725-94f2037391b7', l='ServerLevel[world_nether]', x=4019.27, y=36.00, z=509.39, cpos=[251, 31], tl=19747, v=true] died: Sanctum Protector burned to death
+[02:24:29] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> no}
+[02:24:31] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83239, uuid='a2622f4b-f731-4634-a370-a92efd8d34d0', l='ServerLevel[world_nether]', x=4006.95, y=63.00, z=577.61, cpos=[250, 36], tl=23716, v=true] died: Sanctum Cultist burned to death
+[02:24:31] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> no sacavida del casco
+[02:24:34] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/88701, uuid='9da1ee4b-6322-46cb-8254-a07c2625f864', l='ServerLevel[world_nether]', x=4024.45, y=43.00, z=538.79, cpos=[251, 33], tl=31698, v=true] died: Sanctum Cultist burned to death
+[02:24:35] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83236, uuid='d326ddfe-e018-406c-8380-c06287ea04eb', l='ServerLevel[world_nether]', x=4013.54, y=66.00, z=587.84, cpos=[250, 36], tl=23750, v=true] died: Sanctum Cultist burned to death
+[02:24:39] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/83228, uuid='04cb5cea-f79b-4c2a-8bcb-332b6d9f946c', l='ServerLevel[world_nether]', x=4006.52, y=62.50, z=579.21, cpos=[250, 36], tl=27273, v=true] died: Sanctum Cultist burned to death
+[02:24:42] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/88700, uuid='8ff8c13b-0130-4679-b477-9b97d4ed26fd', l='ServerLevel[world_nether]', x=4013.16, y=44.00, z=546.43, cpos=[250, 34], tl=32681, v=true] died: Sanctum Cultist burned to death
+[02:25:21] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> no
+[02:25:31] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> entonces es una custom
+[02:25:34] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> pero no elimina las og
+[02:25:53] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> Gatunixdd en cada torre
+[02:25:54] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> puedes bajar
+[02:25:57] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> y tienes loot
+[02:26:05] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> puedes bajar como 7 veces
+[02:26:06] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> croe
+[02:26:06] [Server thread/INFO]: Gatunixdd has made the advancement [Those Were the Days]
+[02:26:21] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> XDDD
+[02:26:51] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/56535, uuid='cc5ef985-23a4-41ce-9c40-bfcff687fe8f', l='ServerLevel[world_nether]', x=119.44, y=36.08, z=-243.30, cpos=[7, -16], tl=29635, v=true] died: Pipeline Sentry was slain by iRagc
+[02:27:05] [Server thread/INFO]: Gatunixdd has made the advancement [War Pigs]
+[02:27:06] [Server thread/INFO]: Gatunixdd has made the advancement [Hidden in the Depths]
+[02:27:17] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> hiddfen in themjonjes
+[02:28:01] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> se siente mas lindo explorar
+[02:28:02] [Async Chat Thread - #78/INFO]: [Not Secure] <qSeren> o no?
+[02:28:07] [Server thread/INFO]: Gatunixdd has made the advancement [Who is Cutting Onions?]
+[02:28:09] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/86696, uuid='4828111f-3748-4e51-aef3-37d9dde98f5f', l='ServerLevel[world_nether]', x=92.43, y=21.00, z=-275.87, cpos=[5, -18], tl=28851, v=true] died: Pipeline Sentry was slain by iRagc
+[02:28:12] [Async Chat Thread - #78/INFO]: [Not Secure] <qSeren> antes que minar netherite como downs
+[02:28:42] [Async Chat Thread - #78/INFO]: [Not Secure] <qSeren> gpordo brutality
+[02:28:50] [Async Chat Thread - #78/INFO]: [Not Secure] <qSeren> broa
+[02:28:55] [Async Chat Thread - #78/INFO]: [Not Secure] <qSeren> no encuentro forbidden castle
+[02:28:56] [Async Chat Thread - #78/INFO]: [Not Secure] <qSeren> me suicido
+[02:28:56] [Async Chat Thread - #78/INFO]: [Not Secure] <qSeren> si
+[02:29:57] [Async Chat Thread - #79/INFO]: [Not Secure] <qSeren> XDDD
+[02:30:15] [Async Chat Thread - #79/INFO]: [Not Secure] <qSeren> bro adri no habia forbiddfen castle
+[02:30:16] [Async Chat Thread - #79/INFO]: [Not Secure] <qSeren> me sucidio
+[02:30:45] [Async Chat Thread - #79/INFO]: [Not Secure] <qSeren> no lo voy a hacer bro
+[02:30:50] [Async Chat Thread - #79/INFO]: [Not Secure] <qSeren> hasta mañana y un poco mas
+[02:30:54] [Server thread/INFO]: iRagc tried to swim in lava
+[02:30:58] [Async Chat Thread - #79/INFO]: [Not Secure] <qSeren> BRO
+[02:30:59] [Async Chat Thread - #79/INFO]: [Not Secure] <qSeren> MI PUTA PERLA
+[02:31:01] [Async Chat Thread - #79/INFO]: [Not Secure] <qSeren> SE QUEDA FLOTANDO
+[02:31:24] [Async Chat Thread - #80/INFO]: [Not Secure] <qSeren> bro a rag le dije como robe el huevo
+[02:31:45] [Async Chat Thread - #80/INFO]: [Not Secure] <qSeren> como asi
+[02:31:48] [Async Chat Thread - #80/INFO]: [Not Secure] <qSeren> hacertela tu hogar
+[02:31:54] [Async Chat Thread - #80/INFO]: [Not Secure] <qSeren> si bro
+[02:32:11] [Async Chat Thread - #80/INFO]: [Not Secure] <qSeren> que se note que es una casa igual
+[02:32:28] [Async Chat Thread - #80/INFO]: [Not Secure] <qSeren> si
+[02:32:37] [Async Chat Thread - #80/INFO]: [Not Secure] <Gatunixdd> afk
+[02:32:37] [Server thread/INFO]: Gatunixdd lost connection: Disconnected
+[02:32:37] [Server thread/INFO]: [voicechat] Disconnecting client Gatunixdd
+[02:32:37] [Server thread/INFO]: Gatunixdd left the game
+[02:33:46] [Server thread/INFO]: iRagc lost connection: Disconnected
+[02:33:46] [Server thread/INFO]: [voicechat] Disconnecting client iRagc
+[02:33:46] [Server thread/INFO]: iRagc left the game
+[02:33:49] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> XD
+[02:33:52] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> 2 escudos de radiacion adri
+[02:34:12] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> es como
+[02:34:16] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> tiene unas murallas de blackstone gigante
+[02:34:18] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> te vas a dar cuenta
+[02:34:21] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> tiene adentro
+[02:34:22] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> cupulas
+[02:34:24] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> de todo
+[02:34:28] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> si
+[02:34:39] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> si te digo si a saiyan es porque si literal
+[02:34:43] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> la ciudad del puto dragon ball
+[02:34:49] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> si
+[02:34:53] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> hasta un reloj grande tiene
+[02:35:02] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> como el de reino unido
+[02:35:06] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> un data
+[02:35:24] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> XDD
+[02:35:35] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> no encuentro forbidden castle
+[02:35:48] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> nox?
+[02:35:57] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> amigo estaba poniendo un puto comando
+[02:35:58] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> y me mata
+[02:36:44] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> tengo el inv lleno
+[02:36:48] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> pasa tus cordes y ordenamos para jutarnos
+[02:37:01] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> posta?
+[02:37:18] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> todo positivo?
+[02:37:43] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> mi mejor server
+[02:38:02] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> se
+[02:38:10] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> sl.
+[02:38:11] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> solo 2
+[02:38:13] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> pero estoy buscando
+[02:38:17] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> forbidden castle
+[02:38:24] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> es lo mas importante
+[02:38:25] [Async Chat Thread - #82/INFO]: [Not Secure] <qSeren> esa meirda
