@@ -351,3 +351,13 @@
 [00:44:39] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/56829, uuid='02580d92-2311-46ce-b376-254c6371aa86', l='ServerLevel[world_nether]', x=132.86, y=50.64, z=-258.30, cpos=[8, -17], tl=19573, v=true] died: Pipeline Sentry was slain by lg_santiago_1
 [00:44:50] [Server thread/INFO]: TeeRobZti has made the advancement [Darude - Firestorm]
 [00:45:24] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[00:46:55] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/56176, uuid='d39bb212-e851-4ee4-bec4-46bb48a13c98', l='ServerLevel[world_nether]', x=38.70, y=51.20, z=-224.44, cpos=[2, -15], tl=13248, v=true] died: Pipeline Sentry was slain by lg_santiago_1
+[00:47:30] [Server thread/INFO]: lg_santiago_1 lost connection: Disconnected
+[00:47:30] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[00:47:30] [Server thread/INFO]: lg_santiago_1 left the game
+[00:53:02] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/66036, uuid='e3c18621-ba4e-440c-ab05-35787b4d7457', l='ServerLevel[world_nether]', x=-1470.60, y=38.03, z=2622.20, cpos=[-92, 163], tl=1031, v=true] died: Pipeline Sentry was shot by AdrianoLC
+[00:53:23] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/66037, uuid='7005d6d5-555e-4aeb-ad2b-294723d782f6', l='ServerLevel[world_nether]', x=-1460.56, y=34.00, z=2634.00, cpos=[-92, 164], tl=1440, v=true] died: Pipeline Sentry was shot by AdrianoLC
+[00:53:44] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/66064, uuid='5ef4bbb3-9fcf-4409-8dc7-be272ad33586', l='ServerLevel[world_nether]', x=-1495.15, y=34.36, z=2640.30, cpos=[-94, 165], tl=1493, v=true] died: Pipeline Sentry was slain by AdrianoLC
+[00:54:04] [Server thread/INFO]: Named entity Blaze['Pipeline Sentry'/66090, uuid='5f787101-e415-4443-85a4-0786c9d77b38', l='ServerLevel[world_nether]', x=-1516.70, y=35.52, z=2629.30, cpos=[-95, 164], tl=1777, v=true] died: Pipeline Sentry was shot by AdrianoLC
+[00:56:10] [Server thread/INFO]: TeeRobZti issued server command: /skin set lobi_mdm
+[00:56:11] [Server thread/INFO]: AdrianoLC has made the advancement [Ancient Battlefield]
