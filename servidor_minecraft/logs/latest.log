@@ -1073,3 +1073,22 @@
 [03:19:08] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/95439, uuid='fa59937b-3593-4969-8daa-6789b1017f8c', l='ServerLevel[world_nether]', x=-6069.22, y=64.00, z=1457.25, cpos=[-380, 91], tl=455, v=true] died: Piglin Paratrooper went off with a bang due to a firework fired from [Holy Wrath] by AdrianoLC
 [03:19:49] [Server thread/INFO]: AdrianoLC issued server command: /msg qSeren
 [03:19:56] [Server thread/INFO]: AdrianoLC issued server command: /msg qSeren -6085 83 1381
+[03:21:00] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=112}
+[03:21:00] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=121}
+[03:21:00] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=112}
+[03:21:00] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=121}
+[03:21:02] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-195, y=-53, z=95}
+[03:21:02] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=112}
+[03:21:02] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=121}
+[03:21:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-197, y=-53, z=89}
+[03:23:19] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=303, y=98, z=248}
+[03:23:23] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[03:24:44] [Server thread/INFO]: Gatunixdd tried to swim in lava
+[03:24:45] [Server thread/INFO]: iRagc tried to swim in lava
+[03:25:58] [Server thread/INFO]: iRagc has made the advancement [Hidden in the Depths]
+[03:27:51] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC -3250 62 1060
+[03:29:49] [Async Chat Thread - #113/INFO]: [Not Secure] <qSeren> ruinas de la jungla
+[03:29:50] [Async Chat Thread - #113/INFO]: [Not Secure] <qSeren> pelotudo
+[03:29:54] [Async Chat Thread - #113/INFO]: [Not Secure] <qSeren> claro los peces hacen fotosintesis
+[03:30:02] [Async Chat Thread - #113/INFO]: [Not Secure] <Gatunixdd> XD
+[03:30:29] [Async Chat Thread - #113/INFO]: [Not Secure] <qSeren> si porqu8e vino mara

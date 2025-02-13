@@ -3986,80 +3986,85 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-02-13 03:19:33 +0000",
-      "log_spam_fixer": "2025-02-13 03:19:05 +0000"
+      "log_spam_fixer": "2025-02-13 03:29:05 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 03:19:05 +0000"
+      "log_spam_fixer": "2025-02-13 03:29:05 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 03:19:05 +0000"
+      "log_spam_fixer": "2025-02-13 03:29:05 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 03:19:05 +0000"
+      "log_spam_fixer": "2025-02-13 03:29:05 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 03:19:05 +0000"
+      "log_spam_fixer": "2025-02-13 03:29:05 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 03:19:05 +0000"
+      "log_spam_fixer": "2025-02-13 03:29:05 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 03:19:05 +0000"
+      "log_spam_fixer": "2025-02-13 03:29:05 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 03:19:05 +0000"
+      "log_spam_fixer": "2025-02-13 03:29:05 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 03:19:05 +0000"
+      "log_spam_fixer": "2025-02-13 03:29:05 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 03:19:05 +0000"
+      "log_spam_fixer": "2025-02-13 03:29:05 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 03:19:05 +0000"
+      "log_spam_fixer": "2025-02-13 03:29:05 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 03:19:05 +0000"
+      "log_spam_fixer": "2025-02-13 03:29:05 +0000"
     },
     "done": false
   },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-02-13 02:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-13 03:25:04 +0000"
     },
     "done": true
   },
@@ -4105,6 +4110,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-13 03:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-13 03:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-02-13 03:18:06 +0000"
@@ -4144,6 +4161,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-02-13 02:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-13 03:25:04 +0000"
     },
     "done": true
   },
