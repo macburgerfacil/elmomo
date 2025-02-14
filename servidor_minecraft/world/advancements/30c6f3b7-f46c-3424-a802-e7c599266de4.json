@@ -938,6 +938,7 @@
       "beef": "2025-02-08 23:36:57 +0000",
       "porkchop": "2025-02-10 02:48:14 +0000",
       "golden_carrot": "2025-02-09 01:06:48 +0000",
+      "apple": "2025-02-14 03:06:18 +0000",
       "cooked_chicken": "2025-02-08 23:36:31 +0000",
       "cooked_cod": "2025-02-07 23:51:39 +0000",
       "cooked_salmon": "2025-02-10 23:35:35 +0000"
@@ -4367,77 +4368,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:nether/netherite_armor": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 02:28:21 +0000"
+      "netherite_armor": "2025-02-14 02:20:29 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 02:28:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 02:28:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 02:28:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 02:28:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 02:28:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 02:28:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 02:28:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 02:28:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 02:28:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 02:28:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 02:28:21 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
@@ -4451,11 +4386,77 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "netherite_armor": "2025-02-14 02:20:29 +0000"
+      "log_spam_fixer": "2025-02-14 03:08:21 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 03:08:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 03:08:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 03:08:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 03:08:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 03:08:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 03:08:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 03:08:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 03:08:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 03:08:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 03:08:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 03:08:21 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
