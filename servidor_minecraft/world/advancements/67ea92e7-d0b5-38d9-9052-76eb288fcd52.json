@@ -1296,6 +1296,7 @@
       "minecraft:witch": "2025-02-09 02:55:33 +0000",
       "minecraft:wither_skeleton": "2025-02-12 23:49:52 +0000",
       "minecraft:husk": "2025-02-10 03:12:46 +0000",
+      "minecraft:hoglin": "2025-02-14 00:59:41 +0000",
       "minecraft:cave_spider": "2025-02-10 00:56:33 +0000",
       "minecraft:piglin": "2025-02-14 00:37:23 +0000",
       "minecraft:guardian": "2025-02-12 23:27:13 +0000",
@@ -4311,76 +4312,82 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:54:14 +0000"
+      "log_spam_fixer": "2025-02-14 01:04:18 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:54:14 +0000"
+      "log_spam_fixer": "2025-02-14 01:04:18 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:54:14 +0000"
+      "log_spam_fixer": "2025-02-14 01:04:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-02-14 00:54:27 +0000",
-      "log_spam_fixer": "2025-02-14 00:54:14 +0000"
+      "requirement": "2025-02-14 01:04:45 +0000",
+      "log_spam_fixer": "2025-02-14 01:04:18 +0000"
     },
     "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:54:14 +0000"
+      "log_spam_fixer": "2025-02-14 01:04:18 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:54:14 +0000"
+      "log_spam_fixer": "2025-02-14 01:04:18 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:54:14 +0000"
+      "log_spam_fixer": "2025-02-14 01:04:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:54:14 +0000"
+      "log_spam_fixer": "2025-02-14 01:04:18 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:54:14 +0000"
+      "log_spam_fixer": "2025-02-14 01:04:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:54:14 +0000"
+      "log_spam_fixer": "2025-02-14 01:04:18 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:54:14 +0000"
+      "log_spam_fixer": "2025-02-14 01:04:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:54:14 +0000"
+      "log_spam_fixer": "2025-02-14 01:04:18 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-14 00:58:18 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
@@ -4422,6 +4429,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-02-14 00:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-14 00:54:50 +0000"
     },
     "done": true
   },
@@ -4512,6 +4525,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-14 00:22:06 +0000"
+    },
+    "done": true
+  },
+  "geyser:geyser_block": {
+    "criteria": {
+      "unlocked": "2025-02-14 00:58:18 +0000"
     },
     "done": true
   },
