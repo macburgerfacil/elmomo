@@ -3397,13 +3397,13 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 02:26:21 +0000"
+      "log_spam_fixer": "2025-02-14 02:36:21 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 02:26:21 +0000"
+      "log_spam_fixer": "2025-02-14 02:36:21 +0000"
     },
     "done": false
   },
@@ -3427,7 +3427,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 02:26:21 +0000"
+      "log_spam_fixer": "2025-02-14 02:36:21 +0000"
     },
     "done": false
   },
@@ -3439,10 +3439,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-02-14 02:26:22 +0000",
-      "log_spam_fixer": "2025-02-14 02:26:21 +0000"
+      "log_spam_fixer": "2025-02-14 02:36:21 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
@@ -3452,13 +3451,13 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 02:26:21 +0000"
+      "log_spam_fixer": "2025-02-14 02:36:21 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 02:26:21 +0000"
+      "log_spam_fixer": "2025-02-14 02:36:21 +0000"
     },
     "done": false
   },
@@ -3470,7 +3469,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 02:26:21 +0000"
+      "log_spam_fixer": "2025-02-14 02:36:21 +0000"
     },
     "done": false
   },
@@ -3482,7 +3481,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 02:26:21 +0000"
+      "log_spam_fixer": "2025-02-14 02:36:21 +0000"
     },
     "done": false
   },
@@ -3512,7 +3511,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 02:26:21 +0000"
+      "log_spam_fixer": "2025-02-14 02:36:21 +0000"
     },
     "done": false
   },
@@ -3524,7 +3523,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 02:26:21 +0000"
+      "log_spam_fixer": "2025-02-14 02:36:21 +0000"
     },
     "done": false
   },
@@ -3534,15 +3533,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-02-14 02:28:13 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 02:26:21 +0000"
+      "log_spam_fixer": "2025-02-14 02:36:21 +0000"
     },
     "done": false
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-02-14 02:31:52 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 02:26:21 +0000"
+      "log_spam_fixer": "2025-02-14 02:36:21 +0000"
     },
     "done": false
   },
