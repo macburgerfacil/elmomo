@@ -264,3 +264,83 @@
 [00:24:10] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/16197, uuid='f19afc61-ac1d-4964-8e6c-57d2c9f87770', l='ServerLevel[world_nether]', x=-3675.75, y=45.00, z=-9422.20, cpos=[-230, -589], tl=3684, v=true] died: Sanctum Protector was shot by thenoxplayer
 [00:24:11] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16177, uuid='cfa94756-7349-408e-b7cc-4f03dcf3eeee', l='ServerLevel[world_nether]', x=-3679.50, y=45.00, z=-9425.59, cpos=[-230, -590], tl=3764, v=true] died: Sanctum Cultist was shot by thenoxplayer
 [00:24:15] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16414, uuid='002a364d-7c4b-4ed4-b6d6-a0df6c0b0d99', l='ServerLevel[world_nether]', x=-3668.84, y=43.00, z=-9429.74, cpos=[-230, -590], tl=3851, v=true] died: Sanctum Cultist was slain by thenoxplayer
+[00:24:18] [Server thread/INFO]: Named entity Pillager['Sanctum Apostle'/16430, uuid='9f43cf4e-011a-40f4-9441-1bb542cb285a', l='ServerLevel[world_nether]', x=-3675.79, y=45.00, z=-9423.21, cpos=[-230, -589], tl=4509, v=true] died: Sanctum Apostle was slain by thenoxplayer
+[00:24:18] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16184, uuid='9aa5d33e-a5b1-4ac2-8c0d-eef8d12529a3', l='ServerLevel[world_nether]', x=-3656.88, y=68.00, z=-9414.86, cpos=[-229, -589], tl=3909, v=true] died: Sanctum Cultist burned to death
+[00:24:19] [Server thread/INFO]: TeeRobZti joined the game
+[00:24:19] [Server thread/INFO]: TeeRobZti[/100.127.70.41:58302] logged in with entity id 17263 at ([world]1897.699999988079, 85.875, -349.30000001192093)
+[00:24:21] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[00:24:21] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[00:24:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[00:24:22] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16403, uuid='00546ecb-d290-4fae-988b-1d464d359eb1', l='ServerLevel[world_nether]', x=-3667.34, y=45.00, z=-9423.34, cpos=[-230, -589], tl=3984, v=true] died: Sanctum Cultist was slain by thenoxplayer
+[00:24:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[00:24:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[00:24:32] [Paper Common Worker #0/WARN]: Empty height range: [-20 absolute-5 above bottom]
+[00:24:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4603ms or 92 ticks behind
+[00:24:36] [Server thread/WARN]: Gatunixdd moved too quickly! -9.908764407750567,-1.5047991229940862,0.39057660641492475
+[00:24:36] [Async Chat Thread - #29/INFO]: [Not Secure] <iRagc> asd
+[00:24:37] [Async Chat Thread - #29/INFO]: [Not Secure] <Gatunixdd> ads
+[00:24:38] [Paper Common Worker #0/WARN]: Empty height range: [-20 absolute-5 above bottom]
+[00:24:38] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16186, uuid='54562846-fd7c-4ce2-8903-ef324714e9a6', l='ServerLevel[world_nether]', x=-3673.54, y=49.64, z=-9408.34, cpos=[-230, -589], tl=3784, v=true] died: Sanctum Cultist was slain by thenoxplayer
+[00:24:40] [Server thread/INFO]: Named entity Pillager['Sanctum Apostle'/16036, uuid='0ff79790-70ce-4107-b1a4-7ccd890e6a9c', l='ServerLevel[world_nether]', x=-3674.20, y=49.00, z=-9407.92, cpos=[-230, -588], tl=3515, v=true] died: Sanctum Apostle was slain by thenoxplayer
+[00:24:40] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16176, uuid='918bf485-0858-4af1-93cf-a7f3ed651265', l='ServerLevel[world_nether]', x=-3673.60, y=49.00, z=-9406.30, cpos=[-230, -588], tl=3717, v=true] died: Sanctum Cultist was shot by Sanctum Apostle
+[00:24:42] [Async Chat Thread - #29/INFO]: [Not Secure] <TeeRobZti> asdad
+[00:24:43] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16206, uuid='675e3532-2218-4ded-8273-42a10450207a', l='ServerLevel[world_nether]', x=-3670.61, y=49.00, z=-9408.78, cpos=[-230, -589], tl=4191, v=true] died: Sanctum Cultist was slain by thenoxplayer
+[00:24:44] [Server thread/INFO]: Named entity Pillager['Sanctum Apostle'/16208, uuid='f9867844-1fd0-4500-9295-de0b908756f5', l='ServerLevel[world_nether]', x=-3675.66, y=49.00, z=-9406.42, cpos=[-230, -588], tl=4212, v=true] died: Sanctum Apostle was slain by thenoxplayer
+[00:24:45] [Server thread/INFO]: Named entity Pillager['Sanctum Apostle'/16038, uuid='8e00f8e2-41ba-488c-8827-7ffefd96fe85', l='ServerLevel[world_nether]', x=-3672.65, y=49.00, z=-9409.07, cpos=[-230, -589], tl=4291, v=true] died: Sanctum Apostle was slain by thenoxplayer
+[00:24:48] [Server thread/INFO]: Named entity Evoker['Sanctum Ritualist'/16037, uuid='2ddf3838-99e6-40a2-b904-0de2a6e826f1', l='ServerLevel[world_nether]', x=-3710.95, y=32.50, z=-9412.87, cpos=[-232, -589], tl=4355, v=true] died: Sanctum Ritualist burned to death
+[00:24:56] [Async Chat Thread - #29/INFO]: [Not Secure] <TeeRobZti> qSeren
+[00:24:58] [Async Chat Thread - #29/INFO]: [Not Secure] <TeeRobZti> entra vc
+[00:25:00] [Async Chat Thread - #29/INFO]: [Not Secure] <TeeRobZti> negro
+[00:25:01] [Server thread/INFO]: Named entity Ravager['Sanctum Ravager'/16341, uuid='1688e396-4880-43f2-bcd2-e2ff4c221dd0', l='ServerLevel[world_nether]', x=-3674.25, y=34.00, z=-9423.71, cpos=[-230, -589], tl=5974, v=true] died: Sanctum Ravager burned to death
+[00:25:01] [Async Chat Thread - #29/INFO]: [Not Secure] <TeeRobZti> feo
+[00:25:03] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/11832, uuid='4d84785d-0281-45f4-8453-c27ca4fdfb36', l='ServerLevel[world_nether]', x=-7507.05, y=45.00, z=3050.05, cpos=[-470, 190], tl=60116, v=true] died: Piglin Knight was slain by qSeren
+[00:25:14] [Server thread/INFO]: Named entity WitherSkeleton['Radiation Director'/15653, uuid='7236b128-8a14-4f25-a29c-4787cfbb7b8a', l='ServerLevel[world_nether]', x=229.97, y=32.00, z=607.65, cpos=[14, 37], tl=7014, v=true] died: Radiation Director was slain by iRagc
+[00:25:19] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16215, uuid='ae59295b-3460-497e-b25a-5608cfca4c08', l='ServerLevel[world_nether]', x=-3689.20, y=67.50, z=-9405.85, cpos=[-231, -588], tl=4900, v=true] died: Sanctum Cultist was burned to a crisp while fighting thenoxplayer
+[00:25:19] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/16207, uuid='242f0937-7a0c-4e25-9c97-2f5c30025777', l='ServerLevel[world_nether]', x=-3689.04, y=67.00, z=-9411.46, cpos=[-231, -589], tl=4919, v=true] died: Sanctum Protector was slain by thenoxplayer
+[00:25:21] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16210, uuid='8b539dd7-15cb-424d-9abb-ccb131dedc72', l='ServerLevel[world_nether]', x=-3683.02, y=67.00, z=-9408.35, cpos=[-231, -589], tl=4310, v=true] died: Sanctum Cultist was slain by thenoxplayer
+[00:25:23] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16213, uuid='eecf022d-6479-488e-a702-c4f1327bbcf2', l='ServerLevel[world_nether]', x=-3681.78, y=67.00, z=-9407.70, cpos=[-231, -588], tl=4994, v=true] died: Sanctum Cultist was slain by thenoxplayer
+[00:25:26] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16035, uuid='5f1e9ba5-4567-4fa7-ba64-ebff7c3591a2', l='ServerLevel[world_nether]', x=-3664.51, y=68.81, z=-9411.70, cpos=[-230, -589], tl=5169, v=true] died: Sanctum Cultist burned to death
+[00:25:33] [Server thread/INFO]: TeeRobZti has reached the goal [Strengthened by Fire]
+[00:25:45] [User Authenticator #8/INFO]: UUID of player Torre22932 is df10c331-a0c1-39a5-8288-c551ff673086
+[00:25:49] [Server thread/INFO]: Torre22932 joined the game
+[00:25:49] [Server thread/INFO]: Torre22932[/100.79.135.100:60252] logged in with entity id 17755 at ([world]1699.9544971754224, 82.0, 1188.0956489622902)
+[00:25:49] [Server thread/INFO]: [voicechat] Received secret request of Torre22932 (18)
+[00:25:49] [Server thread/INFO]: [voicechat] Sent secret to Torre22932
+[00:25:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player df10c331-a0c1-39a5-8288-c551ff673086
+[00:25:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player df10c331-a0c1-39a5-8288-c551ff673086
+[00:25:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Torre22932 (df10c331-a0c1-39a5-8288-c551ff673086) successfully connected to voice chat
+[00:26:08] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/16183, uuid='a39356dc-f434-4110-b4d3-04a191bab2e7', l='ServerLevel[world_nether]', x=-3661.13, y=49.00, z=-9408.26, cpos=[-229, -589], tl=5334, v=true] died: Sanctum Protector was slain by thenoxplayer
+[00:26:12] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/16180, uuid='bc6cd6a2-df46-4c89-b629-eb1177e59a9e', l='ServerLevel[world_nether]', x=-3657.30, y=49.00, z=-9406.30, cpos=[-229, -588], tl=6078, v=true] died: Sanctum Protector was slain by thenoxplayer
+[00:26:16] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/16041, uuid='7404ca8d-353f-4419-8769-9bfeb330714f', l='ServerLevel[world_nether]', x=-3709.19, y=33.50, z=-9416.82, cpos=[-232, -589], tl=5920, v=true] died: Sanctum Inquisitor burned to death
+[00:26:24] [Server thread/INFO]: Named entity Illusioner['Sanctum Illusionist'/16194, uuid='7ea7d3e1-5e87-420e-91d9-61de140b0f5d', l='ServerLevel[world_nether]', x=-3673.70, y=45.00, z=-9413.53, cpos=[-230, -589], tl=6284, v=true] died: Sanctum Illusionist was slain by thenoxplayer
+[00:26:46] [Server thread/INFO]: Named entity Evoker['Sanctum Ritualist'/16182, uuid='f0d8ec9d-4b34-442a-885f-13c3a2eec807', l='ServerLevel[world_nether]', x=-3655.52, y=71.00, z=-9411.34, cpos=[-229, -589], tl=6769, v=true] died: Sanctum Ritualist burned to death
+[00:27:25] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16532, uuid='ee81e8b3-8427-4567-80df-094c649d6a89', l='ServerLevel[world_nether]', x=-3656.27, y=43.00, z=-9489.73, cpos=[-229, -594], tl=8701, v=true] died: Sanctum Cultist burned to death
+[00:27:30] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/18245, uuid='bc007d6a-2248-4538-8365-f15e3b88ba95', l='ServerLevel[world_nether]', x=-7690.98, y=55.42, z=3429.15, cpos=[-481, 214], tl=8569, v=true] died: Piglin Paratrooper burned to death
+[00:27:31] [Server thread/INFO]: Named entity PiglinBrute['Piglin Archer'/18230, uuid='67fd3e22-5f0c-4e88-a044-daec0bc70df1', l='ServerLevel[world_nether]', x=-7678.08, y=37.00, z=3458.59, cpos=[-480, 216], tl=20580, v=true] died: Piglin Archer burned to death
+[00:27:32] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16527, uuid='2f2b9c67-0d05-4113-832f-7dbddcca8dd9', l='ServerLevel[world_nether]', x=-3686.90, y=67.00, z=-9482.55, cpos=[-231, -593], tl=7338, v=true] died: Sanctum Cultist was slain by thenoxplayer
+[00:27:37] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16544, uuid='73aa8c27-1dc4-4da7-b90c-ab85780a0834', l='ServerLevel[world_nether]', x=-3684.07, y=68.00, z=-9491.01, cpos=[-231, -594], tl=8964, v=true] died: Sanctum Cultist was burned to a crisp while fighting thenoxplayer
+[00:27:40] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16435, uuid='6027179f-ff46-4ec5-8e8c-bc22ad24c4d3', l='ServerLevel[world_nether]', x=-3684.53, y=57.00, z=-9490.79, cpos=[-231, -594], tl=9098, v=true] died: Sanctum Cultist was slain by thenoxplayer
+[00:27:41] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/18166, uuid='bab587e3-0bcb-47a1-927c-533f6a370cfc', l='ServerLevel[world_nether]', x=-7646.50, y=62.00, z=3435.73, cpos=[-478, 214], tl=16215, v=true] died: Piglin Paratrooper was slain by qSeren using [Blazing Hatchet]
+[00:28:20] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/18308, uuid='97cdae51-609c-4d89-9620-ca6b1c4d349f', l='ServerLevel[world_nether]', x=-7649.47, y=55.00, z=3501.25, cpos=[-479, 218], tl=21563, v=true] died: Piglin Paratrooper burned to death
+[00:28:41] [Server thread/INFO]: qSeren issued server command: /clear TeeRobZti brown_dye
+[00:28:41] [Server thread/INFO]: [qSeren: Removed 1 item(s) from player TeeRobZti]
+[00:28:48] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16333, uuid='fb7dff38-3259-4ee1-9ca0-d94d2734b4e9', l='ServerLevel[world_nether]', x=-3673.70, y=36.00, z=-9491.70, cpos=[-230, -594], tl=9696, v=true] died: Sanctum Cultist burned to death
+[00:28:52] [Server thread/INFO]: qSeren issued server command: /loot give TeeRobZti loot incendium:artifact/patron/scroll_of_returning
+[00:29:08] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/16209, uuid='43798f5d-15e4-48c8-bf29-46f9c1add2ea', l='ServerLevel[world_nether]', x=-3678.29, y=45.00, z=-9416.29, cpos=[-230, -589], tl=8283, v=true] died: Sanctum Protector was slain by thenoxplayer
+[00:29:12] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/16211, uuid='df79e03e-c9b3-47f7-91f6-3b7795d44506', l='ServerLevel[world_nether]', x=-3681.70, y=45.00, z=-9413.30, cpos=[-231, -589], tl=7907, v=true] died: Sanctum Protector was slain by thenoxplayer
+[00:29:13] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/16193, uuid='c74d7ead-d52b-4bf1-8123-ba967efa8ad1', l='ServerLevel[world_nether]', x=-3677.66, y=45.00, z=-9413.23, cpos=[-230, -589], tl=7135, v=true] died: Sanctum Protector was slain by thenoxplayer
+[00:29:31] [Server thread/INFO]: qSeren issued server command: /msg thenoxplayer /msg -7582 32 3480
+[00:29:33] [Server thread/INFO]: qSeren issued server command: /tp thenoxplayer
+[00:29:33] [Server thread/INFO]: [qSeren: Teleported qSeren to thenoxplayer]
+[00:30:24] [Async Chat Thread - #32/INFO]: [Not Secure] <TeeRobZti> que tal chicos
+[00:30:38] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/16529, uuid='f5f2d9b5-0eb5-472c-bebd-1be10b5e7e5e', l='ServerLevel[world_nether]', x=-3680.70, y=36.28, z=-9483.11, cpos=[-231, -593], tl=12802, v=true] died: Sanctum Inquisitor was slain by thenoxplayer using [Blazing Hatchet]
+[00:30:39] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/16488, uuid='09a950c7-9f6b-480a-b05b-e85beb62f123', l='ServerLevel[world_nether]', x=-3675.40, y=34.00, z=-9480.39, cpos=[-230, -593], tl=12710, v=true] died: Sanctum Inquisitor was slain by qSeren using [Blazing Hatchet]
+[00:30:46] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/16525, uuid='77eaf86b-3932-43ca-b6ea-53061aa1799b', l='ServerLevel[world_nether]', x=-3675.51, y=34.00, z=-9480.62, cpos=[-230, -593], tl=12860, v=true] died: Sanctum Inquisitor was slain by qSeren using [Blazing Hatchet]
+[00:31:14] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/16524, uuid='7b79944a-b56e-49fc-9798-a3fe139a50cc', l='ServerLevel[world_nether]', x=-3708.56, y=36.00, z=-9471.71, cpos=[-232, -592], tl=13590, v=true] died: Sanctum Inquisitor was slain by qSeren using [Daybreaker]
+[00:31:17] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/16408, uuid='69dc73a1-b844-4620-b90b-a24895348e80', l='ServerLevel[world_nether]', x=-3667.37, y=37.00, z=-9448.81, cpos=[-230, -591], tl=13692, v=true] died: Sanctum Inquisitor went up in flames
+[00:31:36] [Async Chat Thread - #33/INFO]: [Not Secure] <Torre22932> cuando se activa el pvp
+[00:31:39] [Async Chat Thread - #33/INFO]: [Not Secure] <TeeRobZti> ya esta
+[00:31:41] [Async Chat Thread - #33/INFO]: [Not Secure] <Torre22932> que
+[00:31:45] [Async Chat Thread - #33/INFO]: [Not Secure] <Torre22932> qSeren
+[00:31:47] [Async Chat Thread - #33/INFO]: [Not Secure] <Torre22932> confirmame
+[00:32:00] [Async Chat Thread - #33/INFO]: [Not Secure] <TeeRobZti> dijo seren que si

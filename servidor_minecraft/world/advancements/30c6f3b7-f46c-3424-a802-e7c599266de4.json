@@ -994,11 +994,13 @@
       "minecraft:wither_skeleton": "2025-02-13 00:36:07 +0000",
       "minecraft:ravager": "2025-02-09 03:52:19 +0000",
       "minecraft:husk": "2025-02-09 01:15:02 +0000",
+      "minecraft:ghast": "2025-02-14 00:21:39 +0000",
       "minecraft:hoglin": "2025-02-13 03:08:59 +0000",
       "minecraft:piglin": "2025-02-13 02:24:30 +0000",
       "minecraft:guardian": "2025-02-12 23:26:21 +0000",
       "minecraft:vindicator": "2025-02-09 03:52:14 +0000",
       "minecraft:enderman": "2025-02-13 03:35:33 +0000",
+      "minecraft:magma_cube": "2025-02-14 00:21:29 +0000",
       "minecraft:spider": "2025-02-08 01:51:27 +0000",
       "minecraft:piglin_brute": "2025-02-12 23:33:46 +0000",
       "minecraft:vex": "2025-02-09 03:06:56 +0000",
@@ -4132,82 +4134,103 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-02-14 00:20:10 +0000",
-      "log_spam_fixer": "2025-02-14 00:20:10 +0000"
+      "requirement": "2025-02-14 00:30:40 +0000",
+      "log_spam_fixer": "2025-02-14 00:30:15 +0000"
     },
     "done": true
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:20:10 +0000"
+      "log_spam_fixer": "2025-02-14 00:30:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:20:10 +0000"
+      "log_spam_fixer": "2025-02-14 00:30:15 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:20:10 +0000"
+      "log_spam_fixer": "2025-02-14 00:30:15 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:20:10 +0000"
+      "log_spam_fixer": "2025-02-14 00:30:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:20:10 +0000"
+      "log_spam_fixer": "2025-02-14 00:30:15 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:20:10 +0000"
+      "log_spam_fixer": "2025-02-14 00:30:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:20:10 +0000"
+      "log_spam_fixer": "2025-02-14 00:30:15 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:20:10 +0000"
+      "log_spam_fixer": "2025-02-14 00:30:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:20:10 +0000"
+      "log_spam_fixer": "2025-02-14 00:30:15 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:20:10 +0000"
+      "log_spam_fixer": "2025-02-14 00:30:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:20:10 +0000"
+      "log_spam_fixer": "2025-02-14 00:30:15 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-14 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-14 00:23:57 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/mystic_wisdom": {
     "criteria": {
-      "junk": "2025-02-14 00:20:37 +0000"
+      "waste": "2025-02-14 00:21:09 +0000",
+      "office_treasure": "2025-02-14 00:25:53 +0000",
+      "junk": "2025-02-14 00:20:37 +0000",
+      "treasure": "2025-02-14 00:23:04 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-14 00:23:10 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/lead": {
     "criteria": {
@@ -4230,6 +4253,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-02-14 00:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-02-14 00:24:28 +0000"
     },
     "done": true
   },

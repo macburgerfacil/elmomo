@@ -4310,76 +4310,94 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:19:11 +0000"
+      "log_spam_fixer": "2025-02-14 00:34:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:19:11 +0000"
+      "log_spam_fixer": "2025-02-14 00:34:15 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:19:11 +0000"
+      "log_spam_fixer": "2025-02-14 00:34:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-02-14 00:19:30 +0000",
-      "log_spam_fixer": "2025-02-14 00:19:11 +0000"
+      "log_spam_fixer": "2025-02-14 00:34:15 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:19:11 +0000"
+      "log_spam_fixer": "2025-02-14 00:34:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:19:11 +0000"
+      "log_spam_fixer": "2025-02-14 00:34:15 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:19:11 +0000"
+      "log_spam_fixer": "2025-02-14 00:34:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:19:11 +0000"
+      "log_spam_fixer": "2025-02-14 00:34:15 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:19:11 +0000"
+      "log_spam_fixer": "2025-02-14 00:34:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:19:11 +0000"
+      "log_spam_fixer": "2025-02-14 00:34:15 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:19:11 +0000"
+      "log_spam_fixer": "2025-02-14 00:34:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 00:19:11 +0000"
+      "log_spam_fixer": "2025-02-14 00:34:15 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-14 00:22:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-02-14 00:24:07 +0000",
+      "office": "2025-02-14 00:24:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-14 00:22:12 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
@@ -4390,6 +4408,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-02-14 00:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-14 00:24:08 +0000"
     },
     "done": true
   },
@@ -4414,6 +4438,30 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-02-14 00:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-14 00:24:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:waste": "2025-02-14 00:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-14 00:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-14 00:24:08 +0000"
     },
     "done": true
   },
