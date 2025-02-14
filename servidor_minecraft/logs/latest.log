@@ -1199,3 +1199,89 @@ gamerule dokeepinventory false<--[HERE]
 [03:03:05] [Server thread/INFO]: iRagc was slain by lg_santiago_1
 [03:11:09] [Server thread/INFO]: lg_santiago_1 tried to swim in lava
 [03:15:11] [Server thread/INFO]: iRagc was slain by Gatunixdd
+[03:25:04] [Server thread/INFO]: lg_santiago_1 fell from a high place
+[03:26:02] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> ggz
+[03:26:16] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> XD
+[03:26:22] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> mas de 1.67 si mido xd
+[03:26:27] [Server thread/INFO]: [Not Secure] [Server] bro siguen jugando
+[03:26:30] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> si bro
+[03:26:31] [Server thread/INFO]: [Not Secure] [Server] tengo 90% del codespace gastado
+[03:26:32] [Async Chat Thread - #107/INFO]: [Not Secure] <lg_santiago_1> si
+[03:26:35] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> XDDDDD
+[03:26:36] [Server thread/INFO]: [Not Secure] [Server] puedo cerrar ahora asi hago los backups?
+[03:26:44] [Async Chat Thread - #107/INFO]: [Not Secure] <iRagc> :c
+[03:26:45] [Server thread/INFO]: [Not Secure] [Server] si se gasta el code al 100% no puedo conseguir el mundo
+[03:26:45] [Async Chat Thread - #107/INFO]: [Not Secure] <iRagc> no p
+[03:26:48] [Server thread/INFO]: [Not Secure] [Server] hasta el proximo mes
+[03:26:51] [Async Chat Thread - #107/INFO]: [Not Secure] <iRagc> pero
+[03:26:57] [Async Chat Thread - #107/INFO]: [Not Secure] <iRagc> ya hasta mañana?
+[03:26:57] [Server thread/INFO]: [Not Secure] [Server] pero nada
+[03:27:00] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> ya bro, dale nomas
+[03:27:00] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> ya bro, dale nomas
+[03:27:00] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> ya bro, dale nomas
+[03:27:02] [Server thread/INFO]: [Not Secure] [Server] es eso o rollback
+[03:27:07] [Server thread/INFO]: [Not Secure] [Server] horrible rolback
+[03:27:07] [Async Chat Thread - #107/INFO]: [Not Secure] <iRagc> yayaya
+[03:27:09] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> cerra p
+[03:27:11] [Async Chat Thread - #107/INFO]: [Not Secure] <iRagc> esta bien
+[03:27:12] [Server thread/INFO]: [Not Secure] [Server] mañana hago otra cuenta y abro 30m antes
+[03:27:14] [Server thread/INFO]: [Not Secure] [Server] para ustedes
+[03:27:15] [Server thread/INFO]: lg_santiago_1 lost connection: Disconnected
+[03:27:15] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[03:27:15] [Server thread/INFO]: lg_santiago_1 left the game
+[03:27:16] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> dale p
+[03:27:17] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> noches
+[03:27:22] [Server thread/INFO]: [Not Secure] [Server] 3
+[03:27:23] [Async Chat Thread - #107/INFO]: [Not Secure] <iRagc> se va a llamar
+[03:27:24] [Server thread/INFO]: [Not Secure] [Server] 2
+[03:27:26] [Async Chat Thread - #107/INFO]: [Not Secure] <iRagc> ragunpapucho
+[03:27:27] [Server thread/INFO]: [Not Secure] [Server] 1
+[03:27:27] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> 1
+[03:27:28] [Async Chat Thread - #107/INFO]: [Not Secure] <iRagc> no te olvides
+[03:27:28] [Server thread/INFO]: [Not Secure] [Server] si bro
+[03:27:28] [Async Chat Thread - #107/INFO]: [Not Secure] <Gatunixdd> gg
+[03:27:29] [Async Chat Thread - #107/INFO]: [Not Secure] <iRagc> 2
+[03:27:30] [Server thread/INFO]: Stopping the server
+[03:27:30] [Server thread/INFO]: Stopping server
+[03:27:30] [Server thread/INFO]: [FastChunkPregenerator] Disabling FastChunkPregenerator v2.0.9-SNAPSHOT
+[03:27:30] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
+[03:27:30] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[03:27:30] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[03:27:30] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[03:27:30] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[03:27:30] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[03:27:30] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[03:27:30] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.7.10.0
+[03:27:30] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
+[03:27:30] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[03:27:30] [Server thread/INFO]: Saving players
+[03:27:30] [Server thread/INFO]: Gatunixdd lost connection: Server closed
+[03:27:30] [Server thread/INFO]: Gatunixdd left the game
+[03:27:30] [Server thread/INFO]: iRagc lost connection: Server closed
+[03:27:30] [Server thread/INFO]: iRagc left the game
+[03:27:30] [Server thread/INFO]: Saving worlds
+[03:27:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:27:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:27:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:27:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:27:30] [Server thread/INFO]: [ChunkHolderManager] Saved 26 block chunks, 219 entity chunks, 1 poi chunks in world 'world' in 0.11s
+[03:27:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:27:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:27:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:27:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:27:31] [Server thread/INFO]: [ChunkHolderManager] Saved 186 block chunks, 88 entity chunks, 0 poi chunks in world 'world_nether' in 0.30s
+[03:27:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:27:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:27:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:27:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:27:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[03:27:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_cavernous_the_myst]'/cavernous:the_myst
+[03:27:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_cavernous_the_myst'
+[03:27:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_cavernous_the_myst'
+[03:27:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_cavernous_the_myst'
+[03:27:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 8 entity chunks, 0 poi chunks in world 'world_cavernous_the_myst' in 0.00s
+[03:27:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:27:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:27:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:27:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_myst): All chunks are saved
+[03:27:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
