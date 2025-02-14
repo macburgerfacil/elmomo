@@ -344,3 +344,98 @@
 [00:31:45] [Async Chat Thread - #33/INFO]: [Not Secure] <Torre22932> qSeren
 [00:31:47] [Async Chat Thread - #33/INFO]: [Not Secure] <Torre22932> confirmame
 [00:32:00] [Async Chat Thread - #33/INFO]: [Not Secure] <TeeRobZti> dijo seren que si
+[00:35:15] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[00:35:55] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16492, uuid='4cfd3005-3d7f-469d-bf94-1e6e2416470e', l='ServerLevel[world_nether]', x=-3688.54, y=36.00, z=-9455.18, cpos=[-231, -591], tl=19141, v=true] died: Sanctum Cultist was slain by thenoxplayer
+[00:35:56] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16493, uuid='bab55835-421f-4d1d-8990-a7ee16f3d745', l='ServerLevel[world_nether]', x=-3686.52, y=36.00, z=-9455.55, cpos=[-231, -591], tl=19158, v=true] died: Sanctum Cultist was slain by thenoxplayer
+[00:36:03] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16428, uuid='5e4411d9-c18e-42e8-8097-2bcaf7bb21dc', l='ServerLevel[world_nether]', x=-3684.30, y=30.01, z=-9438.66, cpos=[-231, -590], tl=19298, v=true] died: Sanctum Cultist tried to swim in lava to escape thenoxplayer
+[00:36:04] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16349, uuid='5db5ca51-029e-4e32-a866-9493b582b8d5', l='ServerLevel[world_nether]', x=-3687.07, y=36.50, z=-9439.59, cpos=[-231, -590], tl=19308, v=true] died: Sanctum Cultist was slain by thenoxplayer
+[00:36:20] [Server thread/INFO]: Torre22932 has made the advancement [Strange Biomes]
+[00:36:44] [Server thread/INFO]: iRagc has made the advancement [Into Fire]
+[00:37:06] [Server thread/INFO]: Torre22932 issued server command: /msg iRagc 187 131 167 east
+[00:37:33] [Server thread/INFO]: iRagc was slain by Piglin Brute
+[00:38:15] [Server thread/INFO]: iRagc issued server command: /msg qSeren me haces tp a gatuni? porfa
+[00:39:25] [Server thread/INFO]: Villager Villager['Villager'/22689, uuid='ad988c6e-c278-4d51-a0d7-0a11a07b5ca6', l='ServerLevel[world]', x=1733.15, y=-20.00, z=1155.70, cpos=[108, 72], tl=373353, v=true] died, message: 'Villager was squished too much'
+[00:39:39] [Server thread/INFO]: Named entity Pillager['Sanctum Guardian'/16338, uuid='78a979f2-19bb-49ab-a4db-53ce667a3997', l='ServerLevel[world_nether]', x=-3658.29, y=30.00, z=-9449.20, cpos=[-229, -591], tl=23730, v=true] died: Sanctum Guardian was shot by qSeren
+[00:39:40] [Server thread/INFO]: Named entity Pillager['Sanctum Guardian'/16337, uuid='0d4da72d-5219-46e6-9a7d-620f04cf2232', l='ServerLevel[world_nether]', x=-3657.49, y=30.00, z=-9449.06, cpos=[-229, -591], tl=23751, v=true] died: Sanctum Guardian was shot by qSeren
+[00:40:17] [Server thread/INFO]: Named entity Pillager['Sanctum Guardian'/16339, uuid='41600720-c3a4-4268-9403-7c14ebe8bfe7', l='ServerLevel[world_nether]', x=-3657.39, y=29.06, z=-9452.38, cpos=[-229, -591], tl=24488, v=true] died: Sanctum Guardian was shot by qSeren
+[00:40:29] [Server thread/INFO]: Gatunixdd issued server command: /msg 820 880
+[00:40:31] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/22890, uuid='1b5d3686-e1a4-481e-90bc-a4cd0ed5ad5f', l='ServerLevel[world_nether]', x=1.67, y=42.00, z=-25.84, cpos=[0, -2], tl=9799, v=true] died: Guerrero Bruto burned to death
+[00:40:36] [Server thread/INFO]: Gatunixdd issued server command: /msg iRagc 820 880
+[00:41:10] [Server thread/INFO]: qSeren issued server command: /tp -7582 32 3480
+[00:41:10] [Server thread/INFO]: [qSeren: Teleported qSeren to -7581.500000, 32.000000, 3480.500000]
+[00:41:55] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24214, uuid='0a5142c0-6a45-4c43-abe0-620fd35b7a75', l='ServerLevel[world_nether]', x=-7642.48, y=36.11, z=3479.49, cpos=[-478, 217], tl=24464, v=true] died: Piglin Knight was burned to a crisp while fighting qSeren
+[00:42:09] [Async Chat Thread - #41/INFO]: [Not Secure] <Torre22932> qSeren
+[00:42:11] [Async Chat Thread - #41/INFO]: [Not Secure] <Torre22932> te gusta el peneson?
+[00:42:22] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24220, uuid='dc7de358-a205-4bab-a913-987153b716aa', l='ServerLevel[world_nether]', x=-7650.58, y=35.00, z=3464.58, cpos=[-479, 216], tl=24405, v=true] died: Piglin Knight was slain by qSeren
+[00:42:34] [Async Chat Thread - #41/INFO]: [Not Secure] <qSeren> mas respeto a tu padre bro
+[00:42:45] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16335, uuid='62608882-fd1c-472d-9c6c-4a51bd40f476', l='ServerLevel[world_nether]', x=-3686.30, y=30.00, z=-9467.42, cpos=[-231, -592], tl=27450, v=true] died: Sanctum Cultist was burned to a crisp while fighting thenoxplayer
+[00:42:45] [Server thread/INFO]: Named entity Pillager['Sanctum Apostle'/16185, uuid='559c5a54-0ccd-422f-b819-efc653416d88', l='ServerLevel[world_nether]', x=-3688.30, y=30.00, z=-9468.56, cpos=[-231, -592], tl=25956, v=true] died: Sanctum Apostle was slain by thenoxplayer
+[00:42:46] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/16205, uuid='98e2ace0-27fa-4ec2-ab99-ba8522ef033b', l='ServerLevel[world_nether]', x=-3712.42, y=32.00, z=-9410.83, cpos=[-233, -589], tl=19500, v=true] died: Sanctum Inquisitor burned to death
+[00:42:47] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/16332, uuid='1857bef0-86ae-44c9-b39a-4918b4734243', l='ServerLevel[world_nether]', x=-3687.30, y=31.00, z=-9467.70, cpos=[-231, -592], tl=27499, v=true] died: Sanctum Cultist was slain by thenoxplayer
+[00:42:47] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24238, uuid='3e0fcf5f-8dc8-4338-959f-d40969a9e8a5', l='ServerLevel[world_nether]', x=-7672.49, y=36.00, z=3488.26, cpos=[-480, 218], tl=23818, v=true] died: Piglin Knight was burned to a crisp while fighting qSeren
+[00:42:53] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/24337, uuid='786b145b-77b6-4714-b9bb-b7003d116af6', l='ServerLevel[world_nether]', x=-7671.53, y=62.50, z=3411.73, cpos=[-480, 213], tl=17403, v=true] died: Piglin Paratrooper burned to death
+[00:42:56] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24257, uuid='148bd828-16d2-4cec-b020-63a44a3bca44', l='ServerLevel[world_nether]', x=-7670.15, y=35.50, z=3508.65, cpos=[-480, 219], tl=22502, v=true] died: Piglin Knight was shot by qSeren
+[00:43:09] [Server thread/INFO]: Named entity Hoglin['Dinnerbone'/24404, uuid='7ae5a468-16e2-45df-9ee4-a6d5e3bcc503', l='ServerLevel[world_nether]', x=-7731.50, y=49.00, z=3465.75, cpos=[-484, 216], tl=15278, v=true] died: Dinnerbone burned to death
+[00:43:09] [Server thread/INFO]: Named entity Hoglin['Dinnerbone'/24410, uuid='bdff9251-f018-46f8-ab52-ca62e40c9550', l='ServerLevel[world_nether]', x=-7731.25, y=58.00, z=3450.50, cpos=[-484, 215], tl=13132, v=true] died: Dinnerbone burned to death
+[00:43:15] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24219, uuid='5519702b-3cbe-4db6-a478-9d50a7ccaa13', l='ServerLevel[world_nether]', x=-7670.50, y=36.00, z=3500.70, cpos=[-480, 218], tl=25470, v=true] died: Piglin Knight was shot by qSeren
+[00:43:24] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24258, uuid='cf3bb926-9126-4047-b171-40b489188f80', l='ServerLevel[world_nether]', x=-7668.50, y=35.00, z=3495.30, cpos=[-480, 218], tl=23073, v=true] died: Piglin Knight was slain by qSeren
+[00:44:04] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24260, uuid='987f9845-1361-4450-a18e-280d93903cca', l='ServerLevel[world_nether]', x=-7717.56, y=36.00, z=3477.58, cpos=[-483, 217], tl=18111, v=true] died: Piglin Knight was slain by qSeren
+[00:44:17] [Server thread/INFO]: Torre22932 has made the advancement [A Terrible Fortress]
+[00:44:35] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24338, uuid='d1f343fa-4277-4001-b7f2-5ca89acf1893', l='ServerLevel[world_nether]', x=-7716.79, y=36.00, z=3464.08, cpos=[-483, 216], tl=17137, v=true] died: Piglin Knight was slain by qSeren
+[00:44:51] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24320, uuid='a2252e98-b886-4eb4-b666-e2032b753295', l='ServerLevel[world_nether]', x=-7717.33, y=36.00, z=3463.97, cpos=[-483, 216], tl=20028, v=true] died: Piglin Knight was slain by qSeren using [Blazing Hatchet]
+[00:45:57] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:45:57] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:45:57] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:45:57] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:45:57] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:46:05] [Async Chat Thread - #43/INFO]: [Not Secure] <Gatunixdd> tXDDDDDDDDD
+[00:46:17] [Server thread/INFO]: iRagc has made the advancement [Those Were the Days]
+[00:47:04] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24287, uuid='723ef9d0-a7ca-4eac-9990-047a7fc62b06', l='ServerLevel[world_nether]', x=-7700.63, y=45.00, z=3467.12, cpos=[-482, 216], tl=24205, v=true] died: Piglin Knight was slain by qSeren using [Blazing Hatchet]
+[00:47:26] [Server thread/INFO]: Named entity PiglinBrute['Piglin Alchemist'/24272, uuid='dbcaaa19-ab0a-4b8c-87ca-d3424a0568d0', l='ServerLevel[world_nether]', x=-7717.47, y=45.00, z=3454.16, cpos=[-483, 215], tl=24827, v=true] died: Piglin Alchemist was slain by qSeren
+[00:47:38] [Server thread/INFO]: qSeren issued server command: /tp -7582 32 3480
+[00:47:38] [Server thread/INFO]: [qSeren: Teleported qSeren to -7581.500000, 32.000000, 3480.500000]
+[00:47:42] [Server thread/INFO]: qSeren issued server command: /tp thenoxplayer qSeren
+[00:47:42] [Server thread/INFO]: [qSeren: Teleported thenoxplayer to qSeren]
+[00:47:42] [Server thread/INFO]: thenoxplayer has made the advancement [The Dust Settles]
+[00:48:04] [Server thread/INFO]: thenoxplayer has reached the goal [In the Hall of the Piglin King]
+[00:48:18] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24405, uuid='44032b38-437d-4a00-b500-d99b3f85f3d0', l='ServerLevel[world_nether]', x=-7663.58, y=36.00, z=3449.31, cpos=[-479, 215], tl=21283, v=true] died: Piglin Knight was slain by thenoxplayer
+[00:48:44] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24286, uuid='21eae872-ece6-402f-ac52-c3e7b864da9b', l='ServerLevel[world_nether]', x=-7684.42, y=36.00, z=3465.31, cpos=[-481, 216], tl=25932, v=true] died: Piglin Knight was slain by thenoxplayer
+[00:49:18] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:18] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:18] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:18] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:18] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:18] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:19] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:19] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:19] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:22] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:22] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:22] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:22] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:22] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:22] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:22] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:22] [Server thread/WARN]: Couldn't set damage of loot item 0 minecraft:air
+[00:49:59] [Server thread/INFO]: Named entity PiglinBrute['Piglin Pyromancer'/24277, uuid='eb4c6519-fa2a-42a9-a40b-7a41785933d6', l='ServerLevel[world_nether]', x=-7701.06, y=45.94, z=3473.10, cpos=[-482, 217], tl=26849, v=true] died: Piglin Pyromancer went off with a bang due to a firework fired from [Holy Wrath] by thenoxplayer
+[00:51:35] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24218, uuid='1e32879e-593a-446f-a407-404608fed2c7', l='ServerLevel[world_nether]', x=-7651.33, y=45.00, z=3499.63, cpos=[-479, 218], tl=34947, v=true] died: Piglin Knight was slain by qSeren
+[00:52:06] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24283, uuid='1672d0ef-f70c-470c-a0df-546415aeca71', l='ServerLevel[world_nether]', x=-7697.02, y=54.00, z=3479.97, cpos=[-482, 217], tl=29434, v=true] died: Piglin Knight was slain by qSeren
+[00:52:18] [Async Chat Thread - #45/INFO]: [Not Secure] <Gatunixdd> asd
+[00:52:19] [Async Chat Thread - #46/INFO]: [Not Secure] <Gatunixdd> asd
+[00:52:19] [Async Chat Thread - #46/INFO]: [Not Secure] <Gatunixdd> asd
+[00:52:27] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24263, uuid='eb80df82-5306-4070-9141-e521d8562d25', l='ServerLevel[world_nether]', x=-7684.44, y=45.00, z=3488.30, cpos=[-481, 218], tl=27615, v=true] died: Piglin Knight was doomed to fall
+[00:52:31] [Server thread/INFO]: Torre22932 has made the advancement [Those Were the Days]
+[00:52:49] [Server thread/INFO]: Named entity PiglinBrute['Piglin Alchemist'/24279, uuid='1ca591b0-cc1e-4151-a302-bc737acf19e4', l='ServerLevel[world_nether]', x=-7687.21, y=47.50, z=3490.04, cpos=[-481, 218], tl=30255, v=true] died: Piglin Alchemist was slain by qSeren
+[00:52:52] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24262, uuid='c72db8a7-46a7-4db6-95f1-ebc94b1e3c69', l='ServerLevel[world_nether]', x=-7682.12, y=54.00, z=3479.98, cpos=[-481, 217], tl=28064, v=true] died: Piglin Knight was slain by thenoxplayer
+[00:53:05] [Server thread/INFO]: Torre22932 has made the advancement [War Pigs]
+[00:53:09] [Server thread/INFO]: Torre22932 has made the advancement [Hidden in the Depths]
+[00:53:10] [Server thread/INFO]: Torre22932 has made the advancement [Ice Bucket Challenge]
+[00:53:12] [Async Chat Thread - #46/INFO]: [Not Secure] <TeeRobZti> Guerra de Torres
+[00:53:17] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24271, uuid='d29f3e41-4489-4ba6-ac03-42ef82a66bb9', l='ServerLevel[world_nether]', x=-7687.26, y=46.18, z=3505.44, cpos=[-481, 219], tl=30979, v=true] died: Piglin Knight went off with a bang due to a firework fired from [Holy Wrath] by thenoxplayer
+[00:53:34] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24270, uuid='48d966eb-3f3e-4b27-bae0-d38f6a008c14', l='ServerLevel[world_nether]', x=-7684.57, y=45.00, z=3488.52, cpos=[-481, 218], tl=31311, v=true] died: Piglin Knight was slain by thenoxplayer
+[00:54:52] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24212, uuid='b88d814f-5361-497e-b25b-a3e45df29c84', l='ServerLevel[world_nether]', x=-7663.30, y=45.00, z=3484.87, cpos=[-479, 217], tl=38712, v=true] died: Piglin Knight was shot by thenoxplayer using [Holy Wrath]
+[00:54:52] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24211, uuid='8e15d124-f8cd-4213-85b3-6c4fccdf2206', l='ServerLevel[world_nether]', x=-7663.53, y=45.83, z=3482.25, cpos=[-479, 217], tl=38713, v=true] died: Piglin Knight went off with a bang due to a firework fired from [Holy Wrath] by thenoxplayer
+[00:55:02] [Server thread/INFO]: Named entity PiglinBrute['Piglin Knight'/24210, uuid='c648df6c-0f14-41ce-91c6-e90e0970d358', l='ServerLevel[world_nether]', x=-7685.93, y=45.40, z=3482.52, cpos=[-481, 217], tl=38924, v=true] died: Piglin Knight went off with a bang due to a firework fired from [Holy Wrath] by thenoxplayer
+[00:55:17] [Server thread/INFO]: Named entity PiglinBrute['Piglin Paratrooper'/24241, uuid='5d9e6d25-9ca7-4de8-a375-4359061448f9', l='ServerLevel[world_nether]', x=-7666.09, y=35.00, z=3466.54, cpos=[-480, 216], tl=39241, v=true] died: Piglin Paratrooper was slain by thenoxplayer
+[00:55:21] [Async Chat Thread - #47/INFO]: [Not Secure] <Gatunixdd> SOY UN PUTO SUERTUDOOOOOOOOOOOOOOOOO
+[00:55:22] [Async Chat Thread - #47/INFO]: [Not Secure] <qSeren> d
