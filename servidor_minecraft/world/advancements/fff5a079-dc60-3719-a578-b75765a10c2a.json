@@ -2816,6 +2816,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-02-13 04:08:04 +0000",
+      "minecraft:soul_sand_valley": "2025-02-13 23:53:52 +0000",
       "minecraft:basalt_deltas": "2025-02-12 23:33:01 +0000"
     },
     "done": false
@@ -3117,6 +3118,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2025-02-13 00:29:02 +0000",
+      "incendium:infernal_dunes": "2025-02-13 23:56:29 +0000",
       "incendium:inverted_forest": "2025-02-13 04:01:00 +0000"
     },
     "done": false
@@ -3331,78 +3333,65 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
-      "requirement": "2025-02-13 23:48:25 +0000",
-      "log_spam_fixer": "2025-02-13 23:48:11 +0000"
+      "has_polished_blackstone_bricks": "2025-02-13 23:57:59 +0000"
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 23:48:11 +0000"
+      "has_polished_blackstone_bricks": "2025-02-13 23:57:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 23:48:11 +0000"
+      "has_polished_blackstone_bricks": "2025-02-13 23:57:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 23:48:11 +0000"
+      "has_polished_blackstone_bricks": "2025-02-13 23:57:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 23:48:11 +0000"
+      "loot_bastion_bridge": "2025-02-13 23:59:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 23:48:11 +0000"
+      "has_polished_blackstone_bricks": "2025-02-13 23:57:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 23:48:11 +0000"
+      "has_polished_blackstone_bricks": "2025-02-13 23:57:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "incendium:infernal_dunes/root": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 23:48:11 +0000"
+      "incendium:infernal_dunes": "2025-02-13 23:56:29 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 23:48:11 +0000"
+      "has_polished_blackstone_bricks": "2025-02-13 23:57:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 23:48:11 +0000"
+      "bastion": "2025-02-14 00:00:20 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 23:48:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 23:48:11 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3955
 }
