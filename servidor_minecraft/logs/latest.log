@@ -1176,3 +1176,15 @@ gamerule dokeepinventory false<--[HERE]
 [02:39:18] [Server thread/INFO]: XxLinkGamer21xX lost connection: Disconnected
 [02:39:18] [Server thread/INFO]: [voicechat] Disconnecting client XxLinkGamer21xX
 [02:39:18] [Server thread/INFO]: XxLinkGamer21xX left the game
+[02:58:22] [User Authenticator #16/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
+[02:58:33] [Server thread/INFO]: Gatunixdd joined the game
+[02:58:33] [Server thread/INFO]: Gatunixdd[/100.95.252.69:1833] logged in with entity id 55549 at ([world]1649.7343084499164, -19.0, 1167.300000011921)
+[02:58:34] [Server thread/INFO]: [voicechat] Received secret request of Gatunixdd (18)
+[02:58:34] [Server thread/INFO]: [voicechat] Sent secret to Gatunixdd
+[02:58:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[02:58:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[02:58:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gatunixdd (30c6f3b7-f46c-3424-a802-e7c599266de4) successfully connected to voice chat
+[02:59:21] [Server thread/INFO]: Villager Villager['Villager'/53962, uuid='d9ab07b2-95a9-4b45-9869-3971bcf947d1', l='ServerLevel[world]', x=1733.21, y=-19.96, z=1155.30, cpos=[108, 72], tl=27894, v=true] died, message: 'Villager was squished too much'
+[02:59:21] [Server thread/INFO]: Villager Villager['Villager'/51963, uuid='3346edd9-e279-4c03-9371-b0da6399ed09', l='ServerLevel[world]', x=1733.15, y=-20.00, z=1155.30, cpos=[108, 72], tl=375699, v=true] died, message: 'Villager was squished too much'
+[02:59:23] [Async Chat Thread - #103/INFO]: [Not Secure] <Gatunixdd> La unica puta que conozco es la mamá de lg_santiago_1
+[03:00:19] [Server thread/INFO]: Villager Villager['Villager'/51976, uuid='1a39aaa6-ef7f-46a7-a1ba-e23e6dcbcac6', l='ServerLevel[world]', x=1733.45, y=-20.00, z=1155.30, cpos=[108, 72], tl=936644, v=true] died, message: 'Villager was squished too much'
