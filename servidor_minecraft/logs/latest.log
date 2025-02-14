@@ -1110,3 +1110,47 @@ gamerule dokeepinventory false<--[HERE]
 [02:08:39] [Server thread/INFO]: qSeren issued server command: /gamerule keepInventory
 [02:08:51] [Server thread/INFO]: lg_santiago_1 tried to swim in lava
 [02:08:52] [Async Chat Thread - #81/INFO]: [Not Secure] <XxLinkGamer21xX> Les recomiendo irse a explorar y suicidarse para volver aprovechando el keep
+[02:08:59] [Server thread/INFO]: lg_santiago_1 tried to swim in lava
+[02:09:09] [Server thread/INFO]: lg_santiago_1 tried to swim in lava
+[02:09:47] [Server thread/INFO]: XxLinkGamer21xX issued server command: /msg qSeren ¿Podrías en un rato hacer un zombificador pls?
+[02:09:56] [Server thread/INFO]: qSeren issued server command: /msg XxLinkGamer21xX si}
+[02:10:01] [Server thread/INFO]: XxLinkGamer21xX issued server command: /msg qSeren Grax
+[02:10:01] [Server thread/INFO]: qSeren issued server command: /msg XxLinkGamer21xX voy a cambiar la base de lugar
+[02:10:27] [Server thread/INFO]: XxLinkGamer21xX issued server command: /msg qSeren ¿Por? Y hazlo lo más pronto posible que quiero hacer mi casita
+[02:10:43] [Server thread/INFO]: qSeren issued server command: /msg XxLinkGamer21xX sera en un castillo prohibido
+[02:11:03] [Server thread/INFO]: XxLinkGamer21xX issued server command: /msg qSeren ¿Por?
+[02:11:11] [Server thread/INFO]: qSeren issued server command: /msg XxLinkGamer21xX pq queda piola
+[02:12:42] [Server thread/INFO]: XxLinkGamer21xX issued server command: /msg qSeren ¿Quieres ahorrarte las molestias de construir una casa de 0 y, además, es un fokin castillo todo cool?
+[02:12:48] [Server thread/INFO]: qSeren lost connection: Disconnected
+[02:12:48] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[02:12:48] [Server thread/INFO]: qSeren left the game
+[02:13:28] [User Authenticator #14/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
+[02:13:40] [Server thread/INFO]: Gatunixdd joined the game
+[02:13:40] [Server thread/INFO]: Gatunixdd[/100.95.252.69:1504] logged in with entity id 50024 at ([world]1824.9396397030503, 66.0, 2410.91129983478)
+[02:13:40] [Server thread/INFO]: [voicechat] Received secret request of Gatunixdd (18)
+[02:13:40] [Server thread/INFO]: [voicechat] Sent secret to Gatunixdd
+[02:13:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[02:13:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[02:13:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gatunixdd (30c6f3b7-f46c-3424-a802-e7c599266de4) successfully connected to voice chat
+[02:13:57] [Async Chat Thread - #85/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 panzon, donde andas?=
+[02:14:02] [Async Chat Thread - #85/INFO]: [Not Secure] <lg_santiago_1> en la base
+[02:14:07] [Async Chat Thread - #85/INFO]: [Not Secure] <lg_santiago_1> hay keep
+[02:14:08] [Async Chat Thread - #85/INFO]: [Not Secure] <XxLinkGamer21xX> Con las cariñosas
+[02:14:12] [Async Chat Thread - #85/INFO]: [Not Secure] <Gatunixdd> unite a vc
+[02:14:14] [Async Chat Thread - #85/INFO]: [Not Secure] <Gatunixdd> con razon
+[02:14:20] [Async Chat Thread - #85/INFO]: [Not Secure] <Gatunixdd> c link malcriadazo
+[02:14:25] [Async Chat Thread - #85/INFO]: [Not Secure] <XxLinkGamer21xX> XD
+[02:15:35] [Async Chat Thread - #87/INFO]: [Not Secure] <XxLinkGamer21xX> zzz
+[02:17:41] [Async Chat Thread - #89/INFO]: [Not Secure] <Gatunixdd> si
+[02:17:59] [Async Chat Thread - #89/INFO]: [Not Secure] <Gatunixdd> no
+[02:18:27] [Async Chat Thread - #89/INFO]: [Not Secure] <Gatunixdd> XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+[02:18:42] [User Authenticator #15/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[02:18:46] [Server thread/INFO]: iRagc joined the game
+[02:18:46] [Server thread/INFO]: iRagc[/100.84.182.88:65074] logged in with entity id 51690 at ([world]2175.150545297009, 85.0, 2451.9700802643715)
+[02:18:46] [Server thread/INFO]: [voicechat] Received secret request of iRagc (18)
+[02:18:46] [Server thread/INFO]: [voicechat] Sent secret to iRagc
+[02:18:46] [Server thread/INFO]: lg_santiago_1 fell from a high place
+[02:18:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[02:18:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[02:18:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player iRagc (67ea92e7-d0b5-38d9-9052-76eb288fcd52) successfully connected to voice chat
+[02:19:04] [Async Chat Thread - #89/INFO]: [Not Secure] <iRagc> when te caes desde muy alto
